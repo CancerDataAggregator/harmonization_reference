@@ -146,7 +146,7 @@ def is_not_reported_term(input):
 def get_bucket_status(tumor_bool, peritumoral_bool, normal_bool, not_reported_bool):
     """
     Wrapper for logic to determing which bucket to return -
-    possible buckets: tumor, normal, not_reported, manual_review or undetermined
+    possible buckets: tumor, peritumoral, normal, not_reported, manual_review or undetermined
     """
 
     if tumor_bool + peritumoral_bool + normal_bool + not_reported_bool < 1:
@@ -273,7 +273,6 @@ if __name__ == "__main__":
 
     # excel sheet where input is the first 2 columns and output is last column
     for row in input_df.itertuples():
-
         tt_term = row.tissue_type if len(row.tissue_type.strip()) > 0 else "not reported"
         st_term = row.sample_type if len(row.sample_type.strip()) > 0 else "not reported"
 
@@ -287,3 +286,4 @@ if __name__ == "__main__":
         exit()
 
     output_df.to_csv(f"{input_file.split(',')[0]}_slim.csv", index=False)
+
