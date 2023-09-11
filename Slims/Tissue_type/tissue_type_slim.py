@@ -8,6 +8,7 @@ import pandas as pd
 manual_review = "NOT MAPPED"
 tumor = "Tumor"
 normal = "Normal"
+peritumoral = "Peritumoral"
 not_reported = "Not Reported"
 undetermined = "Undetermined"
 
@@ -65,7 +66,8 @@ def is_tumor_term(input):
 
     exact_tumor_terms = [
         "tumor",
-        "human tumor original cells"
+        "human tumor original cells",
+        "neoplasm"
     ]
     component_tumor_terms = [
         "primary tumor",
@@ -73,8 +75,7 @@ def is_tumor_term(input):
         "blood derived cancer peripheral blood",
         "blood derived cancer bone marrow",
         "recurrent tumor",
-        "new primary",
-        "peritumoral"
+        "new primary"
     ]
 
     exclusion_terms = ["normal"]
@@ -96,11 +97,23 @@ def is_tumor_term(input):
     return True
 
 
+def is_peritumoral_term(input):
+    term = process_input(input)
+
+    peritumoral_terms = ["peritumor", "peritumoral"]
+
+    if any([x in term.split(" ") for x in peritumoral_terms]):
+        return True
+
+    return False
+
+
 def is_normal_term(input):
     term = process_input(input)
 
     normal_terms = [
         "normal",
+        "normal tissue",
         "blood derived normal",
         "solid tissue normal",
         "bone marrow normal",
@@ -130,18 +143,20 @@ def is_not_reported_term(input):
     return False
 
 
-def get_bucket_status(tumor_bool, normal_bool, not_reported_bool):
+def get_bucket_status(tumor_bool, peritumoral_bool, normal_bool, not_reported_bool):
     """
     Wrapper for logic to determing which bucket to return -
     possible buckets: tumor, normal, not_reported, manual_review or undetermined
     """
 
-    if tumor_bool + normal_bool + not_reported_bool < 1:
+    if tumor_bool + peritumoral_bool + normal_bool + not_reported_bool < 1:
         return undetermined
-    if tumor_bool + normal_bool + not_reported_bool > 1:
+    if tumor_bool + peritumoral_bool + normal_bool + not_reported_bool > 1:
         return manual_review
     if tumor_bool:
         return tumor
+    if peritumoral_bool:
+        return peritumoral
     if normal_bool:
         return normal
     if not_reported_bool:
@@ -156,8 +171,9 @@ def bucket_term(term):
 
     is_tumor = is_tumor_term(term)
     is_normal = is_normal_term(term)
+    is_peritumoral = is_peritumoral_term(term)
     is_not_reported = is_not_reported_term(term)
-    return get_bucket_status(is_tumor, is_normal, is_not_reported)
+    return get_bucket_status(is_tumor, is_peritumoral, is_normal, is_not_reported)
 
 
 def return_tissue_type_bucket(tissue_type_bucket, sample_type_bucket):
@@ -187,6 +203,12 @@ def return_sample_type_bucket(tissue_type_bucket, sample_type_bucket):
     return False
 
 
+def is_tumor_type_bucket(bucket):
+    if bucket == tumor or bucket == peritumoral:
+        return True
+    return False
+
+
 def requires_manual_review(tissue_type_bucket, sample_type_bucket):
     """Logic to determine if value needs manual review."""
 
@@ -194,10 +216,10 @@ def requires_manual_review(tissue_type_bucket, sample_type_bucket):
             and sample_type_bucket == undetermined:
         return True
 
-    if tissue_type_bucket == tumor and sample_type_bucket == normal:
+    if is_tumor_type_bucket(tissue_type_bucket) and sample_type_bucket == normal:
         return True
 
-    if tissue_type_bucket == normal and sample_type_bucket == tumor:
+    if tissue_type_bucket == normal and is_tumor_type_bucket(sample_type_bucket):
         return True
 
     if tissue_type_bucket == manual_review:
