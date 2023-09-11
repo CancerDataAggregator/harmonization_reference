@@ -269,9 +269,8 @@ if __name__ == "__main__":
     input_df = pd.read_csv(input_file, usecols=['sample_type', 'tissue_type'], sep=sep)
 
     output_df = input_df
-    output_df['slim'] = ''
+    output_df['slim'] = ''      # create empty slim column in output dataframe
 
-    # excel sheet where input is the first 2 columns and output is last column
     for row in input_df.itertuples():
         tt_term = row.tissue_type if len(row.tissue_type.strip()) > 0 else "not reported"
         st_term = row.sample_type if len(row.sample_type.strip()) > 0 else "not reported"
@@ -279,7 +278,7 @@ if __name__ == "__main__":
         tt_bucket = bucket_term(tt_term)
         st_bucket = bucket_term(st_term)
         slim = compare_concept_values(tt_bucket, st_bucket)
-        output_df.loc[row.Index, 'slim'] = slim
+        output_df.loc[row.Index, 'slim'] = slim     # add slim value to output dataframe
 
     if preview_mode:
         print(output_df)
