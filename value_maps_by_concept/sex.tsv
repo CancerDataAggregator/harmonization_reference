@@ -1,9 +1,15 @@
 unharmonized value	harmonized value
+0	null
 0000	__CDA_UNASSIGNED__
 6657	null
 f	female
 female	female
 m	male
 male	male
+not reported	null
+not specified in data	null
+null	null
 o	null
 u	null
+unknown	null
+unspecified	null

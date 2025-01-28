@@ -19,6 +19,7 @@ unharmonized value	harmonized value
 [1]	null
 a	null
 american indian	null
+anonymized	null
 anonymous	null
 arab or middle e	null
 asian	null
@@ -33,11 +34,25 @@ caucasian	null
 ethnicgrp11356	null
 ethnicgrp1682	null
 ethnicgrp1683	null
+ethnicgrp1728	null
 ethnicgrp1730	null
 ethnicgrp3013	null
+ethnicgrp3195	null
+ethnicgrp3404	null
 ethnicgrp3874	null
+ethnicgrp3909	null
+ethnicgrp3971	null
+ethnicgrp4164	null
+ethnicgrp4422	null
+ethnicgrp4546	null
+ethnicgrp4742	null
+ethnicgrp4818	null
+ethnicgrp5017	null
 ethnicgrp5108	null
 ethnicgrp5109	null
+ethnicgrp5744	null
+ethnicgrp5745	null
+ethnicgrp6483	null
 ethnicgrp6529	null
 ethnicgrp867	null
 ethnicgrp868	null
@@ -48,6 +63,7 @@ ethnicgrp873	null
 ethnicgrp875	null
 ethnicgrp876	null
 ethnicgrp877	null
+ethnicity	null
 h	Hispanic or Latino
 hispanic	__CDA_UNASSIGNED__
 hispanic latino	Hispanic or Latino
@@ -55,6 +71,7 @@ hispanic or lati	Hispanic or Latino
 hispanic or latino	Hispanic or Latino
 hispanic/latino	Hispanic or Latino
 hispanic/spanish	Hispanic or Latino
+m	Hispanic or Latino
 mexican, mexican	Hispanic or Latino
 more than one	null
 mx amerind hisp	__CDA_UNASSIGNED__
@@ -76,12 +93,19 @@ non-hispanic [8]	Non-Hispanic
 non-hispanic [9]	Non-Hispanic
 non-hispanic non	Non-Hispanic
 non-hispanic/non	Non-Hispanic
+not allowed to collect	null
 not hispanic lat	Non-Hispanic
 not hispanic or	Non-Hispanic
 not hispanic or latino	Non-Hispanic
 not hispanic, la	__CDA_UNASSIGNED__
+not reported	null
+null	null
 pacific islander	null
 patient declined	null
+patient refused	null
+removed	null
+unk	null
+unknown	null
 unknown [3]	null
 w	null
 wh	null

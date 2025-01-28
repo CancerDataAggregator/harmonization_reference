@@ -1,0 +1,74 @@
+unharmonized value	harmonized value
+acquisition context sr storage	__CDA_UNASSIGNED__
+advanced blending presentation state storage	__CDA_UNASSIGNED__
+aggregated somatic mutation	__CDA_UNASSIGNED__
+aligned reads	__CDA_UNASSIGNED__
+aligned reads index	__CDA_UNASSIGNED__
+allele-specific copy number segment	__CDA_UNASSIGNED__
+annotated somatic mutation	__CDA_UNASSIGNED__
+archive	__CDA_UNASSIGNED__
+biospecimen supplement	__CDA_UNASSIGNED__
+breast projection x-ray image storage - for presentation	__CDA_UNASSIGNED__
+breast projection x-ray image storage - for processing	__CDA_UNASSIGNED__
+breast tomosynthesis image storage	__CDA_UNASSIGNED__
+clinical supplement	__CDA_UNASSIGNED__
+comprehensive 3d sr storage	__CDA_UNASSIGNED__
+comprehensive sr storage	__CDA_UNASSIGNED__
+computed radiography image storage	__CDA_UNASSIGNED__
+copy number segment	__CDA_UNASSIGNED__
+ct image storage	__CDA_UNASSIGNED__
+differential gene expression	__CDA_UNASSIGNED__
+digital mammography x-ray image storage - for presentation	__CDA_UNASSIGNED__
+digital mammography x-ray image storage - for processing	__CDA_UNASSIGNED__
+digital x-ray image storage - for presentation	__CDA_UNASSIGNED__
+digital x-ray image storage - for processing	__CDA_UNASSIGNED__
+document	__CDA_UNASSIGNED__
+encapsulated stl storage	__CDA_UNASSIGNED__
+enhanced sr storage	__CDA_UNASSIGNED__
+gene expression quantification	__CDA_UNASSIGNED__
+gene level copy number	__CDA_UNASSIGNED__
+grayscale softcopy presentation state storage	__CDA_UNASSIGNED__
+isoform expression quantification	__CDA_UNASSIGNED__
+key object selection document storage	__CDA_UNASSIGNED__
+masked copy number segment	__CDA_UNASSIGNED__
+masked intensities	__CDA_UNASSIGNED__
+masked somatic mutation	__CDA_UNASSIGNED__
+methylation beta value	__CDA_UNASSIGNED__
+microscopy bulk simple annotations storage	__CDA_UNASSIGNED__
+mirna expression quantification	__CDA_UNASSIGNED__
+mr image storage	__CDA_UNASSIGNED__
+multi-frame grayscale byte secondary capture image storage	__CDA_UNASSIGNED__
+nuclear medicine image storage	__CDA_UNASSIGNED__
+open standard	__CDA_UNASSIGNED__
+pathology report	__CDA_UNASSIGNED__
+positron emission tomography image storage	__CDA_UNASSIGNED__
+proprietary	__CDA_UNASSIGNED__
+protein expression quantification	__CDA_UNASSIGNED__
+raw cgi variant	__CDA_UNASSIGNED__
+raw data storage	__CDA_UNASSIGNED__
+raw intensities	__CDA_UNASSIGNED__
+raw simple somatic mutation	__CDA_UNASSIGNED__
+real world value mapping storage	__CDA_UNASSIGNED__
+rt dose storage	__CDA_UNASSIGNED__
+rt plan storage	__CDA_UNASSIGNED__
+rt structure set storage	__CDA_UNASSIGNED__
+secondary capture image storage	__CDA_UNASSIGNED__
+segmentation storage	__CDA_UNASSIGNED__
+simple germline variation	__CDA_UNASSIGNED__
+single cell analysis	__CDA_UNASSIGNED__
+slide image	__CDA_UNASSIGNED__
+slide microscopy	__CDA_UNASSIGNED__
+somatic mutation index	__CDA_UNASSIGNED__
+spatial registration storage	__CDA_UNASSIGNED__
+splice junction quantification	__CDA_UNASSIGNED__
+structural rearrangement	__CDA_UNASSIGNED__
+text	__CDA_UNASSIGNED__
+tissue microarray image	__CDA_UNASSIGNED__
+transcript fusion	__CDA_UNASSIGNED__
+ultrasound image storage	__CDA_UNASSIGNED__
+ultrasound multi-frame image storage	__CDA_UNASSIGNED__
+vl whole slide microscopy image storage	__CDA_UNASSIGNED__
+web	__CDA_UNASSIGNED__
+x-ray angiographic image storage	__CDA_UNASSIGNED__
+x-ray radiation dose sr storage	__CDA_UNASSIGNED__
+x-ray radiofluoroscopic image storage	__CDA_UNASSIGNED__

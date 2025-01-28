@@ -1,4 +1,15 @@
 unharmonized value	harmonized value
+1	null
+2	null
+3	null
+4	null
+5	null
+6	null
+7	null
+95	null
+96	null
+98	null
+99	null
 american indian or alaska native	American Indian or Alaska Native
 american indian or alaska native;white	__CDA_UNASSIGNED__
 asian	Asian
@@ -8,7 +19,13 @@ asian;white	__CDA_UNASSIGNED__
 black or african american	Black or African American
 black or african american;native hawaiian or other pacific islander	__CDA_UNASSIGNED__
 black or african american;white	More than one race
+chinese	Asian
 native hawaiian or other pacific islander	Native Hawaiian or Other Pacific Islander
 native hawaiian or other pacific islander;white	__CDA_UNASSIGNED__
+not allowed to collect	null
+not reported	null
+null	null
+other	null
+unknown	null
 unknown;white	__CDA_UNASSIGNED__
 white	White
