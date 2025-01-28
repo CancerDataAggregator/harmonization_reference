@@ -1,0 +1,673 @@
+unharmonized value	UBERON id	UBERON name
+abdomen	UBERON:0000916	abdomen
+abdomen and pelvis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+abdomen, arm, bladder, chest, head-neck, kidney, leg, retroperitoneum, stomach, uterus	null	null
+abdomen, mediastinum	null	null
+abdomen, nos	UBERON:0000916	abdomen
+abdomen, pelvis	UBERON:0002355	pelvic region of trunk
+abdominal lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+abdominal wall	UBERON:0003697	abdominal wall
+adipose tissue	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+adrenal	UBERON:0002369	adrenal gland
+adrenal cortex	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+adrenal gland	UBERON:0002369	adrenal gland
+adrenal gland, nos	UBERON:0002369	adrenal gland
+adrenal glands	UBERON:0002369	adrenal gland
+ampulla of vater	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+anal canal	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+anterior floor of mouth	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+anterior mediastinum	UBERON:0008820	anterior mediastinum
+anterior wall of bladder	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+anterior wall of nasopharynx	UBERON:0001707	nasal cavity
+anus	UBERON:0001245	anus
+anus, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aorta	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aortic body and other paraganglia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aortic lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+appendix	UBERON:0001154	vermiform appendix
+arm, bladder, buttock, colon, liver, myometrium, pancreas, rectum, shoulder, scapula	null	null
+arm, nos	UBERON:0001460	arm
+ascending colon	UBERON:0001156	ascending colon
+auricular appendage	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+autonomic nervous system, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+axilla	UBERON:0009472	axilla
+axillary lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+axillary tail of breast	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+back	UBERON:0001137	dorsum
+back, nos	UBERON:0001137	dorsum
+basal ganglia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+basal ganglia,temporal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+basal ganglia,thalamus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+base of skull	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+base of tongue	UBERON:0010033	posterior part of tongue
+base of tongue, nos	UBERON:0010033	posterior part of tongue
+bilary tract	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+bile duct	UBERON:0002394	bile duct
+biliary tract, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+bladder	null	null
+bladder apex	null	null
+bladder apex-mid	null	null
+bladder mid	UBERON:0001255	urinary bladder
+bladder mid-trigone	UBERON:0001257	trigone of urinary bladder
+bladder mucosa	null	null
+bladder neck	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+bladder trigone	UBERON:0001257	trigone of urinary bladder
+bladder trigone-urethra	null	null
+bladder, nos	UBERON:0001255	urinary bladder
+bladder, prostate	null	null
+bladder, unknown	UBERON:0001255	urinary bladder
+bladder, urethra	null	null
+bladder, urethra, prostate	null	null
+bladder, urethra, vagina	null	null
+blood	UBERON:0000178	blood
+blood, bone	null	null
+body of pancreas	UBERON:0001264	pancreas
+body of stomach	UBERON:0000945	stomach
+body, total	UBERON:0013702	body proper
+bone	UBERON:0002481	bone tissue
+bone (appendicular)	UBERON:0002428	limb bone
+bone (axial)	UBERON:0005944	axial skeleton plus cranial skeleton
+bone marrow	UBERON:0002371	bone marrow
+bone of limb, nos	UBERON:0002428	limb bone
+bone structure of left humerus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+bone, nos	UBERON:0002481	bone tissue
+bones of skull and face and associated joints	UBERON:0003128	cranium
+bones of skull and face and associated joints (excludes mandible c41.1)	UBERON:0003128	cranium
+bones, joints and articular cartilage of limbs	UBERON:0002091	appendicular skeleton
+bones, joints and articular cartilage of other and unspecified sites	UBERON:0002091	appendicular skeleton
+border of tongue	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+brain	UBERON:0000955	brain
+brain phantom	null	null
+brain stem	UBERON:0002298	brainstem
+brain stem- midbrain/tectum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+brain stem- midbrain/tectum,brain stem- pons,cerebellum/posterior fossa	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+brain stem- midbrain/tectum,cerebellum/posterior fossa,occipital lobe,optic pathway,parietal lobe,temporal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+brain stem- midbrain/tectum,ventricles	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+brain stem- pons,brain stem-medulla,cerebellum/posterior fossa,spinal cord- cervical	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+brain stem- pons,brain stem-medulla,spinal cord- cervical,spinal cord- thoracic,suprasellar/hypothalamic/pituitary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+brain stem- pons,cerebellum/posterior fossa	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+brain stem-medulla,ventricles	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+brain, nos	UBERON:0000955	brain
+breast	UBERON:0000310	breast
+breast, nos	UBERON:0000310	breast
+breast, unknown	UBERON:0000310	breast
+bronchus	UBERON:0002185	bronchus
+bronchus and lung	UBERON:0002048	lung
+brow	UBERON:0008200	forehead
+buccal mucosa	UBERON:0006956	buccal mucosa
+buffy coat	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+buttock	UBERON:0013691	buttock
+buttock, nos	UBERON:0013691	buttock
+c02.9 : tongue, nos	UBERON:0001723	tongue
+calf	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cardia, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+carpus	null	null
+cauda equina	null	null
+cecum	UBERON:0001153	caecum
+central nervous system	UBERON:0001017	central nervous system
+cerebellar	UBERON:0002037	cerebellum
+cerebellum	UBERON:0002037	cerebellum
+cerebellum, nos	UBERON:0002037	cerebellum
+cerebellum/posterior fossa	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebellum/posterior fossa,frontal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebellum/posterior fossa,hippocampus,other locations nos,spinal cord- thoracic,temporal lobe,thalamus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebellum/posterior fossa,meninges/dura,spinal cord- cervical,spinal cord- thoracic,ventricles	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebellum/posterior fossa,optic pathway,other locations nos,suprasellar/hypothalamic/pituitary,thalamus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebellum/posterior fossa,other locations nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebellum/posterior fossa,spinal cord- cervical,spinal cord- lumbar/thecal sac,spinal cord- thoracic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebellum/posterior fossa,suprasellar/hypothalamic/pituitary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebellum/posterior fossa,ventricles	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebral cortex	UBERON:0000956	cerebral cortex
+cerebral ventricle	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cerebrum	UBERON:0001893	telencephalon
+cervical spine	UBERON:0006072	cervical region of vertebral column
+cervix	UBERON:0000002	uterine cervix
+cervix uteri	UBERON:0000002	uterine cervix
+cervix uteri, unknown	UBERON:0000002	uterine cervix
+cheek	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cheek mucosa	UBERON:0006956	buccal mucosa
+chest	UBERON:0001443	chest
+chest wall	UBERON:0016435	chest wall
+chest wall, nos	UBERON:0016435	chest wall
+chest, nos	UBERON:0001443	chest
+chest-abdomen-pelvis, leg, tspine	null	null
+chin	UBERON:0008199	chin
+choroid	null	null
+choroid of eye	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+ciliary body	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+clitoris	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+colon	UBERON:0001155	colon
+colon, nos	UBERON:0001155	colon
+colorectal	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+conjunctiva	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+connective subcutaneous and other soft tissues of head face and neck	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+connective, subcutaneous and other soft tissues	UBERON:0002072	hypodermis
+connective, subcutaneous and other soft tissues of abdomen	UBERON:0002072	hypodermis
+connective, subcutaneous and other soft tissues of head, face, and neck	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+connective, subcutaneous and other soft tissues of head, face, and neck (excludes connective tissue of orbit c69.6 and nasal cartilage c30.0)	UBERON:0002072	hypodermis
+connective, subcutaneous and other soft tissues of lower limb and hip	UBERON:0002072	hypodermis
+connective, subcutaneous and other soft tissues of pelvis	UBERON:0002072	hypodermis
+connective, subcutaneous and other soft tissues of thorax	UBERON:0002072	hypodermis
+connective, subcutaneous and other soft tissues of thorax (excludes thymus c37.9, heart and mediastinum c38._)	UBERON:0002072	hypodermis
+connective, subcutaneous and other soft tissues of trunk, nos	UBERON:0002072	hypodermis
+connective, subcutaneous and other soft tissues of upper limb and shoulder	UBERON:0002072	hypodermis
+connective, subcutaneous and other soft tissues, nos	UBERON:0002072	hypodermis
+coronary artery	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+corpus uteri	UBERON:0009853	body of uterus
+corpus uteri, unknown	UBERON:0009853	body of uterus
+cortex of adrenal gland	UBERON:0001235	adrenal cortex
+cranial and/or facial bone	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+cranial nerve, nos	UBERON:0001785	cranial nerve
+craniopharyngeal duct	UBERON:0016881	craniopharyngeal canal
+cutis	UBERON:0002067	dermis
+descended testis	UBERON:0000473	testis
+descending colon	UBERON:0001158	descending colon
+distal urethra	UBERON:0000057	urethra
+dome of bladder	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+duodenum	UBERON:0002114	duodenum
+ear	UBERON:0001690	ear
+effusion	null	null
+elbow joint	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+endocervix	UBERON:0000458	endocervix
+endometrium	UBERON:0001295	endometrium
+entire body	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+epididymis	UBERON:0001301	epididymis
+esophageal mucous membrane	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+esophageal muscle	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+esophagus	UBERON:0001043	esophagus
+esophagus, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+ethmoid sinus	UBERON:0002453	ethmoid sinus
+exocervix	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+external auditory canal	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+external ear	UBERON:0001690	ear
+external upper lip	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+extrahepatic bile duct	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+extremities	UBERON:0002101	limb
+extremity	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+eye	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+eye and adnexa	null	null
+eye, nos	UBERON:0000970	eye
+eyelid	UBERON:0001711	eyelid
+fallopian tube	UBERON:0003889	fallopian tube
+female genital tract, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+femur	UBERON:0000981	femur
+floor of mouth	UBERON:0003679	mouth floor
+floor of mouth, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+foot	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+forearm	UBERON:0002102	forelimb
+forehead	UBERON:0008200	forehead
+frontal lobe	UBERON:0016525	frontal lobe
+frontal lobe,parietal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+frontal lobe,parietal lobe,temporal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+frontal lobe,suprasellar/hypothalamic/pituitary,thalamus,ventricles	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+fundus of stomach	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+fundus uteri	UBERON:0009853	body of uterus
+gallbladder	UBERON:0002110	gallbladder
+gastric antrum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+gastroesophageal junction	UBERON:0007650	esophagogastric junction
+gastrointestinal tract	UBERON:0005409	alimentary part of gastrointestinal system
+gastrointestinal tract, nos	UBERON:0005409	alimentary part of gastrointestinal system
+genitourinary, nos	UBERON:0004122	genitourinary system
+groin	UBERON:0008337	inguinal part of abdomen
+gum	UBERON:0001828	gingiva
+gum, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+hand	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+hard palate	UBERON:0003216	hard palate
+head	UBERON:0000033	head
+head & neck	UBERON:0007811	craniocervical region
+head - face or neck, nos	UBERON:0007811	craniocervical region
+head and neck	UBERON:0007811	craniocervical region
+head and neck lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+head of pancreas	UBERON:0001069	head of pancreas
+head, face or neck, nos	UBERON:0007811	craniocervical region
+head-neck	UBERON:0007811	craniocervical region
+head/neck	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+heart	UBERON:0000948	heart
+heart, mediastinum, and pleura	UBERON:0005178	thoracic cavity element
+hematopoietic and reticuloendothelial systems	UBERON:0002405	immune system
+hematopoietic system, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+hemispheric	null	null
+hepatic flexure	UBERON:0022277	hepatic flexure of colon
+hepatic flexure of colon	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+hepatic lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+humerus	UBERON:0000976	humerus
+hypopharynx	UBERON:0001051	hypopharynx
+hypopharynx, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+ileum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+iliac chain node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+ilium	UBERON:0001273	ilium
+inferior vena cava	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+infratemporal fossa	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+inguinal lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+inguinal region	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+innominate bone and/or sacrum and/or coccyx	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+intestinal tract, nos	UBERON:0000160	intestine
+intestine	UBERON:0000160	intestine
+intra-abdominal lymph nodes	UBERON:0002507	abdominal lymph node
+intrahepatic bile duct	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+intraocular	UBERON:0000970	eye
+intrathoracic lymph nodes	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+invalid values	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+isthmus uteri	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+jejunum	UBERON:0002115	jejunum
+kidney	UBERON:0002113	kidney
+kidney, nos	UBERON:0002113	kidney
+kidney, unknown	UBERON:0002113	kidney
+large bowel	UBERON:0000059	large intestine
+larynx	UBERON:0001737	larynx
+larynx, nos	UBERON:0001737	larynx
+larynx, unknown	UBERON:0001737	larynx
+lateral wall of bladder	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lateral wall of nasopharynx	UBERON:0035383	lateral wall of nasopharynx
+left adrenal	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left adrenal gland	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left inguinal lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left kidney	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left lung	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left neck lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left ovary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left pelvic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left renal	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left renal vein	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left upper paratracheal (supra-aortic) mediastinal lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+leg	UBERON:0000978	leg
+leptomeninges	UBERON:0000391	leptomeninx
+lesser curvature of stomach, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lip	UBERON:0001833	lip
+lip, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+liver	UBERON:0002107	liver
+liver and intrahepatic bile ducts	UBERON:0002423	hepatobiliary system
+liver, spleen, heart	null	null
+long bone of lower limb	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+long bone of upper limb	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+long bones of lower limb and associated joints	UBERON:0003608	hindlimb long bone
+long bones of upper limb, scapula and  associated joints	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+long bones of upper limb, scapula and associated joints	UBERON:0001440	forelimb skeleton
+lower gum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lower leg	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lower limb	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lower limb lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lower limb, nos	UBERON:0002103	hindlimb
+lower lobe of lung	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lower lobe of the lung	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lower lobe, lung	UBERON:0008949	lower lobe of lung
+lower third of esophagus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lower-inner quadrant of breast	UBERON:0035477	lower inner quadrant of breast
+lower-inner quadrant of the breast	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lower-outer quadrant of breast	UBERON:0035365	lower outer quadrant of breast
+lower-outer quadrant of the breast	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lumbar spine	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lung	UBERON:0002048	lung
+lung phantom	null	null
+lung, caudal aspect of left caudal lobe	UBERON:0008953	lower lobe of left lung
+lung, caudal right lobe	UBERON:0002171	lower lobe of right lung
+lung, cranial left lobe	UBERON:0008953	lower lobe of left lung
+lung, nos	UBERON:0002048	lung
+lung/bronchus	UBERON:0002048	lung
+lung/bronchus, unknown	UBERON:0002048	lung
+lymph node	UBERON:0000029	lymph node
+lymph node(s) axilla	UBERON:0001097	axillary lymph node
+lymph node(s) cervical	UBERON:0002429	cervical lymph node
+lymph node(s) hilar	UBERON:0039167	bronchopulmonary lymph node
+lymph node(s) iliac-common	UBERON:0015878	common iliac lymph node
+lymph node(s) inguinal	UBERON:0001542	inguinal lymph node
+lymph node(s) mammary	UBERON:0035219	parasternal lymph node
+lymph node(s) mesenteric	UBERON:0002509	mesenteric lymph node
+lymph node(s) paraaortic	UBERON:0016386	paraaortic lymph node
+lymph node(s) pelvic	UBERON:0001542	inguinal lymph node
+lymph node(s) regional	UBERON:0000029	lymph node
+lymph node(s) retroperitoneal	UBERON:0035371	retroperitoneal lymph node
+lymph node(s) splenic	UBERON:0015469	splenic lymph node
+lymph node(s) submandibular	UBERON:0002520	submandibular lymph node
+lymph node(s) supraclavicular	UBERON:0035279	supraclavicular lymph node
+lymph node, nos	UBERON:0000029	lymph node
+lymph node, popliteal	UBERON:0001543	popliteal lymph node
+lymph node, unknown	UBERON:0000029	lymph node
+lymph nodes	UBERON:0000029	lymph node
+lymph nodes of axilla or arm	UBERON:0001097	axillary lymph node
+lymph nodes of body as a whole	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lymph nodes of head, face and neck	UBERON:0015871	facial lymph node
+lymph nodes of inguinal region or leg	UBERON:0001542	inguinal lymph node
+lymph nodes of multiple regions	UBERON:0000029	lymph node
+lymph nodes(s) mediastinal	UBERON:0002524	mediastinal lymph node
+lymphocytes	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lymphoid tissue	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+main bronchus	UBERON:0002185	bronchus
+major salivary gland, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+mammary gland	UBERON:0001911	mammary gland
+mandible	UBERON:0001684	mandible
+mandible, mucosa	UBERON:0001684	mandible
+marrow and blood	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+maxilla	UBERON:0002397	maxilla
+maxillary sinus	UBERON:0001764	maxillary sinus
+mediastinal lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+mediastinal soft tissue	UBERON:0003728	mediastinum
+mediastinum	UBERON:0003728	mediastinum
+mediastinum, nos	UBERON:0003728	mediastinum
+medulla of adrenal gland	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+meninges	UBERON:0010743	meningeal cluster
+meninges, nos	UBERON:0010743	meningeal cluster
+mesenteric lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+mesentery	null	null
+mesothelium	null	null
+middle ear	UBERON:0001756	middle ear
+middle lobe of right lung	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+middle lobe, lung	UBERON:0008955	middle lobe of lung
+middle third of esophagus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+midline	null	null
+minor salivary gland	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+mouth	UBERON:0000165	mouth
+mouth, lingual	null	null
+mouth, mandible, mucosa	null	null
+mouth, maxilla, mucosa	null	null
+mouth, nos	UBERON:0000165	mouth
+mucosa of lip	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+muscle	UBERON:0001630	muscle organ
+muscle, nos	UBERON:0001630	muscle organ
+myometrium	UBERON:0001296	myometrium
+nasal cavity	UBERON:0001707	nasal cavity
+nasal cavity (excludes nose, nos c76.0)	UBERON:0001707	nasal cavity
+nasal cavity and middle ear	null	null
+nasal sinus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+nasopharynx	UBERON:0001728	nasopharynx
+nasopharynx, nos	UBERON:0001728	nasopharynx
+neck	UBERON:0000974	neck
+neoplasm of unknown origin	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+nervous system	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+nervous system, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+nodule of lung	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+nose	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+occipital cortex	UBERON:0016540	occipital cortex
+occipital lobe	UBERON:0002021	occipital lobe
+occipital lobe,parietal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+occipital lobe,parietal lobe,temporal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+occipital lobe,suprasellar/hypothalamic/pituitary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+occipital lobe,temporal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+ocular orbits	null	null
+omentum	UBERON:0003688	omentum
+optic nerve	UBERON:0001783	optic disc
+optic pathway	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+optic pathway,suprasellar/hypothalamic/pituitary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+optic pathway,suprasellar/hypothalamic/pituitary,temporal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+optic pathway,suprasellar/hypothalamic/pituitary,thalamus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+oral cavity	UBERON:0000165	mouth
+orbit	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+orbit, nos	UBERON:0001697	orbit of skull
+oropharyngeal tonsil	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+oropharynx	UBERON:0001729	oropharynx
+oropharynx, nos	UBERON:0001729	oropharynx
+other and ill defined digestive organs icd-o-3	UBERON:0001007	digestive system
+other and ill-defined digestive organs	UBERON:0001007	digestive system
+other and ill-defined sites	null	null
+other and ill-defined sites in lip, oral cavity and pharynx	UBERON:0013472	upper esophagus
+other and ill-defined sites in lip, oral cavity and pharynx icd-o-3	UBERON:0013472	upper esophagus
+other and ill-defined sites in lip, oral cavity and pharynx icd-o-3, unknown	UBERON:0013472	upper esophagus
+other and ill-defined sites within respiratory system and intrathoracic organs	UBERON:0001004	respiratory system
+other and unspecified female genital organs	UBERON:0003134	female reproductive organ
+other and unspecified major salivary glands	UBERON:0001832	sublingual gland
+other and unspecified male genital organs	UBERON:0000079	male reproductive system
+other and unspecified parts of biliary tract	UBERON:0002294	biliary system
+other and unspecified parts of mouth	UBERON:0000165	mouth
+other and unspecified parts of tongue	UBERON:0001723	tongue
+other and unspecified parts of tongue icd-o-3	UBERON:0001723	tongue
+other endocrine glands and related structures	UBERON:0002368	endocrine gland
+other ill-defined sites	null	null
+other locations nos,spinal cord- lumbar/thecal sac,spinal cord- thoracic,temporal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+other locations nos,spinal cord- lumbar/thecal sac,spinal cord- thoracic,ventricles	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+other specified parts of female genital organs	UBERON:0003134	female reproductive organ
+ovary	UBERON:0000992	ovary
+ovary, unknown	UBERON:0000992	ovary
+overlapping lesion of brain	null	null
+overlapping lesion of brain and central nervous system	null	null
+overlapping lesion of breast	null	null
+overlapping lesion of colon	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of connective, subcutaneous and other soft tissues	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of digestive system	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of eye and adnexa	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of female genital organs	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of ill-defined sites	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of lip, oral cavity and pharynx	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of lung	null	null
+overlapping lesion of nasopharynx	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of pancreas	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of rectum, anus and anal canal	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of respiratory system and intrathoracic organs	null	null
+overlapping lesion of retroperitoneum and peritoneum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+overlapping lesion of the breast	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+palate	UBERON:0007375	roof of mouth
+palate, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pancreas	UBERON:0001264	pancreas
+pancreas, nos	UBERON:0001264	pancreas
+pancreas, unknown	UBERON:0001264	pancreas
+pancreatic duct	UBERON:0007329	pancreatic duct
+pancreatic neck	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pancreatic structure	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+para aortic lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+paraaortic body	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+paraspinal	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+paravertebral	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+parietal lobe	UBERON:0001872	parietal lobe
+parietal lobe,temporal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+parotid gland	UBERON:0001831	parotid gland
+pelvic bones, sacrum, coccyx and associated joints	UBERON:0012179	bone of pelvis
+pelvic lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pelvic lymph nodes	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pelvic mass	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pelvis	UBERON:0002355	pelvic region of trunk
+pelvis, nos	UBERON:0002355	pelvic region of trunk
+pelvis, prostate, anus	null	null
+penis	UBERON:0000989	penis
+penis, nos	UBERON:0000989	penis
+perianal region	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+perigastric lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+perihepatic node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+perihepatic region	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+perineum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+perineum, nos	UBERON:0002356	perineum
+peripancreatic lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+peripheral nerves and autonomic nervous system	UBERON:0001016	nervous system
+peripheral nerves and autonomic nervous system of abdomen	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+peripheral nerves and autonomic nervous system of head, face, and neck	null	null
+peripheral nerves and autonomic nervous system of pelvis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+peripheral nerves and autonomic nervous system of thorax	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+peripheral nerves and autonomic nervous system of trunk, nos	UBERON:0003439	nerve of trunk region
+peripheral nerves and autonomic nervous system of upper limb and shoulder	UBERON:0003441	forelimb nerve
+periprostatic tissue	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+perirectal region	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+peritoneal cavity	UBERON:0001179	peritoneal cavity
+peritoneum	UBERON:0002358	peritoneum
+peritoneum, nos	UBERON:0002358	peritoneum
+phantom	null	null
+pharynx	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pharynx, nos	UBERON:0006562	pharynx
+pineal gland	UBERON:0034715	pineal tract
+pinna	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pituitary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pituitary gland	UBERON:0000007	pituitary gland
+pleura	UBERON:0000977	pleura
+pleura, nos	UBERON:0000977	pleura
+pleural cavity	UBERON:0002402	pleural cavity
+pleural effusion	UBERON:0000175	pleural effusion
+posterior abdominal wall structure	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+posterior mediastinum	UBERON:0008822	posterior mediastinum
+posterior wall of bladder	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+posterior wall of oropharynx	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+prostate	UBERON:0002367	prostate gland
+prostate gland	UBERON:0002367	prostate gland
+prostate gland, unknown	UBERON:0002367	prostate gland
+pterygoid muscle	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pterygoid region	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pulmonary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pyloric antrum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pylorus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+radius	null	null
+rectosigmoid junction	UBERON:0036214	rectosigmoid junction
+rectosigmoid region	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+rectum	UBERON:0001052	rectum
+rectum, nos	UBERON:0001052	rectum
+renal cortex	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+renal medulla	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+renal pelvis	UBERON:0001224	renal pelvis
+respiratory and/or intrathoracic structure	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+retina	UBERON:0000966	retina
+retromolar area	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+retroperitoneal lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+retroperitoneal mass	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+retroperitoneum	null	null
+retroperitoneum and peritoneum	null	null
+retropharyngeal space	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+rib	UBERON:0002228	rib
+rib, sternum and/or clavicle	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+rib, sternum, clavicle and associated joints	UBERON:0014477	thoracic skeleton
+right adrenal	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+right adrenal gland	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+right inguinal lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+right kidney	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+right lung	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+right lung met	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+right ovary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+right pelvic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+root of tongue	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+salivary gland	UBERON:0001832	sublingual gland
+scalp	UBERON:0000403	scalp
+scrotum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+scrotum, nos	UBERON:0001300	scrotum
+short bone of lower limb	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+short bone of upper limb	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+short bones of lower limb and associated joints	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+short bones of upper limb and associated joints	null	null
+shoulder	UBERON:0001467	shoulder
+shoulder, nos	UBERON:0001467	shoulder
+sigmoid colon	UBERON:0001159	sigmoid colon
+sinus	null	null
+skeletal	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skeletal muscle	UBERON:0001134	skeletal muscle tissue
+skin	UBERON:0002097	skin of body
+skin of lower leg	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skin of lower limb	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skin of lower limb and hip	UBERON:0001554	skin of hip
+skin of other and unspecified parts of face	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skin of scalp and neck	UBERON:0012180	head or neck skin
+skin of suprapubic region	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skin of the lower limb and hip	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skin of the scalp and neck	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skin of the trunk	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skin of the upper limb and shoulder	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skin of trunk	UBERON:0001085	skin of trunk
+skin of upper limb and shoulder	UBERON:0003531	forelimb skin
+skin, nos	UBERON:0002097	skin of body
+skin, nos (excludes skin of labia majora c51.0, skin of vulva c51.9, skin of penis c60.9 and skin of scrotum c63.2)	UBERON:0002097	skin of body
+skin, unknown	UBERON:0002097	skin of body
+skull	UBERON:0003129	skull
+small bowel	UBERON:0002108	small intestine
+small intestine	UBERON:0002108	small intestine
+small intestine, nos	UBERON:0002108	small intestine
+soft palate	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+soft palate, nos (excludes nasopharyngeal surface of soft palate c11.3)	UBERON:0001733	soft palate
+soft tissue	null	null
+soft tissue of abdomen	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+soft tissue of lower extremity	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+soft tissue of pelvis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+soft tissue of thorax	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+soft tissue of trunk	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+soft tissue of upper extremity	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+soft tissues of head and neck	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+specified parts of peritoneum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+spermatic cord	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+sphenoid sinus	UBERON:0001733	soft palate
+spinal column	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+spinal cord	UBERON:0002240	spinal cord
+spinal cord, cranial nerves, and other parts of central nervous system	UBERON:0001017	central nervous system
+spinal cord- cervical	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+spinal cord- cervical,spinal cord- thoracic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+spinal cord- lumbar/thecal sac	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+spinal cord- lumbar/thecal sac,spinal cord- thoracic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+spinal meninges	UBERON:0003292	meninx of spinal cord
+spine	UBERON:0001130	vertebral column
+spleen	UBERON:0002106	spleen
+splenic flexure of colon	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+stomach	UBERON:0000945	stomach
+stomach, nos	UBERON:0000945	stomach
+subcutaneous tissue	null	null
+subcutis	null	null
+submandibular gland	UBERON:0001736	submandibular gland
+superior wall of nasopharynx	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+supraglottis	UBERON:0036263	supraglottic part of larynx
+suprasellar/hypothalamic/pituitary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+tail of pancreas	UBERON:0001151	tail of pancreas
+temporal cortex	UBERON:0016538	temporal cortex
+temporal lobe	UBERON:0001871	temporal lobe
+temporal lobe,thalamus,ventricles	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+temporal region	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+testicle	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+testicles	UBERON:0000473	testis
+testis	UBERON:0000473	testis
+testis, nos	UBERON:0000473	testis
+thalamus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+thigh	UBERON:0000376	hindlimb stylopod
+thigh, nos	UBERON:0000376	hindlimb stylopod
+thoracic esophagus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+thorax	UBERON:0000915	thoracic segment of trunk
+thorax, nos	UBERON:0000915	thoracic segment of trunk
+thymus	UBERON:0002370	thymus
+thyroid	UBERON:0002046	thyroid gland
+thyroid gland	UBERON:0002046	thyroid gland
+thyroid gland, unknown	UBERON:0002046	thyroid gland
+tibia	UBERON:0000979	tibia
+tibial artery	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+tibial nerve	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+tongue	UBERON:0001723	tongue
+tongue, nos	UBERON:0001723	tongue
+tonsil	UBERON:0002372	tonsil
+tonsil, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+trachea	UBERON:0003126	trachea
+transverse colon	UBERON:0001157	transverse colon
+trigone of bladder	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+umbilical cord	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+unknowm	null	null
+unknown primary site	null	null
+upper arm	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+upper gum	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+upper limb	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+upper limb lymph node	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+upper limb, nos	UBERON:0008785	upper limb segment
+upper lobe of lung	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+upper lobe of the lung	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+upper lobe, lung	UBERON:0008948	upper lobe of lung
+upper third of esophagus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+upper urinary tract	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+upper-inner quadrant of breast	UBERON:0035542	upper inner quadrant of breast
+upper-inner quadrant of the breast	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+upper-outer quadrant of breast	UBERON:0035328	upper outer quadrant of breast
+upper-outer quadrant of the breast	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+urachus	UBERON:0002068	urachus
+ureter	UBERON:0000056	ureter
+ureteric orifice	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+urethra	UBERON:0000057	urethra
+urethra mid-distal	UBERON:0000057	urethra
+urethra, prostate	null	null
+urinary bladder	UBERON:0001255	urinary bladder
+urinary bladder structure	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+urinary system	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+urinary system, nos	UBERON:0001008	renal system
+urogenital tract	UBERON:0001008	renal system
+uterus	UBERON:0000995	uterus
+uterus, nos	UBERON:0000995	uterus
+uvea	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+uvula	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+vagina	UBERON:0000996	vagina
+vagina, nos	UBERON:0000996	vagina
+various	null	null
+vein	UBERON:0001638	vein
+ventral surface of tongue, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+ventricle, nos	UBERON:0002082	cardiac ventricle
+ventricles	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+vertebral bone lesion	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+vertebral column	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+vertebral column (excludes sacrum and coccyx c41.4)	UBERON:0001130	vertebral column
+vestibule of mouth	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+vulva	UBERON:0000997	mammalian vulva
+vulva, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+whole blood	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+whole body	UBERON:0000468	multicellular organism
+wrist joint	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__

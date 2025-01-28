@@ -1,0 +1,12 @@
+cda_table	cda_column	concept_map_name
+mutation	primary_site	anatomic_site
+researchsubject	primary_diagnosis_site	anatomic_site
+specimen	anatomical_site	anatomic_site
+treatment	treatment_anatomic_site	anatomic_site
+subject	cause_of_death	cause_of_death
+subject	ethnicity	ethnicity
+file	file_format	file_format
+diagnosis	grade	grade
+subject	race	race
+subject	sex	sex
+subject	species	species

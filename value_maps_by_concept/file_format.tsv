@@ -1,0 +1,61 @@
+unharmonized value	harmonized value
+bai	BAI
+bam	BAM
+bcr auxiliary xml	BCR Auxiliary XML
+bcr biotab	BCR Biotab
+bcr omf xml	BCR OMF XML
+bcr pps xml	BCR PPS XML
+bcr ssf xml	BCR SSF XML
+bcr xml	BCR XML
+bed	BED
+bedgraph	BEDGRAPH
+bedpe	BEDPE
+bw	BW
+cdc json	CDC JSON
+cdf	cdf
+cel	CEL
+cns	CNS
+crai	CRAI
+cram	CRAM
+csv	CSV
+dicom	DICOM
+dict	DICT
+doc	DOC
+docx	DOCX
+fasta	FASTA
+fastq	FASTQ
+gvcf	GVCF
+gz	GZ
+hdf5	HDF5
+hic	HIC
+html	HTML
+idat	IDAT
+idpdb	idpDB
+jpeg 2000	JPEG
+json	JSON
+maf	MAF
+mex	MEX
+mzidentml	mzIdentML
+mzml	mzML
+nifti	NIFTI
+ome-tiff	TIFF
+pdf	PDF
+ped	PED
+png	PNG
+rds	RDS
+rtf	RTF
+seg	SEG
+svg	SVG
+svs	SVS
+tar	TAR
+tar.gz	TAR.GZ
+tbi	TBI
+tif	TIFF
+tiff	TIFF
+tsv	TSV
+txt	TXT
+vcf	VCF
+vendor-specific	null
+xls	XLS
+xlsx	XLSX
+zip	ZIP
