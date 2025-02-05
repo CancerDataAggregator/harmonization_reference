@@ -486,10 +486,6 @@ nervous system, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 nodule of lung	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 none	null	null
 nose	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-not applicable	null	null
-not reported	null	null
-not specified in data	null	null
-null	null	null
 occipital cortex	UBERON:0016540	occipital cortex
 occipital lobe	UBERON:0002021	occipital lobe
 occipital lobe,parietal lobe	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -510,7 +506,6 @@ orbit, nos	UBERON:0001697	orbit of skull
 oropharyngeal tonsil	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 oropharynx	UBERON:0001729	oropharynx
 oropharynx, nos	UBERON:0001729	oropharynx
-other	null	null
 other (please specify)	null	null
 other and ill defined digestive organs icd-o-3	UBERON:0001007	digestive system
 other and ill-defined digestive organs	UBERON:0001007	digestive system
@@ -781,7 +776,6 @@ trigone of bladder	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 trunk	UBERON:0002100	trunk
 umbilical cord	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 unknowm	null	null
-unknown	null	null
 unknown - uterus nos	UBERON:0000995	uterus
 unknown primary site	null	null
 upper arm	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__

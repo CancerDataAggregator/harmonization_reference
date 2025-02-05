@@ -7,10 +7,6 @@ hcc recurrence	Cancer-Related Death
 infection	Infection
 metastasis	Cancer-Related Death
 none	null
-not applicable	null
 not cancer related	Non-Cancer Related Death
-not reported	null
-null	null
 surgical complications	Surgical Complication
 toxicity	Toxicity
-unknown	null
