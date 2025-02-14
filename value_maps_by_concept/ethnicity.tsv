@@ -1,12 +1,12 @@
 unharmonized value	harmonized value
-01	__CDA_UNASSIGNED__
-02	__CDA_UNASSIGNED__
+01	null
+02	null
 1	null
 10	null
 102	null
 104	null
 2	null
-2106-3	__CDA_UNASSIGNED__
+2106-3	null
 2131-1	null
 3	null
 5	null
@@ -25,7 +25,7 @@ asian	null
 b	null
 black	null
 black or african	null
-black+amerindian	__CDA_UNASSIGNED__
+black+amerindian	null
 c	null
 ca	null
 caucasi	null
@@ -64,7 +64,7 @@ ethnicgrp876	null
 ethnicgrp877	null
 ethnicity	null
 h	Hispanic or Latino
-hispanic	__CDA_UNASSIGNED__
+hispanic	Hispanic or Latino
 hispanic latino	Hispanic or Latino
 hispanic or lati	Hispanic or Latino
 hispanic or latino	Hispanic or Latino
@@ -73,16 +73,16 @@ hispanic/spanish	Hispanic or Latino
 m	Hispanic or Latino
 mexican, mexican	Hispanic or Latino
 more than one	null
-mx amerind hisp	__CDA_UNASSIGNED__
-mx amerind white	__CDA_UNASSIGNED__
-mx asian black	__CDA_UNASSIGNED__
-mx asian hisp	__CDA_UNASSIGNED__
-mx asian white	__CDA_UNASSIGNED__
-mx black hisp	__CDA_UNASSIGNED__
-mx black hisp wh	__CDA_UNASSIGNED__
-mx black white	__CDA_UNASSIGNED__
-mx hisp white	__CDA_UNASSIGNED__
-mx pacific white	__CDA_UNASSIGNED__
+mx amerind hisp	Hispanic or Latino
+mx amerind white	null
+mx asian black	null
+mx asian hisp	Hispanic or Latino
+mx asian white	null
+mx black hisp	Hispanic or Latino
+mx black hisp wh	Hispanic or Latino
+mx black white	null
+mx hisp white	Hispanic or Latino
+mx pacific white	null
 n	Non-Hispanic
 native hawaiian	null
 non hispanic/lat	Non-Hispanic
@@ -95,14 +95,14 @@ non-hispanic/non	Non-Hispanic
 not hispanic lat	Non-Hispanic
 not hispanic or	Non-Hispanic
 not hispanic or latino	Non-Hispanic
-not hispanic, la	__CDA_UNASSIGNED__
+not hispanic, la	Non-Hispanic
 pacific islander	null
 patient declined	null
 unknown [3]	null
 w	null
 wh	null
 white	null
-white+amerindian	__CDA_UNASSIGNED__
+white+amerindian	null
 white, not hisp.	Non-Hispanic
 white-ns	Non-Hispanic
 wht	null

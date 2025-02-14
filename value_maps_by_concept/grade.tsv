@@ -1,7 +1,7 @@
 unharmonized value	harmonized value
 2	Intermediate Grade G2
-3	__CDA_UNASSIGNED__
-4	__CDA_UNASSIGNED__
+3	High Grade G3
+4	Anaplastic
 g1	Low Grade G1
 g2	Intermediate Grade G2
 g3	High Grade G3
@@ -11,7 +11,7 @@ gx	null
 high	High Grade G3
 high grade	High Grade G3
 intermediate grade	Intermediate Grade G2
-low	__CDA_UNASSIGNED__
+low	Low Grade G1
 low grade	Low Grade G1
-medium	__CDA_UNASSIGNED__
+medium	Intermediate Grade G2
 none	null
