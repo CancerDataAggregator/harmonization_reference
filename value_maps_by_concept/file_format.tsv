@@ -12,7 +12,7 @@ bedgraph	BEDGRAPH
 bedpe	BEDPE
 bw	BW
 cdc json	CDC JSON
-cdf	cdf
+cdf	CDF
 cel	CEL
 cns	CNS
 crai	CRAI
@@ -36,7 +36,7 @@ jpeg 2000	JPEG
 json	JSON
 maf	MAF
 mex	MEX
-mtx	mtx
+mtx	MTX
 mzidentml	mzIdentML
 mzml	mzML
 nifti	NIFTI
