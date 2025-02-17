@@ -11,16 +11,16 @@ unharmonized value	harmonized value
 98	null
 99	null
 american indian or alaska native	American Indian or Alaska Native
-american indian or alaska native;white	__CDA_UNASSIGNED__
+american indian or alaska native;white	More than one race
 asian	Asian
-asian;black or african american	__CDA_UNASSIGNED__
-asian;native hawaiian or other pacific islander	__CDA_UNASSIGNED__
-asian;white	__CDA_UNASSIGNED__
+asian;black or african american	More than one race
+asian;native hawaiian or other pacific islander	More than one race
+asian;white	More than one race
 black or african american	Black or African American
-black or african american;native hawaiian or other pacific islander	__CDA_UNASSIGNED__
+black or african american;native hawaiian or other pacific islander	More than one race
 black or african american;white	More than one race
 chinese	Asian
 native hawaiian or other pacific islander	Native Hawaiian or Other Pacific Islander
-native hawaiian or other pacific islander;white	__CDA_UNASSIGNED__
-unknown;white	__CDA_UNASSIGNED__
+native hawaiian or other pacific islander;white	More than one race
+unknown;white	null
 white	White
