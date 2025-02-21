@@ -107,7 +107,7 @@ unharmonized value	ICD-O-3 code	ICD-O-3 harmonized display name
 9680/3 : diffuse large b-cell lymphoma, nos	9680/3	Diffuse large B-cell lymphoma, NOS
 9687/3 : burkitt lymphoma, nos	9687/3	Burkitt lymphoma, NOS
 9699/3 : marginal zone b-cell lymphoma, nos	9699/3	Marginal zone B-cell lymphoma, NOS
-9700/3 : mycosis fungoides, 9751/1 : langerhans cell histiocytosis, nos	9700/3	Mycosis fungoides
+9700/3 : mycosis fungoides, 9751/1 : langerhans cell histiocytosis, nos	null	null
 9709/3 : cutaneous t-cell lymphoma, nos	9709/3	Cutaneous T-cell lymphoma, NOS
 9714/3 : anaplastic large cell lymphoma, t-cell and null-cell type	9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type
 9716/3 : hepatosplenic t-cell lymphoma, 9835/3 : precursor cell lymphoblastic leukemia, nos	null	null
@@ -136,12 +136,12 @@ unharmonized value	ICD-O-3 code	ICD-O-3 harmonized display name
 9970/1 : lymphoproliferative disorder, nos	9970/1	Lymphoproliferative disorder, NOS
 9989/3 : myelodysplastic syndrome, nos	9989/3	Myelodysplastic syndrome, NOS
 999 : unknown, to be completed later	null	null
-9acute myeloid leukemia, minimal differentiation	9872/3	Acute myeloid leukemia, minimal differentiation
+acute myeloid leukemia, minimal differentiation	9872/3	Acute myeloid leukemia, minimal differentiation
 acral lentiginous melanoma, malignant	8744/3	Acral melanoma
 acute leukemia, nos	9801/3	Acute leukemia, NOS
 acute lymphoblastic leukemia, nos	9835/3	Precursor cell lymphoblastic leukemia, NOS
 acute myeloid leukaemia, t(8;21)(q22;q22)	9891/3	Acute monocytic leukemia
-acute myeloid leukemia with myelodysplasia-related changes, juvenile myelomonocytic leukemia, nos	null	null
+acute myeloid leukemia with myelodysplasia-related changes, juvenile myelomonocytic leukemia, nos	9801/	Acute leukemia, NOS
 acute myeloid leukemia, cbf-beta/myh11	9871/3	Acute myeloid leukemia with abnormal marrow eosinophils
 acute myeloid leukemia, inv(16)(p13;q22)	9871/3	Acute myeloid leukemia with abnormal marrow eosinophils
 acute myeloid leukemia, m6 type	9840/3	Acute erythroid leukemia
@@ -169,7 +169,7 @@ adenocarcinoma, pancreatobiliary type	8163/3	Pancreatobiliary type carcinoma
 adenocarcinoma, pancreatobiliary type, pancreatobiliary-type carcinoma	8163/3	Pancreatobiliary type carcinoma
 adenocarcinoma, with mucinous and signet ring features	8140/3	Adenocarcinoma, NOS
 adenocarcinoma, with mucinous features	8140/3	Adenocarcinoma, NOS
-adenocarcinoma,nos, glioblastoma, nos	null	null
+adenocarcinoma,nos, glioblastoma, nos	8000/1	null
 adenoma, nos	8140/0	Adenoma, NOS
 adrenal cortical adenoma, nos	8370/0	Adrenal cortical adenoma, NOS
 adrenal cortical tumor, nos	8370/0	Adrenal cortical adenoma, NOS
@@ -218,11 +218,11 @@ carcinoma, undifferentiated, nos	8010/3	Carcinoma, NOS
 carcinosarcoma, nos	8980/3	Carcinosarcoma, NOS
 central osteosarcoma, nos	9186/3	Central osteosarcoma, NOS
 cerebellar tumor: high-grade, small blue round cell tumor	8806/3	Desmoplastic small round cell tumor
-cervical squamous cell carcinoma, endocervical adenocarcinoma	null	null
+cervical squamous cell carcinoma, endocervical adenocarcinoma	8000/3	null
 chondroblastoma, nos	9230/1	Chondroblastoma, NOS
 chondrosarcoma, nos	9220/3	Chondrosarcoma, NOS
 chordoma, nos	9370/3	Chordoma, NOS
-chordoma, nos, ganglioneuroblastoma	null	null
+chordoma, nos, ganglioneuroblastoma	8000/1	null
 choriocarcinoma, nos	9101/3	Choriocarcinoma combined with other germ cell elements
 choroid plexus carcinoma, cns who grade 3	9390/3	Choroid plexus carcinoma
 choroid plexus carcinoma, tp53 mutant	9390/3	Choroid plexus carcinoma
@@ -332,7 +332,7 @@ frontal tumor, favor infant-type hemispheric glioma	8000/1	Neoplasm, uncertain w
 ganglioglioma, anaplastic	9505/3	Ganglioglioma, anaplastic
 ganglioglioma, benign	9505/1	Ganglioglioma, NOS
 ganglioglioma, nos	9505/1	Ganglioglioma, NOS
-ganglioglioma, nos, malignant peripheral nerve sheath tumor, nos	null	null
+ganglioglioma, nos, malignant peripheral nerve sheath tumor, nos	8000/3	null
 ganglioglioma, who grade i	9505/1	Ganglioglioma, NOS
 ganglioma, cns who grade 1	9505/1	Ganglioglioma, NOS
 ganglioneuroblastoma, nodular; unfavorable histology	9490/3	Ganglioneuroblastoma
@@ -348,7 +348,7 @@ glial neoplasm, appearing pilocytic	9380/3	Glioma, malignant
 glial neoplasm, favor ependymoma	9380/3	Glioma, malignant
 glioblastoma, idh wildtype	9440/3	Glioblastoma, NOS
 glioblastoma, nos	9440/3	Glioblastoma, NOS
-glioblastoma, nos, medulloblastoma, nos	null	null
+glioblastoma, nos, medulloblastoma, nos	8000/3	null
 glioma, histologically consistent with pilocytic astrocytoma, cns who grade 1	9380/3	Glioma, malignant
 glioma, malignant	9380/3	Glioma, malignant
 glioma, malignant, malignant peripheral nerve sheath tumor, nos	9380/3	Glioma, malignant
@@ -369,7 +369,7 @@ hepatoblastoma, nos	8970/3	Hepatoblastoma, NOS
 hepatocellular carcinoma, clear cell type	8174/3	Hepatocellular carcinoma, clear cell type
 hepatocellular carcinoma, fibrolamellar	8171/3	Hepatocellular carcinoma, fibrolamellar
 hepatocellular carcinoma, nos	8170/3	Hepatocellular carcinoma, NOS
-hepatocellular carcinoma, nos, nephroblastoma, nos	null	null
+hepatocellular carcinoma, nos, nephroblastoma, nos	8000/3	null
 hepatocellular carcinoma, spindle cell variant	8173/3	Hepatocellular carcinoma, spindle cell variant
 hepatosplenic t-cell lymphoma, precursor cell lymphoblastic leukemia, nos	9716/3	Hepatosplenic T-cell lymphoma
 high grade cellular, malignant neoplasm with necrosis and cellular pleomorphism r/o medulloblastoma	8000/3	Neoplasm, malignant
@@ -399,7 +399,7 @@ intraductal carcinoma, noninfiltrating, nos	8500/2	Intraductal carcinoma, noninf
 intraductal carcinoma, nos	8500/2	Intraductal carcinoma, noninfiltrating, NOS
 intraductal papillary-mucinous carcinoma, invasive	8453/3	Intraductal Papillary mucinous neoplasm with an associated invasive carcinoma
 intraductal papillary/mucinous carcinoma, invasive	8453/3	Intraductal Papillary mucinous neoplasm with an associated invasive carcinoma
-intradural tumor with marked atypia c/w malignant lesion, marked atypia c/w malignant lesion, marked atypia consistent with malignant lesion	null	null
+intradural tumor with marked atypia c/w malignant lesion, marked atypia c/w malignant lesion, marked atypia consistent with malignant lesion	8000/3	null
 intraventricular thalamopeduncular resection :diffuse midline glioma, h3 k27m altered who grade 4	9385/3	Diffuse midline glioma, H3 K27M-mutant
 islet cell tumor, nos	8150/3	Pancreatic neuroendocrine tumor, nonfunctioning
 juvenile myelomonocytic leukemia, nos	9946/3	Juvenile myelomonocytic leukemia, NOS
@@ -500,9 +500,9 @@ metastatic adenocarcinoma, with neuroendocrine features	8140/6	Adenocarcinoma, m
 metastatic disease, bladder cancer, breast cancer, colon cancer, kidney cancer, lung cancer, prostate cancer, soft-tissue sarcoma, skin cancer	null	null
 metastatic nasopharyngeal carcinoma, nonkeratinizing squamous cell carcinoma subtype	8010/6	Carcinoma, metastatic, NOS
 micropapillary carcinoma, nos	8265/3	Micropapillary carcinoma, NOS
-mixed adenocarcinoma and squamous cell carcinoma, pancreatobiliary-type carcinoma	null	null
-mixed germ cell tumor, acute megakaryoblastic leukemia	null	null
-mixed germ cell tumor, myelodysplastic syndrome with excess blasts	null	null
+mixed adenocarcinoma and squamous cell carcinoma, pancreatobiliary-type carcinoma	8000/3	null
+mixed germ cell tumor, acute megakaryoblastic leukemia	8000/3	null
+mixed germ cell tumor, myelodysplastic syndrome with excess blasts	8000/3	null
 mixed malignant germ cell tumor with components of embryonal carcinoma, choriocarcinoma, and mature teratoma	9085/3	Mixed germ cell tumor
 mixed phenotype acute leukemia, b/myeloid, nos	9808/3	Mixed phenotype acute leukemia, B/myeloid, NOS
 mixed phenotype acute leukemia, t/myeloid, nos	9809/3	Mixed phenotype acute leukemia, T/myeloid, NOS
@@ -2394,7 +2394,6 @@ undifferentiated round cell malignancy	8803/3	Small cell sarcoma
 undifferentiated round cell sarcoma	8803/3	Small cell sarcoma
 undifferentiated sarcoma	8805/3	Undifferentiated sarcoma
 undifferentiated small round cell sarcoma	8803/3	Small cell sarcoma
-unharmonized value	ICD-O-3 code	ICD-O-3 harmonized display name
 untreated primary (de novo) gbm	9440/3	Glioblastoma, NOS
 urinalysis on 2/11/21: consistent with a transitional cell carcinoma. the degree of transitional cell atypia is marked	null	null
 urinary bladder (organoid)	null	null
