@@ -1,25 +1,25 @@
 unharmonized value	UBERON id	UBERON name
 abdomen	UBERON:0000916	abdomen
-abdomen and pelvis	UBERON:0002417	__CDA_UNASSIGNED__
+abdomen and pelvis	UBERON:0002417	abdominal segment of trunk
 abdomen nos	UBERON:0000916	abdomen
 abdomen, arm, bladder, chest, head-neck, kidney, leg, retroperitoneum, stomach, uterus	null	null
-abdomen, mediastinum	UBERON:0002100	null
+abdomen, mediastinum	UBERON:0002100	trunk
 abdomen, nos	UBERON:0000916	abdomen
 abdomen, pelvis	UBERON:0002355	pelvic region of trunk
-abdominal lymph node	UBERON:0002507	__CDA_UNASSIGNED__
+abdominal lymph node	UBERON:0002507	abdominal lymph node
 abdominal wall	UBERON:0003697	abdominal wall
 accessory sinuses	UBERON:0001825	paranasal sinus
-adipose tissue	UBERON:0001013	__CDA_UNASSIGNED__
+adipose tissue	UBERON:0001013	adipose tissue
 adrenal	UBERON:0002369	adrenal gland
-adrenal cortex	UBERON:0001235	__CDA_UNASSIGNED__
+adrenal cortex	UBERON:0001235	adrenal cortex
 adrenal gland	UBERON:0002369	adrenal gland
 adrenal gland nos	UBERON:0002369	adrenal gland
 adrenal gland, nos	UBERON:0002369	adrenal gland
 adrenal glands	UBERON:0002369	adrenal gland
 alveolar ridge	UBERON:0004103	alveolar ridge
-ampulla of vater	UBERON:0004913	__CDA_UNASSIGNED__
-anal canal	UBERON:0000159	__CDA_UNASSIGNED__
-anterior floor of mouth	UBERON:0003679	__CDA_UNASSIGNED__
+ampulla of vater	UBERON:0004913	hepatopancreatic ampulla
+anal canal	UBERON:0000159	anal canal
+anterior floor of mouth	UBERON:0003679	mouth floor
 anterior mediastinum	UBERON:0008820	anterior mediastinum
 anterior wall of bladder	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anterior wall of nasopharynx	UBERON:0001707	nasal cavity
