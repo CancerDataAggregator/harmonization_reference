@@ -1,4 +1,4 @@
-unharmonized value  ICD-O-3 code  ICD-O-3 harmonized display name
+unharmonized value	ICD-O-3 code	ICD-O-3 harmonized display name
 8000/0 : neoplasm, benign	8000/0	Neoplasm, benign
 8000/1 : neoplasm, uncertain whether benign or malignant	8000/1	Neoplasm, uncertain whether benign or malignant
 8000/3 : neoplasm, malignant	8000/3	Neoplasm, malignant
@@ -11,17 +11,17 @@ unharmonized value  ICD-O-3 code  ICD-O-3 harmonized display name
 8120/3 : transitional cell carcinoma, nos	8120/3	Transitional cell carcinoma, NOS
 8130/2 : papillary urothelial carcinoma, non-invasive	8130/2	Papillary urothelial carcinoma, non-invasive
 8140/3 : adenocarcinoma, nos	8140/3	Adenocarcinoma, NOS
-8140/3 : adenocarcinoma, nos, 9440/3 : glioblastoma, nos	8140/3	Adenocarcinoma, NOS
+8140/3 : adenocarcinoma, nos, 9440/3 : glioblastoma, nos	null	null
 8140/6 : adenocarcinoma, metastatic, nos	8140/6	Adenocarcinoma, metastatic, NOS
 8150/3 : pancreatic neuroendocrine tumor, nonfunctioning	8150/3	Pancreatic neuroendocrine tumor, nonfunctioning
 8170/3 : hepatocellular carcinoma, nos	8170/3	Hepatocellular carcinoma, NOS
-8170/3 : hepatocellular carcinoma, nos, 8960/3 : nephroblastoma, nos	8170/3	Hepatocellular carcinoma, NOS
+8170/3 : hepatocellular carcinoma, nos, 8960/3 : nephroblastoma, nos	null	null
 8171/3 : hepatocellular carcinoma, fibrolamellar	8171/3	Hepatocellular carcinoma, fibrolamellar
 8240/3 : neuroendocrine tumor, nos	8240/3	Neuroendocrine tumor, NOS
 8246/3 : neuroendocrine carcinoma, nos	8246/3	Neuroendocrine carcinoma, NOS
 8260/3 : papillary adenocarcinoma, nos	8260/3	Papillary adenocarcinoma, NOS
 8312/3 : renal cell carcinoma, nos	8312/3	Renal cell carcinoma, NOS
-8331/3 : follicular adenocarcinoma, well differentiated, 9500/3 : neuroblastoma, nos	8331/3	Follicular adenocarcinoma, well differentiated
+8331/3 : follicular adenocarcinoma, well differentiated, 9500/3 : neuroblastoma, nos	null	null
 8441/3 : serous carcinoma, nos	8441/3	Serous carcinoma, NOS
 8510/3 : medullary carcinoma, nos	8510/3	Medullary carcinoma, NOS
 8580/3 : thymoma, nos	8580/3	Thymoma, NOS
@@ -51,7 +51,7 @@ unharmonized value  ICD-O-3 code  ICD-O-3 harmonized display name
 9041/3 : synovial sarcoma, spindle cell	9041/3	Synovial sarcoma, spindle cell
 9043/3 : synovial sarcoma, biphasic	9043/3	Synovial sarcoma, biphasic
 9044/3 : clear cell sarcoma, nos	9044/3	Clear cell sarcoma, NOS
-9053/3 : mesothelioma, biphasic, malignant, 9811/3 : b lymphoblastic leukemia/lymphoma, nos	9053/3	Mesothelioma, biphasic, malignant
+9053/3 : mesothelioma, biphasic, malignant, 9811/3 : b lymphoblastic leukemia/lymphoma, nos	null	null
 9061/3 : seminoma, nos	9061/3	Seminoma, NOS
 9065/3 : germ cell tumor, nonseminomatous	9065/3	Germ cell tumor, nonseminomatous
 9070/3 : embryonal carcinoma, nos	9070/3	Embryonal carcinoma, NOS
@@ -141,7 +141,7 @@ acral lentiginous melanoma, malignant	8744/3	Acral melanoma
 acute leukemia, nos	9801/3	Acute leukemia, NOS
 acute lymphoblastic leukemia, nos	9835/3	Precursor cell lymphoblastic leukemia, NOS
 acute myeloid leukaemia, t(8;21)(q22;q22)	9891/3	Acute monocytic leukemia
-acute myeloid leukemia with myelodysplasia-related changes, juvenile myelomonocytic leukemia, nos	9895/3	Acute myeloid leukemia with myelodysplasia-related changes
+acute myeloid leukemia with myelodysplasia-related changes, juvenile myelomonocytic leukemia, nos	null	null
 acute myeloid leukemia, cbf-beta/myh11	9871/3	Acute myeloid leukemia with abnormal marrow eosinophils
 acute myeloid leukemia, inv(16)(p13;q22)	9871/3	Acute myeloid leukemia with abnormal marrow eosinophils
 acute myeloid leukemia, m6 type	9840/3	Acute erythroid leukemia
@@ -524,7 +524,7 @@ myofibroblastic tumor, peribronchial	8827/1	Myofibroblastic tumor, peribronchial
 myxoma, nos	8840/0	Myxoma, NOS
 myxopapillary ependymoma, cns who grade 2	9394/1	Myxopapillary ependymoma
 nasopharyngeal carcinoma, non-keratinizing squamous cell carcinoma type	8072/3	Squamous cell carcinoma, large cell, nonkeratinizing, NOS
-neoplasm, benign	8000/3	Neoplasm, malignant
+neoplasm, benign	8000/0	Neoplasm, malignant
 neoplasm, malignant	8000/3	Neoplasm, malignant
 neoplasm, malignant, uncertain whether primary or metastatic	8000/3	Neoplasm, malignant
 neoplasm, metastatic	8000/6	Neoplasm, metastatic
