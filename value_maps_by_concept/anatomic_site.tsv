@@ -162,6 +162,7 @@ c80.9 : unknown primary site	null	null
 calf	UBERON:8480048	calf
 cardia, nos	UBERON:0001162	cardia of stomach
 cardia/proximal	UBERON:0001162	cardia of stomach
+carotid body	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 carpus	null	null
 cauda equina	UBERON:0012337	cauda equina
 cecum	UBERON:0001153	caecum
@@ -244,6 +245,7 @@ ear	UBERON:0001690	ear
 effusion	null	null
 elbow joint	UBERON:0001461	elbow
 endocervix	UBERON:0000458	endocervix
+endocrine gland, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 endometrial	UBERON:0001295	endometrium
 endometrium	UBERON:0001295	endometrium
 entire body	UBERON:0013702	body proper
@@ -681,6 +683,7 @@ sinus	null	null
 skeletal	UBERON:0004288	skeleton
 skeletal muscle	UBERON:0001134	skeletal muscle tissue
 skin	UBERON:0002097	skin of body
+skin of lip, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 skin of lower leg	UBERON:0003532	hindlimb skin
 skin of lower limb	UBERON:0003532	hindlimb skin
 skin of lower limb and hip	UBERON:0003532	hindlimb skin
