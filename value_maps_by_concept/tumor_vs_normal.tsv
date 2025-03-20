@@ -1,0 +1,36 @@
+unharmonized value	harmonized value
+abnormal	tumor
+additional - new primary	tumor
+additional metastatic	tumor
+anterior	null
+blood derived normal	normal
+bone marrow normal	normal
+buccal cell normal	normal
+distal	null
+dorsal	null
+extra-location	null
+hyperplasia	tumor
+left	null
+malignant	tumor
+medial	null
+metastatic	tumor
+neoplasm, metastatic	tumor
+neoplasm, primary	tumor
+normal	normal
+normal adjacent tissue	normal
+normal_ffpe	normal
+para-location	null
+peri-location	null
+peritumoral	normal
+posterior	null
+premalignant	tumor
+primary solid tumor	tumor
+primary tumor	tumor
+primary_tumor	tumor
+recurrent solid tumor	tumor
+recurrent tumor	tumor
+right	null
+soft tissue	null
+solid tissue normal	normal
+tumor	tumor
+upper	null
