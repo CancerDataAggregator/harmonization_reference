@@ -107,7 +107,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8211/3	8211/3	Tubular adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8213/0	8213/0	Serrated adenoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8215/3	8215/3	Adenocarcinoma of anal glands	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-8220/3	8220/3	Adenocarcinoma in adenomatous polyposis coli	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8220/3	8220/3	Adenocarcinoma in adenomatous polyposis coli	DOID:0080409	familial adenomatous polyposis 1	__CDA_UNASSIGNED__
 8230/3	8230/3	Solid carcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8240/3	8240/3	Neuroendocrine tumor, NOS	DOID:169	neuroendocrine tumor	C3809
 8240/3 : neuroendocrine tumor, nos	8240/3	Neuroendocrine tumor, NOS	DOID:169	neuroendocrine tumor	C3809
@@ -763,7 +763,7 @@ adamantinomatous craniopharyngioma, who grade 1	9351/1	Craniopharyngioma, adaman
 adenocarcinoma	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 adenocarcinoma colon	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 adenocarcinoma combined with other types of carcinoma	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
-adenocarcinoma in adenomatous polyposis coli	8220/3	Adenocarcinoma in adenomatous polyposis coli	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+adenocarcinoma in adenomatous polyposis coli	8220/3	Adenocarcinoma in adenomatous polyposis coli	DOID:0080409	familial adenomatous polyposis 1	__CDA_UNASSIGNED__
 adenocarcinoma in situ	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 adenocarcinoma in situ in adenomatous polyp	8210/2	Adenocarcinoma in situ in adenomatous polyp	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 adenocarcinoma in situ, non-mucinous	8252/3	Bronchiolo-alveolar carcinoma, non-mucinous	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2147,6 +2147,7 @@ neuroendocrine carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED_
 neuroendocrine carcinoma, nos	8246/3	Neuroendocrine carcinoma, NOS	DOID:1800	neuroendocrine carcinoma	C3773
 neuroendocrine tumor	8240/3	Neuroendocrine tumor, NOS	DOID:169	neuroendocrine tumor	C3809
 neuroendocrine tumor, nos	8240/3	Neuroendocrine tumor, NOS	DOID:169	neuroendocrine tumor	C3809
+neuroendocrine tumor, well differentiated	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neuroepithelial neoplasm	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neuroepithelial neoplasm, glioma	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neuroepithelial tumor	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2179,6 +2180,7 @@ non-wnt/non-shh medulloblastoma	9470/3	Medulloblastoma, NOS	DOID:0050902	medullo
 nonencapsulated sclerosing carcinoma	8350/3	Nonencapsulated sclerosing carcinoma	DOID:5914	diffuse sclerosing papillary thyroid carcinoma	C7427
 noninfiltrating intraductal papillary adenocarcinoma	8503/2	Noninfiltrating intraductal papillary adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 normal (non-cancer)	null	null	null	null	null
+normal bladder	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 ntrk-1 altered mesenchymal tumor	8990/1	Mesenchymoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 nuclear protein in testis (nut)-associated carcinoma	8023/3	Nuclear protein in testis (NUT) associated carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 oat cell carcinoma	8042/3	Oat cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__

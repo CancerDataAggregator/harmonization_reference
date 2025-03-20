@@ -24,6 +24,7 @@ doc	DOC
 docx	DOCX
 fasta	FASTA
 fastq	FASTQ
+gct/res format	GCT
 gvcf	GVCF
 gz	GZ
 gzip	GZIP
