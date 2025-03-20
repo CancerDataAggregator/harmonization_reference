@@ -19,4 +19,5 @@ subject	species	species
 diagnosis	stage	stage
 treatment	therapeutic_agent	therapeutic_agent
 treatment	treatment_type	treatment_type
+specimen	source_material_type	tumor_vs_normal
 subject	vital_status	vital_status
