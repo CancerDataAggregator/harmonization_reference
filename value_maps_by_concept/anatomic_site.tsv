@@ -162,7 +162,7 @@ c80.9 : unknown primary site	null	null
 calf	UBERON:8480048	calf
 cardia, nos	UBERON:0001162	cardia of stomach
 cardia/proximal	UBERON:0001162	cardia of stomach
-carotid body	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+carotid body	UBERON:0001629	carotid body
 carpus	null	null
 cauda equina	UBERON:0012337	cauda equina
 cecum	UBERON:0001153	caecum
@@ -245,7 +245,7 @@ ear	UBERON:0001690	ear
 effusion	null	null
 elbow joint	UBERON:0001461	elbow
 endocervix	UBERON:0000458	endocervix
-endocrine gland, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+endocrine gland, nos	UBERON:0002368	endocrine gland
 endometrial	UBERON:0001295	endometrium
 endometrium	UBERON:0001295	endometrium
 entire body	UBERON:0013702	body proper
@@ -581,6 +581,7 @@ perihepatic region	UBERON:0002107	liver
 perineum	UBERON:0002356	perineum
 perineum, nos	UBERON:0002356	perineum
 peripancreatic lymph node	null	null
+peripheral blood	UBERON:0000178	blood
 peripheral nerves and autonomic nervous system	UBERON:0001016	nervous system
 peripheral nerves and autonomic nervous system of abdomen	UBERON:0003429	abdomen nerve
 peripheral nerves and autonomic nervous system of head, face, and neck	null	null
@@ -670,6 +671,7 @@ root of tongue	UBERON:0010033	posterior part of tongue
 saliva	UBERON:0001836	saliva
 salivary gland	UBERON:0001832	sublingual gland
 scalp	UBERON:0000403	scalp
+scapula	UBERON:0006849	scapula
 scrotum	UBERON:0001300	scrotum
 scrotum, nos	UBERON:0001300	scrotum
 short bone of lower limb	UBERON:0003464	hindlimb bone
@@ -683,7 +685,8 @@ sinus	null	null
 skeletal	UBERON:0004288	skeleton
 skeletal muscle	UBERON:0001134	skeletal muscle tissue
 skin	UBERON:0002097	skin of body
-skin of lip, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+skin and muscle	null	null
+skin of lip, nos	UBERON:0001458	skin of lip
 skin of lower leg	UBERON:0003532	hindlimb skin
 skin of lower limb	UBERON:0003532	hindlimb skin
 skin of lower limb and hip	UBERON:0003532	hindlimb skin
@@ -776,6 +779,7 @@ transverse colon	UBERON:0001157	transverse colon
 trigone	UBERON:0001257	trigone of urinary bladder
 trigone of bladder	UBERON:0001257	trigone of urinary bladder
 trunk	UBERON:0002100	trunk
+ulna	UBERON:0001424	ulna
 umbilical cord	UBERON:0002331	umbilical cord
 unknowm	null	null
 unknown - uterus nos	UBERON:0000995	uterus
