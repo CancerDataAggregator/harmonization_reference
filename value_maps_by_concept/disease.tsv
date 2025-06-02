@@ -30,11 +30,13 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8010/2	8010/2	Carcinoma in situ, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8010/3	8010/3	Carcinoma, NOS	DOID:305	carcinoma	C2916;C3709
 8010/3 : carcinoma, nos	8010/3	Carcinoma, NOS	DOID:305	carcinoma	C2916;C3709
+8010/6	8010/6	Carcinoma, metastatic, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8012/3	8012/3	Large cell carcinoma, NOS	DOID:4552	large cell carcinoma	C3780
 8013/3	8013/3	Large cell neuroendocrine carcinoma	DOID:0050872	large cell neuroendocrine carcinoma	__CDA_UNASSIGNED__
 8015/3	8015/3	Glassy cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8020/3	8020/3	Carcinoma, undifferentiated, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8020/3 : carcinoma, undifferentiated, nos	8020/3	Carcinoma, undifferentiated, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8020/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8021/3	8021/3	Carcinoma, anaplastic, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8022/3	8022/3	Pleomorphic carcinoma	DOID:5662	pleomorphic carcinoma	C4094
 8023/3 : nuclear protein in testis (nut)-associated carcinoma	8023/3	Nuclear protein in testis (NUT) associated carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -45,9 +47,11 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8041/3	8041/3	Small cell carcinoma, NOS	DOID:0050685	small cell carcinoma	C4099
 8041/3 : small cell carcinoma, nos	8041/3	Small cell carcinoma, NOS	DOID:0050685	small cell carcinoma	C4099
 8041/34	8041/3	Small cell carcinoma, NOS	DOID:0050685	small cell carcinoma	C4099
+8041/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8042/3	8042/3	Oat cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8045/3	8045/3	Combined small cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8046/3	8046/3	Non-small cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8046/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8050/3	8050/3	Papillary carcinoma, NOS	DOID:3113	papillary carcinoma	C2927
 8051/3	8051/3	Verrucous carcinoma, NOS	DOID:3737	verrucous carcinoma	C3781
 8052/3	8052/3	Papillary squamous cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -55,6 +59,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8070/2 : squamous cell carcinoma in situ, nos	8070/2	Squamous cell carcinoma in situ, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8070/3	8070/3	Squamous cell carcinoma, NOS	DOID:1749	squamous cell carcinoma	C2929
 8070/33	8070/3	Squamous cell carcinoma, NOS	DOID:1749	squamous cell carcinoma	C2929
+8070/6	8070/6	Squamous cell carcinoma, metastatic, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8071/3	8071/3	Squamous cell carcinoma, keratinizing, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8072/3	8072/3	Squamous cell carcinoma, large cell, nonkeratinizing, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8072/3 : squamous cell carcinoma, large cell, nonkeratinizing, nos	8072/3	Squamous cell carcinoma, large cell, nonkeratinizing, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -105,6 +110,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8210/2 : adenocarcinoma in situ in adenomatous polyp	8210/2	Adenocarcinoma in situ in adenomatous polyp	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8211/0	8211/0	Tubular adenoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8211/3	8211/3	Tubular adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8211/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8213/0	8213/0	Serrated adenoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8215/3	8215/3	Adenocarcinoma of anal glands	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8220/3	8220/3	Adenocarcinoma in adenomatous polyposis coli	DOID:0080409	familial adenomatous polyposis 1	__CDA_UNASSIGNED__
@@ -158,6 +164,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8370/3 : adrenal cortical carcinoma	8370/3	Adrenal cortical carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8380/1	8380/1	Endometrioid adenoma, borderline malignancy	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8380/3	8380/3	Endometrioid adenocarcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8380/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8382/3	8382/3	Endometrioid adenocarcinoma, secretory variant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8384/3	8384/3	Adenocarcinoma, endocervical type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8390/3	8390/3	Adnexal adenocarcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -172,20 +179,24 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8441/0	8441/0	Serous cystadenoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8441/3	8441/3	Serous carcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8441/3 : serous carcinoma, nos	8441/3	Serous carcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8441/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8442/1	8442/1	Serous borderline tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8452/1	8452/1	Solid pseudopapillary tumor of ovary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8452/3 : solid pseudopapillary neoplasm of pancreas	8452/3	Solid pseudopapillary neoplasm of the pancreas	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8453/3	8453/3	Intraductal Papillary mucinous neoplasm with an associated invasive carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8460/3	8453/3	Intraductal Papillary mucinous neoplasm with an associated invasive carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8461/3	8461/3	High grade serous carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8461/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8470/0	8470/0	Mucinous cystadenoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8472/1	8472/1	Mucinous cystic tumor of borderline malignancy	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8474/3	8474/3	Seromucinous carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8480/3	8480/3	Mucinous adenocarcinoma	DOID:3030	mucinous adenocarcinoma	C26712;C27379
 8480/3 : mucinous adenocarcinoma	8480/3	Mucinous adenocarcinoma	DOID:3030	mucinous adenocarcinoma	C26712;C27379
+8480/6	8480/6	Pseudomyxoma peritonei	DOID:3559	pseudomyxoma peritonei	C3345
 8482/3	8482/3	Mucinous carcinoma, gastric type	DOID:8340	endocervical type cervical mucinous adenocarcinoma	__CDA_UNASSIGNED__
 8490/3	8490/3	Signet ring cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8490/3 : signet ring cell carcinoma	8490/3	Signet ring cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8490/6	8490/6	Metastatic signet ring cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8500/2	8500/2	Intraductal carcinoma, noninfiltrating, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8500/3	8500/3	Infiltrating duct carcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8500/6	8500/3	Infiltrating duct carcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -351,6 +362,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8936/3	8936/3	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	C3868
 8936/3 : gastrointestinal stromal tumor	8936/3	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	C3868
 8950/3	8950/3	Mullerian mixed tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8950/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8951/3	8951/3	Mesodermal mixed tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8959/0	8959/0	Benign cystic nephroma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8960/1 : mesoblastic nephroma	8960/1	Mesoblastic nephroma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -640,6 +652,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 9826/3	9687/3	Burkitt lymphoma, NOS	DOID:8584	Burkitt lymphoma	C2912
 9827/3	9827/3	Adult T-cell leukemia/lymphoma (HTLV-1 positive)	DOID:0050523	adult T-cell leukemia/lymphoma	C3184
 9831/3	9831/3	T-cell large granular lymphocytic leukemia	DOID:0050751	T-cell large granular lymphocyte leukemia	C4664
+9834/3	9834/3	Prolymphocytic leukemia, T-cell type	DOID:0081042	T-cell prolymphocytic leukemia	C4752
 9835/3	9835/3	Precursor cell lymphoblastic leukemia, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9835/3 : precursor cell lymphoblastic leukemia, nos	9835/3	Precursor cell lymphoblastic leukemia, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9836/3	9811/3	B lymphoblastic leukemia/lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -952,6 +965,7 @@ brain tumor, pilocytic astrocytoma	9421/1	Pilocytic astrocytoma	__CDA_UNASSIGNED
 brain, high grade lesion	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
 breast	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
 breast cancer	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
+breast cancer, non-cancer	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 breast invasive carcinoma	8500/3	Infiltrating duct carcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 breast lobular carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 breast metaplastic carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1312,11 +1326,13 @@ epithelioid sarcoma, nos	8804/3	Epithelioid sarcoma	DOID:6193	epithelioid sarcom
 epitheloid neoplasm	8804/3	Epithelioid sarcoma	DOID:6193	epithelioid sarcoma	C3714
 epitheloid sarcoma	8804/3	Epithelioid sarcoma	DOID:6193	epithelioid sarcoma	C3714
 esophageal carcinoma	8010/3	Carcinoma, NOS	DOID:305	carcinoma	C2916;C3709
+esophageal carcinoma, lung squamous cell carcinoma, lung adenocarcinoma, lung other, pancreatic adenocarcinoma, thymoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 esophagus adenocarcinoma, nos	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 esophagus squamous cell carcinoma	8070/3	Squamous cell carcinoma, NOS	DOID:1749	squamous cell carcinoma	C2929
 essential thrombocythemia	9962/3	Essential thrombocythemia	DOID:2224	essential thrombocythemia	C3407
 esthesioneuroblastoma	9522/3	Olfactory neuroblastoma	DOID:369	olfactory neuroblastoma	C3789
 ewing sarcoma	9364/3	Ewing sarcoma	DOID:3369	Ewing sarcoma	C27901;C27903;C4817;C7542;C7806;C9341
+ewing sarcoma - peripheral pnet, melanoma, neuroendocrine cancer (nos), osteosarcoma, anal squamous cell carcinoma, urothelial - bladder cancer (nos), pancreatic adenocarcinoma, rectal adenocarcinoma, colon adenocarcinoma, lung squamous cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 extra adrenal paraganglioma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 extra-adrenal paraganglioma, malignant	8693/3	Extra-adrenal paraganglioma, NOS	DOID:0081245	cauda equina neuroendocrine tumor	C5324
 extra-adrenal paraganglioma, nos	8693/3	Extra-adrenal paraganglioma, NOS	DOID:0081245	cauda equina neuroendocrine tumor	C5324
@@ -2410,13 +2426,17 @@ primitive/embryonal tumor with high-grade features; compatible with medulloblast
 probable pilocytic astrocytoma	null	null	null	null	null
 progression to diffuse large b-cell lymphoma - centroblastic.	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 proliferative dermal lesion in congenital nevus	8762/1	Proliferative dermal lesion in congenital nevus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+prolymphocytic leukemia, t-cell type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 prostate adenocarcinoma	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 prostate adenocarcinoma acinar type	8550/3	Acinar cell carcinoma	DOID:3025	acinar cell carcinoma	C3768
 prostate adenocarcinoma, other subtype	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 prostate cancer	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
+prostate cancer, anal cancer	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+prostate cancer, non-cancer	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 prostate, anal	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 psammomatous meningioma	9533/0	Psammomatous meningioma	DOID:7210	psammomatous meningioma	C4331
 pseudomyogenic hemangioendothelioma	9138/1	Pseudomyogenic (epithelioid sarcoma-like) hemangioendothelioma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pseudomyxoma peritonei	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pseudosarcomatous carcinoma	8033/3	Pseudosarcomatous carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pulmonary adenocarcinoma	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 pulmonary carcinoma	8010/3	Carcinoma, NOS	DOID:305	carcinoma	C2916;C3709

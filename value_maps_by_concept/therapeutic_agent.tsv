@@ -1,12 +1,15 @@
 unharmonized value	harmonized value
 2-methoxyestradiol	__CDA_UNASSIGNED__
+abemaciclib	__CDA_UNASSIGNED__
 abiraterone	__CDA_UNASSIGNED__
+acetylcysteine	__CDA_UNASSIGNED__
 ae37 peptide/gm-csf vaccine	__CDA_UNASSIGNED__
 aee788	__CDA_UNASSIGNED__
 afatinib	__CDA_UNASSIGNED__
 afatinib dimaleate	__CDA_UNASSIGNED__
 akt inhibitor mk2206	__CDA_UNASSIGNED__
 aldesleukin	__CDA_UNASSIGNED__
+alemtuzumab	__CDA_UNASSIGNED__
 altretamine	__CDA_UNASSIGNED__
 amatuximab	__CDA_UNASSIGNED__
 amifostine	__CDA_UNASSIGNED__
@@ -24,11 +27,13 @@ arsenic trioxide	__CDA_UNASSIGNED__
 asparaginase	__CDA_UNASSIGNED__
 astuprotimut-r	__CDA_UNASSIGNED__
 aurora kinase/vegfr2 inhibitor cyc116	__CDA_UNASSIGNED__
+avelumab	__CDA_UNASSIGNED__
 axitinib	__CDA_UNASSIGNED__
 azathioprine	__CDA_UNASSIGNED__
 banoxantrone	__CDA_UNASSIGNED__
 bavituximab	__CDA_UNASSIGNED__
 bcg solution	__CDA_UNASSIGNED__
+bcg vaccine	__CDA_UNASSIGNED__
 belinostat	__CDA_UNASSIGNED__
 bendamustine	__CDA_UNASSIGNED__
 bevacizumab	__CDA_UNASSIGNED__
@@ -38,12 +43,16 @@ birinapant	__CDA_UNASSIGNED__
 bleomycin	__CDA_UNASSIGNED__
 bortezomib	__CDA_UNASSIGNED__
 braf inhibitor	__CDA_UNASSIGNED__
+brafv600/pi3k inhibitor asn003	__CDA_UNASSIGNED__
+brentuximab	__CDA_UNASSIGNED__
 brivanib	__CDA_UNASSIGNED__
 broxuridine	__CDA_UNASSIGNED__
+busulfan	__CDA_UNASSIGNED__
 cabazitaxel	__CDA_UNASSIGNED__
 cabozantinib	__CDA_UNASSIGNED__
 cabozantinib s-malate	__CDA_UNASSIGNED__
 capecitabine	__CDA_UNASSIGNED__
+capmatinib	__CDA_UNASSIGNED__
 carboplatin	__CDA_UNASSIGNED__
 carboxyamidotriazole	__CDA_UNASSIGNED__
 carfilzomib	__CDA_UNASSIGNED__
@@ -86,17 +95,22 @@ denosumab	__CDA_UNASSIGNED__
 dexamethasone	__CDA_UNASSIGNED__
 dexamethasone phosphate	__CDA_UNASSIGNED__
 didox	__CDA_UNASSIGNED__
+dinutuximab	__CDA_UNASSIGNED__
 diphencyprone	__CDA_UNASSIGNED__
 docetaxel	__CDA_UNASSIGNED__
 doxifluridine	__CDA_UNASSIGNED__
 doxorubicin	__CDA_UNASSIGNED__
 doxorubicin hydrochloride	__CDA_UNASSIGNED__
+durvalumab	__CDA_UNASSIGNED__
 elotuzumab	__CDA_UNASSIGNED__
 encorafenib	__CDA_UNASSIGNED__
+enfortumab vedotin	__CDA_UNASSIGNED__
+entinostat	__CDA_UNASSIGNED__
 enzastaurin	__CDA_UNASSIGNED__
 enzastaurin hydrochloride	__CDA_UNASSIGNED__
 epirubicin	__CDA_UNASSIGNED__
 epirubicin hydrochloride	__CDA_UNASSIGNED__
+erdafitinib	__CDA_UNASSIGNED__
 eribulin	__CDA_UNASSIGNED__
 eribulin mesylate	__CDA_UNASSIGNED__
 erlotinib	__CDA_UNASSIGNED__
@@ -153,6 +167,7 @@ lapatinib	__CDA_UNASSIGNED__
 laromustine	__CDA_UNASSIGNED__
 leflunomide	__CDA_UNASSIGNED__
 lenalidomide	__CDA_UNASSIGNED__
+lenvatinib	__CDA_UNASSIGNED__
 letrozole	__CDA_UNASSIGNED__
 leucovorin	__CDA_UNASSIGNED__
 leucovorin calcium	__CDA_UNASSIGNED__
@@ -167,6 +182,7 @@ liposomal irinotecan	__CDA_UNASSIGNED__
 lomustine	__CDA_UNASSIGNED__
 lonafarnib	__CDA_UNASSIGNED__
 lontucirev	__CDA_UNASSIGNED__
+lurbinectedin	__CDA_UNASSIGNED__
 mage-a3 peptide vaccine	__CDA_UNASSIGNED__
 marimastat	__CDA_UNASSIGNED__
 medroxyprogesterone acetate	__CDA_UNASSIGNED__
@@ -195,6 +211,7 @@ nanoparticle albumin-bound rapamycin	__CDA_UNASSIGNED__
 nelipepimut-s	__CDA_UNASSIGNED__
 nilutamide	__CDA_UNASSIGNED__
 nimustine	__CDA_UNASSIGNED__
+niraparib	__CDA_UNASSIGNED__
 nivolumab	__CDA_UNASSIGNED__
 o6-benzylguanine	__CDA_UNASSIGNED__
 octreotide acetate	__CDA_UNASSIGNED__
@@ -203,6 +220,7 @@ olaparib	__CDA_UNASSIGNED__
 ondansetron hydrochloride	__CDA_UNASSIGNED__
 ontuxizumab	__CDA_UNASSIGNED__
 oregovomab	__CDA_UNASSIGNED__
+osimertinib	__CDA_UNASSIGNED__
 oxaliplatin	__CDA_UNASSIGNED__
 oxcarbazepine	__CDA_UNASSIGNED__
 paclitaxel	__CDA_UNASSIGNED__
@@ -231,6 +249,7 @@ perifosine	__CDA_UNASSIGNED__
 pertuzumab	__CDA_UNASSIGNED__
 pexidartinib	__CDA_UNASSIGNED__
 phenytoin sodium	__CDA_UNASSIGNED__
+pi3k-gamma inhibitor ipi-549	__CDA_UNASSIGNED__
 platinum	__CDA_UNASSIGNED__
 plevitrexed	__CDA_UNASSIGNED__
 plicamycin	__CDA_UNASSIGNED__
@@ -267,6 +286,9 @@ ridaforolimus	__CDA_UNASSIGNED__
 rigosertib	__CDA_UNASSIGNED__
 rilotumumab	__CDA_UNASSIGNED__
 rituximab	__CDA_UNASSIGNED__
+rivaroxaban	__CDA_UNASSIGNED__
+romidepsin	__CDA_UNASSIGNED__
+sacituzumab govitecan	__CDA_UNASSIGNED__
 sargramostim	__CDA_UNASSIGNED__
 selumetinib	__CDA_UNASSIGNED__
 serine/threonine kinase inhibitor cbp501	__CDA_UNASSIGNED__
@@ -309,6 +331,7 @@ trametinib	__CDA_UNASSIGNED__
 trastuzumab	__CDA_UNASSIGNED__
 treosulfan	__CDA_UNASSIGNED__
 tretinoin	__CDA_UNASSIGNED__
+trifluridine and tipiracil hydrochloride	__CDA_UNASSIGNED__
 triptorelin	__CDA_UNASSIGNED__
 triptorelin pamoate	__CDA_UNASSIGNED__
 tyrosine kinase inhibitor	__CDA_UNASSIGNED__
@@ -328,5 +351,6 @@ vismodegib	__CDA_UNASSIGNED__
 vitespen	__CDA_UNASSIGNED__
 vorinostat	__CDA_UNASSIGNED__
 vosaroxin	__CDA_UNASSIGNED__
+xeloda	__CDA_UNASSIGNED__
 ziv-aflibercept	__CDA_UNASSIGNED__
 zoledronic acid	__CDA_UNASSIGNED__
