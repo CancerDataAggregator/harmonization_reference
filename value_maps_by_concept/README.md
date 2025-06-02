@@ -6,11 +6,11 @@ Status:
 |concept |percent mapped|ontology|
 |--------|--------------|--------|
 |access|100|CDA created|
-|anatomic_site|~90|UBERON|
+|anatomic_site|100|UBERON|
 |cause_of_death|100|NCIt/CDA created|
 |data_category|0||
 |data_type|0||
-|disease|~85|ICD-0-3|
+|disease|43|ICD-0-3|
 |ethnicity|100|US Census |
 |file_format|100|NCIt/CDA created|
 |grade|100|NCIt/CDA created|
