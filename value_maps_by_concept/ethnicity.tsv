@@ -77,9 +77,9 @@ mx amerind hisp	Hispanic or Latino
 mx amerind white	null
 mx asian black	null
 mx asian hisp	Hispanic or Latino
-mx asian pacific	__CDA_UNASSIGNED__
+mx asian pacific	null
 mx asian white	null
-mx asn hisp wh	__CDA_UNASSIGNED__
+mx asn hisp wh	null
 mx black hisp	Hispanic or Latino
 mx black hisp wh	Hispanic or Latino
 mx black white	null
@@ -101,7 +101,7 @@ not hispanic, la	Non-Hispanic
 pacific islander	null
 patient declined	null
 unknown [3]	null
-unknown by patie	__CDA_UNASSIGNED__
+unknown by patie	null
 w	null
 wh	null
 white	null
