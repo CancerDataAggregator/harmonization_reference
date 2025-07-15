@@ -1828,6 +1828,7 @@ lymphoblastic lymphoma - b-cell	9811/3	B lymphoblastic leukemia/lymphoma, NOS	__
 lymphoblastic t-cell lymphoma	9837/3	Precursor T-cell lymphoblastic leukemia	DOID:5603	T-cell acute lymphoblastic leukemia	__CDA_UNASSIGNED__
 lymphoblastic t-cell progression to peripheral t-cell lymphoma	9837/3	Precursor T-cell lymphoblastic leukemia	DOID:5603	T-cell acute lymphoblastic leukemia	__CDA_UNASSIGNED__
 lymphoepithelial carcinoma	8082/3	Lymphoepithelial carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lymphoepithelioma-like carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 lymphoid leukemia, nos	9820/3	Lymphoid leukemia, NOS	DOID:1037	lymphoid leukemia	C7539
 lymphoid leukemias	9820/3	Lymphoid leukemia, NOS	DOID:1037	lymphoid leukemia	C7539
 lymphoid neoplasm diffuse large b-cell lymphoma	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
