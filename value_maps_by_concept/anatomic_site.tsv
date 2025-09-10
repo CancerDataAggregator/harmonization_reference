@@ -255,6 +255,7 @@ corpus uteri, unknown	UBERON:0009853	body of uterus
 cortex of adrenal gland	UBERON:0001235	adrenal cortex
 cranial and/or facial bone	UBERON:0003457	head bone
 cranial nerve, nos	UBERON:0001785	cranial nerve
+cranial sternum	UBERON:0002205	manubrium of sternum
 craniopharyngeal duct	UBERON:0016881	craniopharyngeal canal
 cspine	UBERON:0006072	cervical region of vertebral column
 ct 3phase ren	UBERON:0002113	kidney
@@ -301,6 +302,7 @@ fallopian tube	UBERON:0003889	fallopian tube
 female genital tract, nos	UBERON:0000474	female reproductive system
 femorala	null	null
 femur	UBERON:0000981	femur
+flank	UBERON:0000180	lateral lumbar region of abdomen
 floor of mouth	UBERON:0003679	mouth floor
 floor of mouth, nos	UBERON:0003679	mouth floor
 foot	UBERON:0002387	pes
@@ -351,6 +353,7 @@ hepatic flexure	UBERON:0022277	hepatic flexure of colon
 hepatic flexure of colon	UBERON:0022277	hepatic flexure of colon
 hepatic lymph node	UBERON:0015859	hepatic lymph node
 hip	UBERON:0001464	hip
+hock	UBERON:0004454	tarsal region
 humerus	UBERON:0000976	humerus
 hypopharynx	UBERON:0001051	hypopharynx
 hypopharynx, nos	UBERON:0001051	hypopharynx
@@ -375,6 +378,7 @@ jejunum	UBERON:0002115	jejunum
 kidney	UBERON:0002113	kidney
 kidney, nos	UBERON:0002113	kidney
 kidney, unknown	UBERON:0002113	kidney
+knee region	UBERON:0001465	knee
 l-lower	null	null
 l-upper	null	null
 large bowel	UBERON:0000059	large intestine
@@ -645,6 +649,7 @@ peritoneum ovary	null	null
 peritoneum, nos	UBERON:0002358	peritoneum
 pet_abdomen_pelv	UBERON:0035819	abdominopelvic cavity
 pet_ct scan ches	UBERON:0001443	chest
+phalange	UBERON:0003221	phalanx
 phantom	null	null
 pharynx	UBERON:0006562	pharynx
 pharynx, nos	UBERON:0006562	pharynx
@@ -703,6 +708,7 @@ retroperitoneum/upper abdominal - retroperitoneum	null	null
 retroperitoneum/upper abdominal - small intestines	null	null
 retropharyngeal space	UBERON:0035619	retropharyngeal space
 rib	UBERON:0002228	rib
+rib region	UBERON:0001443	chest
 rib, sternum and/or clavicle	UBERON:0003459	chest bone
 rib, sternum, clavicle and associated joints	UBERON:0014477	thoracic skeleton
 right	null	null
@@ -800,6 +806,7 @@ superior wall of nasopharynx	UBERON:0035270	roof of nasopharynx
 supraglottis	UBERON:0036263	supraglottic part of larynx
 suprasellar/hypothalamic/pituitary	UBERON:0000955	brain
 tail of pancreas	UBERON:0001151	tail of pancreas
+tarsus	UBERON:0009879	tarsal skeleton
 temporal cortex	UBERON:0016538	temporal cortex
 temporal lobe	UBERON:0001871	temporal lobe
 temporal lobe,thalamus,ventricles	UBERON:0000955	brain

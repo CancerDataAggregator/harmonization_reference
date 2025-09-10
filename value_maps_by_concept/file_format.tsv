@@ -28,6 +28,7 @@ gct/res format	GCT
 gvcf	GVCF
 gz	GZ
 gzip	GZIP
+h5	HDF5
 hdf5	HDF5
 hic	HIC
 html	HTML
@@ -45,6 +46,7 @@ ome-tiff	TIFF
 pdf	PDF
 ped	PED
 png	PNG
+r file format	R
 raw	RAW
 rdata	RData
 rds	RDS

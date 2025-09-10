@@ -329,8 +329,8 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8850/3	8850/3	Liposarcoma, NOS	DOID:3382	liposarcoma	C3194
 8850/3 : liposarcoma, nos	8850/3	Liposarcoma, NOS	DOID:3382	liposarcoma	C3194
 8851/3	8851/3	Liposarcoma, well differentiated, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-8852/3	8852/3	Myxoid liposarcoma	DOID:5363	myxoid liposarcoma	__CDA_UNASSIGNED__
-8852/3 : myxoid liposarcoma	8852/3	Myxoid liposarcoma	DOID:5363	myxoid liposarcoma	__CDA_UNASSIGNED__
+8852/3	8852/3	Myxoid liposarcoma	DOID:5363	myxoid liposarcoma	C27781
+8852/3 : myxoid liposarcoma	8852/3	Myxoid liposarcoma	DOID:5363	myxoid liposarcoma	C27781
 8854/3	8854/3	Pleomorphic liposarcoma	DOID:5702	pleomorphic liposarcoma	C3705
 8858/3	8858/3	Dedifferentiated liposarcoma	DOID:0080531	dedifferentiated liposarcoma	C3704
 8860/0	8860/0	Angiomyolipoma	DOID:3314	angiomyolipoma	C3734
@@ -833,6 +833,7 @@ alveolar rhabdomyosarcoma	8920/3	Alveolar rhabdomyosarcoma	DOID:4051	alveolar rh
 alveolar soft part sarcoma	9581/3	Alveolar soft part sarcoma	DOID:4239	alveolar soft part sarcoma	C3750;C7943;C8092
 amelanotic melanoma	8730/3	Amelanotic melanoma	DOID:4359	amelanotic melanoma	C3802
 ameloblastic carcinosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+anal sac/mass - amelantic melanoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anaplastic astrocytoma, idh-wildtype, glioblastoma, idh wildtype	8000/6	Neoplasm, metastatic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anaplastic ependymoma	9392/3	Ependymoma, anaplastic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anaplastic ganglioglioma	9505/3	Ganglioglioma, anaplastic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1221,6 +1222,8 @@ diffuse pediatric-type high-grade glioma	9385/3	Diffuse midline glioma, H3 K27M-
 diffuse sclerosing papillary thyroid carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 diffused astrocytoma	9400/3	Astrocytoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 diffusely infiltrating high grade glioma	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+distal radius - medullary sarcoma - probable poorly productive osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+distal radius - osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 duct adenocarcinoma, nos	8500/3	Infiltrating duct carcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 duct carcinoma, nos	8500/3	Infiltrating duct carcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 ductal adenocarcinoma	8500/3	Infiltrating duct carcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1360,6 +1363,7 @@ fibromatosis	8810/0	Fibroma, NOS	DOID:0050871	fibroma	__CDA_UNASSIGNED__
 fibromatosis colli	null	null	null	null	null
 fibromatous neoplasms	881-883	Fibromatous neoplasms	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 fibromyxosarcoma	8811/3	Myxofibrosarcoma	DOID:0080534	myxofibrosarcoma	C6496
+fibrosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 fibrosarcoma, nos	8810/3	Fibrosarcoma, NOS	DOID:3355	fibrosarcoma	C3043;C6605;C7075
 fibrous mesothelioma, malignant	9051/3	Fibrous mesothelioma, malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 follicular adenocarcinoma, nos	8330/3	Follicular carcinoma, NOS	DOID:3962	follicular thyroid carcinoma	C8054
@@ -1621,6 +1625,7 @@ hypercellular lesion with atypia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNA
 hypercellular neuroepithelial tumor with some features of glioma, possibly high grade	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 hypocellular low grade lesion	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 idh mutant gliomaa	9380/3	Glioma, malignant	DOID:3070	high grade glioma	C3059;C4822
+ilial mass - osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 immature teratoma	9080/3	Teratoma, malignant, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 indolent systemic mastocytosis	9741/1	Indolent systemic mastocytosis	DOID:4660	indolent systemic mastocytosis	C9286
 infant hemispheric glioma	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1658,7 +1663,11 @@ intraductal micropapillary carcinoma	8507/2	Intraductal micropapillary carcinoma
 intraductal papillary adenocarcinoma with invasion	8503/3	Intraductal papillary adenocarcinoma with invasion	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 intraductal papillary carcinoma	8503/2	Noninfiltrating intraductal papillary adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 intraductal papillary mucinous neoplasm with an associated invasive carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+intraductal papillary mucinous neoplasm with high grade dysplasia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+intraductal papillary neoplasm with associated invasive carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+intraductal papillary neoplasm with high grade dysplasia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 intraductal papillary-mucinous carcinoma, invasive	8453/3	Intraductal Papillary mucinous neoplasm with an associated invasive carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+intraductal papillary-mucinous neoplasm with low grade dysplasia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 intraductal papillary/mucinous carcinoma, invasive	8453/3	Intraductal Papillary mucinous neoplasm with an associated invasive carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 intradural tumor with marked atypia c/w malignant lesion, marked atypia c/w malignant lesion, marked atypia consistent with malignant lesion	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
 intraoperative consultation: calcified glial lesion dx: markedly calcified lesion	null	null	null	null	null
@@ -1700,6 +1709,8 @@ large cell/anaplastic medulloblastoma	9474/3	Large cell medulloblastoma	DOID:385
 laryngeal papilloma	8050/0	Papilloma, NOS	DOID:2615	papilloma	C3713;C7440
 left biopsy chest lesion	null	null	null	null	null
 left cp angle mass; schwannoma	9560/0	Schwannoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left distal femur - osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+left radius - osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 left temporal tumor	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 left thoracic tumor	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 leiomyoma, nos	8890/0	Leiomyoma, NOS	DOID:127	leiomyoma	C3157
@@ -1849,6 +1860,7 @@ malignant lymphoma, nos	9590/3	Malignant lymphoma, NOS	DOID:0060058	lymphoma	C32
 malignant lymphoma, small b lymphocytic, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 malignant mastocytosis	9741/3	Malignant mastocytosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 malignant melanocytic neoplasm	8720/3	Malignant melanoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+malignant melanoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 malignant melanoma nos	8720/3	Malignant melanoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 malignant melanoma, nos	8720/3	Malignant melanoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 malignant melanoma, nos (except juvenile melanoma m/8770/0)	8720/3	Malignant melanoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2044,6 +2056,8 @@ mucinous adenocarcinoma of endocervical type	8480/3	Mucinous adenocarcinoma	DOID
 mucinous adenocarcinoma, endocervical type	8480/3	Mucinous adenocarcinoma	DOID:3030	mucinous adenocarcinoma	C26712;C27379
 mucinous carcinoma	8480/3	Mucinous adenocarcinoma	DOID:3030	mucinous adenocarcinoma	C26712;C27379
 mucinous cystadenoma, nos	8470/0	Mucinous cystadenoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+mucinous cystic neoplasm with high-grade dysplasia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+mucinous cystic neoplasm with low-grade dysplasia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 mucinous cystic tumor of borderline malignancy	8472/1	Mucinous cystic tumor of borderline malignancy	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 mucoepidermoid carcinoma	8430/3	Mucoepidermoid carcinoma	DOID:4531	mucoepidermoid carcinoma	C3772
 mucoepidermoid carcinoma low grade	8430/3	Mucoepidermoid carcinoma	DOID:4531	mucoepidermoid carcinoma	C3772
@@ -2086,7 +2100,7 @@ myxofibrosarcoma	8811/3	Myxofibrosarcoma	DOID:0080534	myxofibrosarcoma	C6496
 myxoid chondrosarcoma	9231/3	Myxoid chondrosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myxoid glioneuronal tumor	9509/1	Papillary glioneuronal tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myxoid leiomyosarcoma	8896/3	Myxoid leiomyosarcoma	DOID:5268	myxoid leiomyosarcoma	C3701
-myxoid liposarcoma	8852/3	Myxoid liposarcoma	DOID:5363	myxoid liposarcoma	__CDA_UNASSIGNED__
+myxoid liposarcoma	8852/3	Myxoid liposarcoma	DOID:5363	myxoid liposarcoma	C27781
 myxoid neoplasm	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myxoid spindle cell tumor	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myxoma, nos	8840/0	Myxoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2221,6 +2235,8 @@ omentum; pancreatic acinar cell carcinoma	8550/3	Acinar cell carcinoma	DOID:3025
 oncocytic adrenal cortical carcinoma	8370/3	Adrenal cortical carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 oncocytoma	8290/0	Oxyphilic adenoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 optic pathway glioma	9380/3	Glioma, malignant	DOID:3070	high grade glioma	C3059;C4822
+oral cavity - amelanotic malignant melanoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+oral melanoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 oral squamous cell carcinoma	8070/3	Squamous cell carcinoma, NOS	DOID:1749	squamous cell carcinoma	C2929
 osseous and chondromatous neoplasms	918-924	Osseous and chondromatous neoplasms	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 ossifying fibroma	9262/0	Ossifying fibroma	DOID:180	ossifying fibroma	C8422
@@ -2234,6 +2250,7 @@ osteoblastoma, nos	9200/0	Osteoblastoma, NOS	DOID:0060098	osteoblastoma	__CDA_UN
 osteosarcoma	9180/3	Osteosarcoma, NOS	DOID:3347	osteosarcoma	C9145
 osteosarcoma in paget disease of bone	9180/3	Osteosarcoma, NOS	DOID:3347	osteosarcoma	C9145
 osteosarcoma, nos	9180/3	Osteosarcoma, NOS	DOID:3347	osteosarcoma	C9145
+osteosarcoma-nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 osteosarcoma; combined type	9180/3	Osteosarcoma, NOS	DOID:3347	osteosarcoma	C9145
 other leukemias	null	null	null	null	null
 other, specify	null	null	null	null	null
@@ -2310,6 +2327,7 @@ pediatric-type glioma, cns who grade 4	9385/3	Diffuse midline glioma, H3 K27M-mu
 pediatric/aya brain tumors	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 perineuroma	9571/0	Perineurioma, NOS	DOID:4697	perineurioma	C4973;C6912
 periosteal osteosarcoma	9193/3	Periosteal osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+peripheral nerve sheath tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 peripheral neuroectodermal tumor	9364/3	Ewing sarcoma	DOID:3369	Ewing sarcoma	C27901;C27903;C4817;C7542;C7806;C9341
 peripheral t-cell lymphoma	9702/3	Mature T-cell lymphoma, NOS	DOID:0081312	T-cell non-Hodgkin lymphoma	C3466
 pfa ependymoma	9391/3	Ependymoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2435,6 +2453,7 @@ prostate cancer	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
 prostate cancer, anal cancer	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 prostate cancer, non-cancer	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 prostate, anal	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+proximal humerus - osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 psammomatous meningioma	9533/0	Psammomatous meningioma	DOID:7210	psammomatous meningioma	C4331
 pseudomyogenic hemangioendothelioma	9138/1	Pseudomyogenic (epithelioid sarcoma-like) hemangioendothelioma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pseudomyxoma peritonei	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2492,7 +2511,10 @@ rhabdomyosarcoma, favor embryonal subtype	8900/3	Rhabdomyosarcoma, NOS	DOID:3247
 rhabdomyosarcoma, favor embryonal subtype pending molecular studies	8900/3	Rhabdomyosarcoma, NOS	DOID:3247	rhabdomyosarcoma	C3359
 rhabdomyosarcoma, most likely an embryonal carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 rhabdomyosarcoma, nos	8900/3	Rhabdomyosarcoma, NOS	DOID:3247	rhabdomyosarcoma	C3359
+right mandible - malignant melanoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+right scapula - chondroblastic osteosarcoma, extends to margins	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 right thigh mass	null	null	null	null	null
+right tibia - osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 round blue cell tumor	8806/3	Desmoplastic small round cell tumor	DOID:6785	desmoplastic small round cell tumor	C8300
 round cell sarcoma	8803/3	Small cell sarcoma	DOID:3098	small cell sarcoma	C3746
 round to spindle cell sarcoma	8800/3	Sarcoma, NOS	DOID:1115	sarcoma	__CDA_UNASSIGNED__
@@ -2510,6 +2532,7 @@ schwannoma, nos, low-grade glioma, low-grade glioma, nos or nec	__CDA_UNASSIGNED
 sclerosing stromal tumor	8602/0	Sclerosing stromal tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 sebaceous adenocarcinoma	8410/3	Sebaceous carcinoma	DOID:4840	sebaceous carcinoma	C8409
 sebaceous carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+sebaceous gland adenoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 secretory carcinoma	8502/3	Secretory carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 secretory carcinoma of breast	8502/3	Secretory carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 seminoma, nos	9061/3	Seminoma, NOS	DOID:4440	seminoma	C9309
@@ -2723,6 +2746,7 @@ thyroid papillary carcinoma	8260/3	Papillary adenocarcinoma, NOS	__CDA_UNASSIGNE
 thyroid papillary carcinoma - classical/usual	8260/3	Papillary adenocarcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 thyroid papillary carcinoma - follicular (>= 99% follicular patterned)	8430/3	Mucoepidermoid carcinoma	DOID:4531	mucoepidermoid carcinoma	C3772
 thyroid papillary carcinoma - tall cell (>= 50% tall cell features)	8344/3	Papillary carcinoma, columnar cell	DOID:7088	columnar cell papillary thyroid carcinoma	C35830
+tongue mass - melanoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 tonsils	null	null	null	null	null
 trabecular carcinoma	8190/3	Trabecular adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 transient abnormal myelopoiesis	null	null	null	null	null
@@ -2745,6 +2769,7 @@ tumor cells, malignant, other, pineal parenchymal tumor of intermediate differen
 tumor cells, uncertain whether benign or malignant	8001/1	Tumor cells, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 tumor, nos	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 ulcerated nodular melanoma	8721/3	Nodular melanoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+ulcerated poorly differentiated melanocytic neoplasm	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 unclassified pleomorphic sarcoma	8802/3	Giant cell sarcoma	DOID:0081418	anaplastic sarcoma of the kidney	C154496
 unclassified sarcoma with round cell morphology	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 undiagnosed spindle cell tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2753,6 +2778,7 @@ undifferentiated leukaemia	9801/3	Acute leukemia, NOS	DOID:12603	acute leukemia	
 undifferentiated leukemia	9801/3	Acute leukemia, NOS	DOID:12603	acute leukemia	C9300
 undifferentiated malignant neoplasm with rhabdoid morphology and ini1 loss	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
 undifferentiated nasopharyngeal carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+undifferentiated pleiomorphic sarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 undifferentiated pleomorphic sarcoma (ups)	8802/3	Giant cell sarcoma	DOID:0081418	anaplastic sarcoma of the kidney	C154496
 undifferentiated round cell malignancy	8803/3	Small cell sarcoma	DOID:3098	small cell sarcoma	C3746
 undifferentiated round cell sarcoma	8803/3	Small cell sarcoma	DOID:3098	small cell sarcoma	C3746

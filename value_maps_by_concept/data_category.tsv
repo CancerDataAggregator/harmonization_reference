@@ -8,6 +8,7 @@ archer fusion	__CDA_UNASSIGNED__
 atac-seq	__CDA_UNASSIGNED__
 biospecimen	__CDA_UNASSIGNED__
 bisulfite-seq	__CDA_UNASSIGNED__
+bulk rna-seq	__CDA_UNASSIGNED__
 combined nucleotide variation	__CDA_UNASSIGNED__
 computed radiography	__CDA_UNASSIGNED__
 computed tomography	__CDA_UNASSIGNED__
@@ -46,6 +47,10 @@ rna-seq	__CDA_UNASSIGNED__
 rt dose	__CDA_UNASSIGNED__
 rt plan	__CDA_UNASSIGNED__
 rt structure set	__CDA_UNASSIGNED__
+scatac sequence file	__CDA_UNASSIGNED__
+sch5 matrix file	__CDA_UNASSIGNED__
+scrna sequence file	__CDA_UNASSIGNED__
+scrna-seq	__CDA_UNASSIGNED__
 segmentation	__CDA_UNASSIGNED__
 sequencing reads	__CDA_UNASSIGNED__
 simple nucleotide variation	__CDA_UNASSIGNED__
