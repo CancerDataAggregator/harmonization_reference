@@ -882,7 +882,7 @@ astrocytoma, nos, high-grade glioma, infant-type hemispheric glioma	9385/3	Diffu
 astrocytoma, nos, low-grade glioma, low-grade glioma, nos or nec	9400/3	Astrocytoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 astrocytoma, nos, low-grade glioma, pilocytic astrocytoma	9421/1	Pilocytic astrocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 astrocytoma, nos, low-grade glioma, pleomorphic xanthoastrocytoma	9424/3	Pleomorphic xanthoastrocytoma	DOID:4852	pleomorphic xanthoastrocytoma	C4323
-astrocytoma, nos, low-grade glioma, subependymal giant cell astrocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+astrocytoma, nos, low-grade glioma, subependymal giant cell astrocytoma	9384/1	Subependymal giant cell astrocytoma	DOID:5077	subependymal giant cell astrocytoma	C3696
 astrocytoma, nos, other, other cns tumor, nos or nec	9400/3	Astrocytoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 astroglial neoplasm	9400/3	Astrocytoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 atypical adenoma	8140/1	Atypical adenoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1406,7 +1406,7 @@ ganglioneuroma, other, schwannoma	9560/0	Schwannoma, NOS	__CDA_UNASSIGNED__	__CD
 gastroesophageal cancer	8010/3	Carcinoma, NOS	DOID:305	carcinoma	C2916;C3709
 gastrointestinal stromal tumor	8936/3	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	C3868
 gastrointestinal stromal tumor (gist)	8936/3	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	C3868
-gastrointestinal stromal tumor, benign	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+gastrointestinal stromal tumor, benign	8936/0	Gastrointestinal stromal tumor, benign	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 gastrointestinal stromal tumor, malignant	8936/3	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	C3868
 gastrointestinal stromal tumor, nos	8936/3	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	C3868
 genital rhabdomyoma	8905/0	Genital rhabdomyoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1461,7 +1461,7 @@ glioma, malignant, astrocytoma, idh-mutant, low-grade glioma	9400/3	Astrocytoma,
 glioma, malignant, diffuse hemispheric glioma, h3 g34-mutant, high-grade glioma	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 glioma, malignant, diffuse midline glioma, h3 k27-altered, high-grade glioma	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 glioma, malignant, diffuse pediatric-type high-grade glioma, h3-wildtype and idh-wildtype, high-grade glioma	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-glioma, malignant, dysembryoplastic neuroepithelial tumor, glioneuronal and neuronal tumors	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+glioma, malignant, dysembryoplastic neuroepithelial tumor, glioneuronal and neuronal tumors	9413/0	Dysembryoplastic neuroepithelial tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 glioma, malignant, embryonal tumor with multilayered rosettes, c19mc altered, other cns embryonal tumors	9478/3	Embryonal tumor with multilayered rosettes with C19MC alteration	DOID:0081286	embryonal tumor with multilayered rosettes	C186534
 glioma, malignant, ganglioglioma, glioneuronal and neuronal tumors	9505/1	Ganglioglioma, NOS	DOID:5078	ganglioglioma	C27362;C27363;C3788
 glioma, malignant, glioneuronal and neuronal tumors, glioneuronal and neuronal tumors, nos or nec	9380/3	Glioma, malignant	DOID:3070	high grade glioma	C3059;C4822
@@ -1980,7 +1980,7 @@ meningioma, nos	9530/0	Meningioma, NOS	DOID:3565	meningioma	C3230;C6971
 meningioma, nos, embryonal tumor with multilayered rosettes, nos, other cns embryonal tumors	9530/0	Meningioma, NOS	DOID:3565	meningioma	C3230;C6971
 meningioma, who grade 2	9530/0	Meningioma, NOS	DOID:3565	meningioma	C3230;C6971
 meningiomas	9530/0	Meningioma, NOS	DOID:3565	meningioma	C3230;C6971
-meningiomatosis, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+meningiomatosis, nos	9530/1	Meningiomatosis, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 meningothelial meningioma	9531/0	Meningothelial meningioma	DOID:7212	meningothelial meningioma	C4329
 meningothelial meningioma, grade 1	9531/0	Meningothelial meningioma	DOID:7212	meningothelial meningioma	C4329
 meningothelial meningioma, meningioma, other	9531/0	Meningothelial meningioma	DOID:7212	meningothelial meningioma	C4329
@@ -2128,7 +2128,7 @@ neoplasm, malignant, cns germ cell tumors, cns non-germinomatous germ cell tumor
 neoplasm, malignant, cns neuroblastoma, foxr2-activated, other cns embryonal tumors	9500/3	Neuroblastoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neoplasm, malignant, diffuse midline glioma, h3 k27-altered, high-grade glioma	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neoplasm, malignant, diffuse pediatric-type high-grade glioma, h3-wildtype and idh-wildtype, high-grade glioma	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-neoplasm, malignant, glioneuronal and neuronal tumors, glioneuronal and neuronal tumors, nos or nec	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+neoplasm, malignant, glioneuronal and neuronal tumors, glioneuronal and neuronal tumors, nos or nec	9380/3	Glioma, malignant	DOID:3070	high grade glioma	C3059;C4822
 neoplasm, malignant, high-grade glioma, high-grade glioma, nos or nec	9380/3	Glioma, malignant	DOID:3070	high grade glioma	C3059;C4822
 neoplasm, malignant, low-grade glioma, low-grade glioma, nos or nec	9380/3	Glioma, malignant	DOID:3070	high grade glioma	C3059;C4822
 neoplasm, malignant, low-grade glioma, pilocytic astrocytoma	9421/1	Pilocytic astrocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2185,7 +2185,7 @@ neuroepithelial neoplasm	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_U
 neuroepithelial neoplasm, glioma	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neuroepithelial tumor	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neuroepithelial tumor of pineal region with papillary features	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-neuroepithelial tumor with glioneuronal-like features	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+neuroepithelial tumor with glioneuronal-like features	9380/3	Glioma, malignant	DOID:3070	high grade glioma	C3059;C4822
 neuroepithelioma, nos	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neuroepitheliomatous neoplasms	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neurofibroma	9540/0	Neurofibroma, NOS	DOID:962	neurofibroma	C3272
