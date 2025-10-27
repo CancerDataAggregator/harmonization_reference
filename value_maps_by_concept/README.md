@@ -10,7 +10,7 @@ Status:
 |cause_of_death|100|CDA-created|
 |data_category|0||
 |data_type|0||
-|disease|86|ICD-0-3|
+|disease|100|ICD-0-3|
 |ethnicity|100|US Census |
 |file_format|100|CDA-created|
 |grade|100|CDA-created|
