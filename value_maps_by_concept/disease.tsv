@@ -987,7 +987,7 @@ cancer	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
 carcinoid tumor	8240/3	Neuroendocrine tumor, NOS	DOID:169	neuroendocrine tumor	C3809
 carcinoid tumor, nos	8240/3	Neuroendocrine tumor, NOS	DOID:169	neuroendocrine tumor	C3809
 carcinoma	8010/3	Carcinoma, NOS	DOID:305	carcinoma	C2916;C3709
-carcinoma in situ	8101/2	Carcinoma in situ, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+carcinoma in situ	8010/2	Carcinoma in situ, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 carcinoma in situ, nos	8010/2	Carcinoma in situ, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 carcinoma nos	8010/3	Carcinoma, NOS	DOID:305	carcinoma	C2916;C3709
 carcinoma with simple and complex components	8010/3	Carcinoma, NOS	DOID:305	carcinoma	C2916;C3709
@@ -2096,8 +2096,8 @@ myofibroblastic tumor, nos	8825/1	Myofibroblastic tumor, NOS	__CDA_UNASSIGNED__	
 myofibroblastic tumor, peribronchial	8827/1	Myofibroblastic tumor, peribronchial	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myofibroma	8824/0	Myofibroma	DOID:4386	myofibroma	__CDA_UNASSIGNED__
 myofibromatosis	8824/1	Myofibromatosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-myomatous neoplasm	Myomatous neoplasms	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-myomatous neoplasms	Myomatous neoplasms	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+myomatous neoplasm	889-892	myomatous neoplasm	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+myomatous neoplasms	889-892	myomatous neoplasm	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myxofibrosarcoma	8811/3	Myxofibrosarcoma	DOID:0080534	myxofibrosarcoma	C6496
 myxoid chondrosarcoma	9231/3	Myxoid chondrosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myxoid glioneuronal tumor	9509/1	Papillary glioneuronal tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2165,8 +2165,8 @@ neoplasm, uncertain whether benign or malignant, meningioma, other	9530/0	Mening
 neoplasms, nos	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 nephroblastoma (wilms tumor)	8960/3	Nephroblastoma, NOS	DOID:2154	nephroblastoma	C27730;C3267;C6180
 nephroblastoma, nos	8960/3	Nephroblastoma, NOS	DOID:2154	nephroblastoma	C27730;C3267;C6180
-nerve sheath neoplasm	954-957	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-nerve sheath tumors	954-957	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+nerve sheath neoplasm	954-957	Nerve sheath tumors	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+nerve sheath tumors	954-957	Nerve sheath tumors	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neurilemoma, nos	9560/0	Schwannoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 neurinomatosis	9560/1	Melanotic schwannoma	DOID:3204	schwannomatosis	C6557
 neuroblastoma	9500/3	Neuroblastoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__

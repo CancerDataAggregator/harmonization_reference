@@ -1,0 +1,2819 @@
+icd_o_3_code	slim cancer type	
+null		
+8000/1	Neoplasms	
+8000/0	Neoplasms	
+8000/3	Neoplasms	
+8000/6	Neoplasms	
+8002/3	Neoplasms	
+8004/3	Neoplasms	
+8010/2	Epithelial neoplasms	
+8010/3	Epithelial neoplasms	
+8010/6	Epithelial neoplasms	
+8012/3	Epithelial neoplasms	
+8013/3	Epithelial neoplasms	
+8015/3	Epithelial neoplasms	
+8020/3	Epithelial neoplasms	
+8020/6	Epithelial neoplasms	
+8021/3	Epithelial neoplasms	
+8022/3	Epithelial neoplasms	
+8023/3	Epithelial neoplasms	
+8031/3	Epithelial neoplasms	
+8032/3	Epithelial neoplasms	
+8033/3	Epithelial neoplasms	
+8035/3	Epithelial neoplasms	
+8041/3	Epithelial neoplasms	
+8041/6	Epithelial neoplasms	
+8042/3	Epithelial neoplasms	
+8045/3	Epithelial neoplasms	
+8046/3	Epithelial neoplasms	
+8050/3	Squamous cell neoplasms	
+8051/3	Squamous cell neoplasms	
+8052/3	Squamous cell neoplasms	
+8070/2	Squamous cell neoplasms	
+8070/3	Squamous cell neoplasms	
+8070/6	Squamous cell neoplasms	
+8071/3	Squamous cell neoplasms	
+8072/3	Squamous cell neoplasms	
+8073/3	Squamous cell neoplasms	
+8074/3	Squamous cell neoplasms	
+8082/3	Squamous cell neoplasms	
+8083/3	Squamous cell neoplasms	
+8084/3	Squamous cell neoplasms	
+8090/3	Basal cell neoplasms	
+8097/3	Basal cell neoplasms	
+8098/3	Basal cell neoplasms	
+8120/2	Transitional cell papillomas and carcinomas	
+8120/3	Transitional cell papillomas and carcinomas	
+8121/1	Transitional cell papillomas and carcinomas	
+8121/3	Transitional cell papillomas and carcinomas	
+8123/3	Transitional cell papillomas and carcinomas	
+8130/2	Transitional cell papillomas and carcinomas	
+8130/3	Transitional cell papillomas and carcinomas	
+8140/0	Adenomas and Adenomas and adenocarcinomas	
+8140/1	Adenomas and Adenomas and adenocarcinomas	
+8140/2	Adenomas and Adenomas and adenocarcinomas	
+8140/3	Adenomas and Adenomas and adenocarcinomas	
+8140/6	Adenomas and Adenomas and adenocarcinomas	
+8144/3	Adenomas and Adenomas and adenocarcinomas	
+8145/3	Adenomas and Adenomas and adenocarcinomas	
+8150/1	Adenomas and Adenomas and adenocarcinomas	
+8150/3	Adenomas and Adenomas and adenocarcinomas	
+8160/3	Adenomas and Adenomas and adenocarcinomas	
+8163/3	Adenomas and Adenomas and adenocarcinomas	
+8170/3	Adenomas and Adenomas and adenocarcinomas	
+8171/3	Adenomas and Adenomas and adenocarcinomas	
+8173/3	Adenomas and Adenomas and adenocarcinomas	
+8174/3	Adenomas and Adenomas and adenocarcinomas	
+8180/3	Adenomas and Adenomas and adenocarcinomas	
+8200/3	Adenomas and Adenomas and adenocarcinomas	
+8201/3	Adenomas and Adenomas and adenocarcinomas	
+8210/2	Adenomas and Adenomas and adenocarcinomas	
+8211/0	Adenomas and Adenomas and adenocarcinomas	
+8211/3	Adenomas and Adenomas and adenocarcinomas	
+8211/6	Adenomas and Adenomas and adenocarcinomas	
+8213/0	Adenomas and Adenomas and adenocarcinomas	
+8215/3	Adenomas and Adenomas and adenocarcinomas	
+8220/3	Adenomas and Adenomas and adenocarcinomas	
+8230/3	Adenomas and Adenomas and adenocarcinomas	
+8240/3	Adenomas and Adenomas and adenocarcinomas	
+8243/3	Adenomas and Adenomas and adenocarcinomas	
+8246/3	Adenomas and Adenomas and adenocarcinomas	
+8246/6	Adenomas and Adenomas and adenocarcinomas	
+8247/3	Adenomas and Adenomas and adenocarcinomas	
+8249/3	Adenomas and Adenomas and adenocarcinomas	
+8249/6	Adenomas and Adenomas and adenocarcinomas	
+8250/3	Adenomas and Adenomas and adenocarcinomas	
+8252/3	Adenomas and Adenomas and adenocarcinomas	
+8253/3	Adenomas and Adenomas and adenocarcinomas	
+8255/3	Adenomas and Adenomas and adenocarcinomas	
+8260/3	Adenomas and Adenomas and adenocarcinomas	
+8262/3	Adenomas and Adenomas and adenocarcinomas	
+8263/0	Adenomas and Adenomas and adenocarcinomas	
+8263/3	Adenomas and Adenomas and adenocarcinomas	
+8265/3	Adenomas and Adenomas and adenocarcinomas	
+8272/0	Adenomas and Adenomas and adenocarcinomas	
+8272/3	Adenomas and Adenomas and adenocarcinomas	
+8290/0	Adenomas and Adenomas and adenocarcinomas	
+8290/3	Adenomas and Adenomas and adenocarcinomas	
+8310/3	Adenomas and Adenomas and adenocarcinomas	
+8311/3	Adenomas and Adenomas and adenocarcinomas	
+8312/3	Adenomas and Adenomas and adenocarcinomas	
+8317/3	Adenomas and Adenomas and adenocarcinomas	
+8318/3	Adenomas and Adenomas and adenocarcinomas	
+8319/3	Adenomas and Adenomas and adenocarcinomas	
+8330/3	Adenomas and Adenomas and adenocarcinomas	
+8331/3	Adenomas and Adenomas and adenocarcinomas	
+8335/3	Adenomas and Adenomas and adenocarcinomas	
+8337/3	Adenomas and Adenomas and adenocarcinomas	
+8340/3	Adenomas and Adenomas and adenocarcinomas	
+8341/3	Adenomas and Adenomas and adenocarcinomas	
+8342/3	Adenomas and Adenomas and adenocarcinomas	
+8344/3	Adenomas and Adenomas and adenocarcinomas	
+8350/3	Adenomas and Adenomas and adenocarcinomas	
+8370/0	Adenomas and Adenomas and adenocarcinomas	
+8370/3	Adenomas and Adenomas and adenocarcinomas	
+8380/1	Adenomas and Adenomas and adenocarcinomas	
+8380/3	Adenomas and Adenomas and adenocarcinomas	
+8382/3	Adenomas and Adenomas and adenocarcinomas	
+8384/3	Adenomas and Adenomas and adenocarcinomas	
+8390/3	Adnexal and skin appendage neoplasms	
+8400/3	Adnexal and skin appendage neoplasms	
+8401/3	Adnexal and skin appendage neoplasms	
+8403/0	Adnexal and skin appendage neoplasms	
+8409/3	Adnexal and skin appendage neoplasms	
+8410/3	Adnexal and skin appendage neoplasms	
+8430/3	Mucoepidermoid neoplasms	
+8440/3	"Cystic, mucinous and serous neoplasms"	
+8441/0	"Cystic, mucinous and serous neoplasms"	
+8441/3	"Cystic, mucinous and serous neoplasms"	
+8441/6	"Cystic, mucinous and serous neoplasms"	
+8442/1	"Cystic, mucinous and serous neoplasms"	
+8452/1	"Cystic, mucinous and serous neoplasms"	
+8452/3	"Cystic, mucinous and serous neoplasms"	
+8453/3	"Cystic, mucinous and serous neoplasms"	
+8461/3	"Cystic, mucinous and serous neoplasms"	
+8461/6	"Cystic, mucinous and serous neoplasms"	
+8470/0	"Cystic, mucinous and serous neoplasms"	
+8472/1	"Cystic, mucinous and serous neoplasms"	
+8474/3	"Cystic, mucinous and serous neoplasms"	
+8480/3	"Cystic, mucinous and serous neoplasms"	
+8480/6	"Cystic, mucinous and serous neoplasms"	
+8482/3	"Cystic, mucinous and serous neoplasms"	
+8490/3	"Cystic, mucinous and serous neoplasms"	
+8490/6	"Cystic, mucinous and serous neoplasms"	
+8500/2	Ductal and lobular neoplasms	
+8500/3	Ductal and lobular neoplasms	
+8500/6	Ductal and lobular neoplasms	
+8501/2	Ductal and lobular neoplasms	
+8502/3	Ductal and lobular neoplasms	
+8503/2	Ductal and lobular neoplasms	
+8503/3	Ductal and lobular neoplasms	
+8507/3	Ductal and lobular neoplasms	
+8510/3	Ductal and lobular neoplasms	
+8520/2	Ductal and lobular neoplasms	
+8520/3	Ductal and lobular neoplasms	
+8521/1	Ductal and lobular neoplasms	
+8521/3	Ductal and lobular neoplasms	
+8522/1	Ductal and lobular neoplasms	
+8522/3	Ductal and lobular neoplasms	
+8523/3	Ductal and lobular neoplasms	
+8524/3	Ductal and lobular neoplasms	
+8530/3	Ductal and lobular neoplasms	
+8540/3	Ductal and lobular neoplasms	
+8541/3	Ductal and lobular neoplasms	
+8542/3	Ductal and lobular neoplasms	
+8550/1	Acinar cell neoplasms	
+8550/3	Acinar cell neoplasms	
+8560/3	Complex epithelial neoplasms	
+8562/3	Complex epithelial neoplasms	
+8574/3	Complex epithelial neoplasms	
+8575/3	Complex epithelial neoplasms	
+8576/3	Complex epithelial neoplasms	
+8580/1	Thymic epithelial neoplasms	
+8580/3	Thymic epithelial neoplasms	
+8581/3	Thymic epithelial neoplasms	
+8582/3	Thymic epithelial neoplasms	
+8583/3	Thymic epithelial neoplasms	
+8584/3	Thymic epithelial neoplasms	
+8585/3	Thymic epithelial neoplasms	
+8586/3	Thymic epithelial neoplasms	
+8590/1	Specialized gonadal neoplasms	
+8600/0	Specialized gonadal neoplasms	
+8620/1	Specialized gonadal neoplasms	
+8620/3	Specialized gonadal neoplasms	
+8622/1	Specialized gonadal neoplasms	
+8631/1	Specialized gonadal neoplasms	
+8631/3	Specialized gonadal neoplasms	
+8634/3	Specialized gonadal neoplasms	
+8670/0	Specialized gonadal neoplasms	
+8680/1	Paragangliomas and glomus tumors	
+8680/3	Paragangliomas and glomus tumors	
+8691/1	Paragangliomas and glomus tumors	
+8693/1	Paragangliomas and glomus tumors	
+8693/3	Paragangliomas and glomus tumors	
+8700/0	Paragangliomas and glomus tumors	
+8700/3	Paragangliomas and glomus tumors	
+8710/3	Paragangliomas and glomus tumors	
+8711/0	Paragangliomas and glomus tumors	
+8711/3	Paragangliomas and glomus tumors	
+8720/2	Nevi and melanomas	
+8720/3	Nevi and melanomas	
+8720/6	Nevi and melanomas	
+8721/3	Nevi and melanomas	
+8728/3	Nevi and melanomas	
+8730/3	Nevi and melanomas	
+8742/0	Nevi and melanomas	
+8742/2	Nevi and melanomas	
+8742/3	Nevi and melanomas	
+8743/3	Nevi and melanomas	
+8744/3	Nevi and melanomas	
+8745/3	Nevi and melanomas	
+8746/3	Nevi and melanomas	
+8761/1	Nevi and melanomas	
+8762/1	Nevi and melanomas	
+8770/3	Nevi and melanomas	
+8771/3	Nevi and melanomas	
+8772/0	Nevi and melanomas	
+8772/3	Nevi and melanomas	
+8774/3	Nevi and melanomas	
+8780/3	Nevi and melanomas	
+8800/3	Soft tissue tumors and sarcomas	
+8801/3	Soft tissue tumors and sarcomas	
+8801/6	Soft tissue tumors and sarcomas	
+8802/3	Soft tissue tumors and sarcomas	
+8803/3	Soft tissue tumors and sarcomas	
+8804/3	Soft tissue tumors and sarcomas	
+8804/6	Soft tissue tumors and sarcomas	
+8805/3	Soft tissue tumors and sarcomas	
+8806/3	Soft tissue tumors and sarcomas	
+8810/3	Fibromatous neoplasms	
+8811/3	Fibromatous neoplasms	
+8814/3	Fibromatous neoplasms	
+8815/0	Fibromatous neoplasms	
+8821/1	Fibromatous neoplasms	
+8822/1	Fibromatous neoplasms	
+8824/0	Fibromatous neoplasms	
+8824/1	Fibromatous neoplasms	
+8825/1	Fibromatous neoplasms	
+8826/0	Fibromatous neoplasms	
+8827/1	Fibromatous neoplasms	
+8830/3	Fibromatous neoplasms	
+8832/0	Fibromatous neoplasms	
+8832/3	Fibromatous neoplasms	
+8836/1	Fibromatous neoplasms	
+8840/0	Myxomatous neoplasms	
+8840/3	Myxomatous neoplasms	
+8842/0	Myxomatous neoplasms	
+8850/3	Lipomatous neoplasms	
+8851/3	Lipomatous neoplasms	
+8852/3	Lipomatous neoplasms	
+8854/3	Lipomatous neoplasms	
+8858/3	Lipomatous neoplasms	
+8860/0	Lipomatous neoplasms	
+8881/0	Lipomatous neoplasms	
+8890/0	Myomatous neoplasms	
+8890/3	Myomatous neoplasms	
+8891/3	Myomatous neoplasms	
+8896/3	Myomatous neoplasms	
+8897/1	Myomatous neoplasms	
+8900/3	Myomatous neoplasms	
+8901/3	Myomatous neoplasms	
+8902/3	Myomatous neoplasms	
+8910/3	Myomatous neoplasms	
+8912/3	Myomatous neoplasms	
+8920/3	Myomatous neoplasms	
+8920/6	Myomatous neoplasms	
+8930/3	Complex mixed and stromal neoplasms	
+8931/3	Complex mixed and stromal neoplasms	
+8933/3	Complex mixed and stromal neoplasms	
+8936/1	Complex mixed and stromal neoplasms	
+8936/3	Complex mixed and stromal neoplasms	
+8950/3	Complex mixed and stromal neoplasms	
+8950/6	Complex mixed and stromal neoplasms	
+8951/3	Complex mixed and stromal neoplasms	
+8959/0	Complex mixed and stromal neoplasms	
+8960/1	Complex mixed and stromal neoplasms	
+8960/3	Complex mixed and stromal neoplasms	
+8963/3	Complex mixed and stromal neoplasms	
+8964/3	Complex mixed and stromal neoplasms	
+8970/3	Complex mixed and stromal neoplasms	
+8971/3	Complex mixed and stromal neoplasms	
+8973/3	Complex mixed and stromal neoplasms	
+8980/3	Complex mixed and stromal neoplasms	
+8982/3	Complex mixed and stromal neoplasms	
+8983/0	Complex mixed and stromal neoplasms	
+8990/1	Complex mixed and stromal neoplasms	
+8991/3	Complex mixed and stromal neoplasms	
+9000/0	Fibroepithelial neoplasms	
+9020/1	Fibroepithelial neoplasms	
+9020/3	Fibroepithelial neoplasms	
+9040/3	Synovial-like neoplasms	
+9041/3	Synovial-like neoplasms	
+9043/3	Synovial-like neoplasms	
+9044/3	Synovial-like neoplasms	
+9050/3	Mesothelial neoplasms	
+9051/3	Mesothelial neoplasms	
+9052/3	Mesothelial neoplasms	
+9053/3	Mesothelial neoplasms	
+9060/3	Germ cell neoplasms	
+9061/3	Germ cell neoplasms	
+9064/3	Germ cell neoplasms	
+9065/3	Germ cell neoplasms	
+9070/3	Germ cell neoplasms	
+9071/3	Germ cell neoplasms	
+9080/0	Germ cell neoplasms	
+9080/1	Germ cell neoplasms	
+9080/3	Germ cell neoplasms	
+9081/3	Germ cell neoplasms	
+9084/3	Germ cell neoplasms	
+9085/3	Germ cell neoplasms	
+9100/0	Trophoblastic neoplasms	
+9100/3	Trophoblastic neoplasms	
+9101/3	Trophoblastic neoplasms	
+9105/3	Trophoblastic neoplasms	
+9110/3	Mesonephromas	
+9120/0	Blood vessel tumors	
+9120/3	Blood vessel tumors	
+9124/3	Blood vessel tumors	
+9130/1	Blood vessel tumors	
+9133/3	Blood vessel tumors	
+9137/3	Blood vessel tumors	
+8815/1	Fibromatous neoplasms	
+9161/1	Blood vessel tumors	
+9170/0	Lymphatic vessel tumors	
+9174/1	Lymphatic vessel tumors	
+9180/3	Osseous and chondromatous neoplasms	
+9181/3	Osseous and chondromatous neoplasms	
+9182/3	Osseous and chondromatous neoplasms	
+9183/3	Osseous and chondromatous neoplasms	
+9184/3	Osseous and chondromatous neoplasms	
+9185/3	Osseous and chondromatous neoplasms	
+9186/3	Osseous and chondromatous neoplasms	
+9187/3	Osseous and chondromatous neoplasms	
+9194/3	Osseous and chondromatous neoplasms	
+9220/3	Osseous and chondromatous neoplasms	
+9230/0	Osseous and chondromatous neoplasms	
+9231/3	Osseous and chondromatous neoplasms	
+9240/3	Osseous and chondromatous neoplasms	
+9243/3	Osseous and chondromatous neoplasms	
+9250/1	Giant cell tumors	
+9250/3	Giant cell tumors	
+9252/0	Giant cell tumors	
+9364/3	Miscellaneous tumors	
+9270/3	Odontogenic tumors	
+9341/3	Odontogenic tumors	
+9350/1	Miscellaneous tumors	
+9351/1	Miscellaneous tumors	
+9352/1	Miscellaneous tumors	
+9360/1	Miscellaneous tumors	
+9362/3	Miscellaneous tumors	
+9363/0	Miscellaneous tumors	
+9370/3	Miscellaneous tumors	
+9371/3	Miscellaneous tumors	
+9380/3	Gliomas	
+9382/3	Gliomas	
+9383/1	Gliomas	
+9384/1	Gliomas	
+9385/3	Gliomas	
+9390/0	Gliomas	
+9390/1	Gliomas	
+9390/3	Gliomas	
+9391/3	Gliomas	
+9392/3	Gliomas	
+9394/1	Gliomas	
+9395/3	Gliomas	
+9400/3	Gliomas	
+9401/3	Gliomas	
+9413/0	Gliomas	
+9421/1	Gliomas	
+9424/3	Gliomas	
+9425/3	Gliomas	
+9430/3	Gliomas	
+9431/1	Gliomas	
+9432/1	Gliomas	
+9440/3	Gliomas	
+9441/3	Gliomas	
+9442/3	Gliomas	
+9450/3	Gliomas	
+9451/3	Gliomas	
+9470/3	Gliomas	
+9471/3	Gliomas	
+9473/3	Gliomas	
+9474/3	Gliomas	
+9478/3	Gliomas	
+9490/0	Neuroepitheliomatous neoplasms	
+9490/3	Neuroepitheliomatous neoplasms	
+9500/3	Neuroepitheliomatous neoplasms	
+9503/3	Neuroepitheliomatous neoplasms	
+9505/1	Neuroepitheliomatous neoplasms	
+9505/3	Neuroepitheliomatous neoplasms	
+9506/1	Neuroepitheliomatous neoplasms	
+9508/3	Neuroepitheliomatous neoplasms	
+9509/1	Neuroepitheliomatous neoplasms	
+9510/3	Neuroepitheliomatous neoplasms	
+9522/3	Neuroepitheliomatous neoplasms	
+9530/0	Meningiomas	
+9530/3	Meningiomas	
+9538/3	Meningiomas	
+9539/1	Meningiomas	
+9540/0	Nerve sheath tumors	
+9540/3	Nerve sheath tumors	
+9560/0	Nerve sheath tumors	
+9560/1	Nerve sheath tumors	
+9580/0	Granular cell tumors and alveolar soft part sarcomas	
+9581/3	Granular cell tumors and alveolar soft part sarcomas	
+9590/3	Hodgkin and non-Hodgkin lymphomas	
+9591/3	Hodgkin and non-Hodgkin lymphomas	
+9596/3	Hodgkin and non-Hodgkin lymphomas	
+9597/3	Hodgkin and non-Hodgkin lymphomas	
+9650/3	Hodgkin and non-Hodgkin lymphomas	
+9659/3	Hodgkin and non-Hodgkin lymphomas	
+9663/3	Hodgkin and non-Hodgkin lymphomas	
+9670/3	Hodgkin and non-Hodgkin lymphomas	
+9673/3	Hodgkin and non-Hodgkin lymphomas	
+9678/3	Hodgkin and non-Hodgkin lymphomas	
+9679/3	Hodgkin and non-Hodgkin lymphomas	
+9680/3	Hodgkin and non-Hodgkin lymphomas	
+9687/3	Hodgkin and non-Hodgkin lymphomas	
+9688/3	Hodgkin and non-Hodgkin lymphomas	
+9690/3	Hodgkin and non-Hodgkin lymphomas	
+9699/3	Hodgkin and non-Hodgkin lymphomas	
+9700/3	Hodgkin and non-Hodgkin lymphomas	
+9701/3	Hodgkin and non-Hodgkin lymphomas	
+9702/3	Hodgkin and non-Hodgkin lymphomas	
+9705/3	Hodgkin and non-Hodgkin lymphomas	
+9708/3	Hodgkin and non-Hodgkin lymphomas	
+9709/3	Hodgkin and non-Hodgkin lymphomas	
+9712/3	Hodgkin and non-Hodgkin lymphomas	
+9714/3	Hodgkin and non-Hodgkin lymphomas	
+9727/3	Hodgkin and non-Hodgkin lymphomas	
+9811/3	Leukemias	
+9732/3	Plasma Cell Tumors	
+9738/3	Plasma Cell Tumors	
+9741/1	Mast Cell Tumors	
+9741/3	Mast Cell Tumors	
+9750/3	Neoplasms of histiocytes and accessory lymphoid cells	
+9751/1	Neoplasms of histiocytes and accessory lymphoid cells	
+9751/3	Neoplasms of histiocytes and accessory lymphoid cells	
+9757/3	Neoplasms of histiocytes and accessory lymphoid cells	
+9758/3	Neoplasms of histiocytes and accessory lymphoid cells	
+9761/3	Immunoproliferative diseases	
+9800/3	Leukemias	
+9801/3	Leukemias	
+9806/3	Leukemias	
+9807/3	Leukemias	
+9808/3	Leukemias	
+9809/3	Leukemias	
+9812/3	Leukemias	
+9813/3	Leukemias	
+9814/3	Leukemias	
+9815/3	Leukemias	
+9816/3	Leukemias	
+9818/3	Leukemias	
+9820/3	Leukemias	
+9823/3	Leukemias	
+9827/3	Leukemias	
+9831/3	Leukemias	
+9834/3	Leukemias	
+9835/3	Leukemias	
+9837/3	Leukemias	
+9840/3	Leukemias	
+9860/3	Leukemias	
+9861/3	Leukemias	
+9863/3	Leukemias	
+9865/3	Leukemias	
+9866/3	Leukemias	
+9867/3	Leukemias	
+9869/3	Leukemias	
+9871/3	Leukemias	
+9872/3	Leukemias	
+9873/3	Leukemias	
+9874/3	Leukemias	
+9875/3	Leukemias	
+9876/3	Leukemias	
+9891/3	Leukemias	
+9895/3	Leukemias	
+9896/3	Leukemias	
+9897/3	Leukemias	
+9898/1	Leukemias	
+9898/3	Leukemias	
+9910/3	Leukemias	
+9920/3	Leukemias	
+9930/3	Leukemias	
+9940/3	Leukemias	
+9945/3	Leukemias	
+9946/3	Leukemias	
+9950/3	Chronic myeloproliferative disorders	
+9960/3	Chronic myeloproliferative disorders	
+9961/3	Chronic myeloproliferative disorders	
+9962/3	Chronic myeloproliferative disorders	
+9963/3	Chronic myeloproliferative disorders	
+9964/3	Chronic myeloproliferative disorders	
+9965/3	Chronic myeloproliferative disorders	
+9970/1	Other hematologic disorders	
+9975/3	Other hematologic disorders	
+9982/3	Myelodysplastic syndromes	
+9983/3	Myelodysplastic syndromes	
+9985/3	Myelodysplastic syndromes	
+9986/3	Myelodysplastic syndromes	
+9987/3	Myelodysplastic syndromes	
+9989/3	Myelodysplastic syndromes	
+8075/3	Squamous cell neoplasms	
+8550/0	Acinar cell neoplasms	
+9878/3	Leukemias	
+9877/3	Leukemias	
+8261/3	Adenomas and Adenomas and adenocarcinomas	
+839-842	Adnexal and skin appendage neoplasms	
+9342/3	Odontogenic tumors	
+8894/3	Myomatous neoplasms	
+8691/3	Paragangliomas and glomus tumors	
+9123/0	Blood vessel tumors	
+9445/3	Gliomas	
+8147/3	Adenomas and Adenomas and adenocarcinomas	
+809-811	Basal cell neoplasms	
+912-916	Blood vessel tumors	
+9180/0	Osseous and chondromatous neoplasms	
+9121/0	Blood vessel tumors	
+9230/1	Osseous and chondromatous neoplasms	
+9396/3	Gliomas	
+8310/0	Adenomas and Adenomas and adenocarcinomas	
+9538/1	Meningiomas	
+8210/0	Adenomas and Adenomas and adenocarcinomas	
+856-857	Complex epithelial neoplasms	
+893-899	Complex mixed and stromal neoplasms	
+8720/0	Nevi and melanomas	
+844-849	"Cystic, mucinous and serous neoplasms"	
+9084/0	Germ cell neoplasms	
+8823/0	Fibromatous neoplasms	
+9412/1	Gliomas	
+8728/0	Nevi and melanomas	
+850-854	Ductal and lobular neoplasms	
+8010/0	Neoplasms	
+8010/0	Epithelial neoplasms	
+8771/0	Nevi and melanomas	
+8220/0	Adenomas and Adenomas and adenocarcinomas	
+9420/3	Gliomas	
+8225/1	Adenomas and Adenomas and adenocarcinomas	
+900-903	Fibroepithelial neoplasms	
+8851/0	Lipomatous neoplasms	
+8810/0	Fibromatous neoplasms	
+881-883	Fibromatous neoplasms	
+9492/0	Neuroepitheliomatous neoplasms	
+8936/0	Complex mixed and stromal neoplasms	
+8905/0	Myomatous neoplasms	
+906-909	Germ cell neoplasms	
+9251/1	Giant cell tumors	
+9477/3	Gliomas	
+9381/3	Gliomas	
+9130/3	Blood vessel tumors	
+9716/3	Hodgkin and non-Hodgkin lymphomas	
+9561/3	Nerve sheath tumors	
+8990/3	Complex mixed and stromal neoplasms	
+9755/3	Neoplasms of histiocytes and accessory lymphoid cells	
+8336/1	Adenomas and Adenomas and adenocarcinomas	
+8507/2	Ductal and lobular neoplasms	
+8453/2	"Cystic, mucinous and serous neoplasms"	
+8453/0	"Cystic, mucinous and serous neoplasms"	
+9140/3	Blood vessel tumors	
+8271/0	Adenomas and Adenomas and adenocarcinomas	
+8050/0	Squamous cell neoplasms	
+8650/0	Specialized gonadal neoplasms	
+8650/1	Specialized gonadal neoplasms	
+8880/0	Lipomatous neoplasms	
+8850/0	Lipomatous neoplasms	
+8714/3	Paragangliomas and glomus tumors	
+9742/3	Mast Cell Tumors	
+9740/1	Mast Cell Tumors	
+967-969	Hodgkin and non-Hodgkin lymphomas	
+970-971	Hodgkin and non-Hodgkin lymphomas	
+9501/3	Neuroepitheliomatous neoplasms	
+8728/1	Nevi and melanomas	
+9530/1	Meningiomas	
+9531/0	Meningiomas	
+9500/6	Neuroepitheliomatous neoplasms	
+8940/0	Complex mixed and stromal neoplasms	
+8481/3	"Cystic, mucinous and serous neoplasms"	
+8470/2	"Cystic, mucinous and serous neoplasms"	
+9993/3	Myelodysplastic syndromes	
+9980/3	Myelodysplastic syndromes	
+889-892	myomatous neoplasm	
+954-957	Nerve sheath tumors	
+9570/0	Nerve sheath tumors	
+872-879	Nevi and melanomas	
+9521/3	Neuroepitheliomatous neoplasms	
+918-924	Osseous and chondromatous neoplasms	
+9262/0	Miscellaneous bone tumors	
+9200/0	Osseous and chondromatous neoplasms	
+8602/0	Specialized gonadal neoplasms	
+9135/1	Blood vessel tumors	
+8460/3	"Cystic, mucinous and serous neoplasms"	
+868-871	Paragangliomas and glomus tumors	
+9192/3	Osseous and chondromatous neoplasms	
+9571/0	Nerve sheath tumors	
+9193/3	Osseous and chondromatous neoplasms	
+8833/1	Fibromatous neoplasms	
+9731/3	Plasma Cell Tumors	
+9734/3	Plasma Cell Tumors	
+8835/1	Fibromatous neoplasms	
+9550/0	Nerve sheath tumors	
+9718/3	Hodgkin and non-Hodgkin lymphomas	
+9533/0	Meningiomas	
+9138/1	Blood vessel tumors	
+8832/1	Fibromatous neoplasms	
+9512/3	Neuroepitheliomatous neoplasms	
+9511/3	Neuroepitheliomatous neoplasms	
+8900/0	Myomatous neoplasms	
+8410/0	Adnexal and skin appendage neoplasms	
+8634/1	Specialized gonadal neoplasms	
+8591/1	Specialized gonadal neoplasms	
+8592/1	Specialized gonadal neoplasms	
+8800/0	Soft tissue tumors and sarcomas	
+880	Soft tissue tumors and sarcomas	
+859-867	Specialized gonadal neoplasms	
+805-808	Squamous cell neoplasms	
+858	Thymic epithelial neoplasms	
+8190/3	Adenomas and Adenomas and adenocarcinomas	
+812-813	Transitional cell papillomas and carcinomas	
+8001/0	Neoplasms	
+8001/3	Neoplasms	
+8001/1	Neoplasms	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
