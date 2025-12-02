@@ -1,0 +1,157 @@
+> 8000/6	8000/6	Neoplasm, metastatic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+27a29,32
+> 8000/9	8000/9	Neoplasm, malignant, uncertain whether primary or metastatic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 8001/0	8001/0	Tumor cells, benign	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 8001/1	8001/1	Tumor cells, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 8001/3	8001/3	Tumor cells, malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+29a35
+> 8010/0	8010/0	Epithelial tumor, benign	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+33a40
+> 8010/9	8010/9	Carcinomatosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+95a103
+> 8155/3	8155/3	Vipoma, NOS	DOID:5574	VIPoma	C26749
+117a126
+> 8240/1	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+120a130
+> 8244/3	8244/3	Mixed adenoneuroendocrine carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+132a143
+> 8257/3	8257/3	Minimally invasive adenocarcinoma, mucinous	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+155c166
+< 8337/3	8337/3	Poorly differentiated thyroid carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+---
+> 8337/3	8337/3	Poorly differentiated thyroid carcinoma	DOID:3972	poorly differentiated thyroid carcinoma	C6040
+185a197
+> 8453/2	8453/2	Intraductal Papillary mucinous neoplasm with high grade dysplasia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+233a246
+> 8580/3	8580/3	Thymoma, NOS	DOID:3275	thymoma	C3411
+245a259,260
+> 8591/1	8591/1	Sex cord-gonadal stromal tumor, incompletely differentiated	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 8592/1	8592/1	Sex cord-gonadal stromal tumor, mixed forms	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+246a262
+> 8602/0	8602/0	Sclerosing stromal tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+248a265
+> 8622/1	8622/1	Granulosa cell tumor, juvenile	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+252a270,271
+> 8634/1	8634/1	Sertoli-Leydig cell tumor, intermediate differentiation, with heterologous elements	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 8634/3	8634/3	Sertoli-Leydig cell tumor, poorly differentiated, with heterologous elements	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+253a273,275
+> 8640/1	8640/1	Sertoli cell tumor, NOS	DOID:3577	Sertoli cell tumor	C39976
+> 8650/0	8650/0	Leydig cell tumor of the ovary, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 8650/1	8650/1	Leydig cell tumor of the testis, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+257a280
+> 8681/1	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+273a297
+> 8728/1	8728/1	Meningeal melanocytoma	DOID:5900	meningeal melanocytoma	C4662
+291a316
+> 8800/0	8800/0	Soft tissue tumor, benign	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+308a334
+> 8814/3	8814/3	Infantile fibrosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+310a337
+> 8815/1	8815/1	Solitary fibrous tumor, NOS	DOID:0080897	solitary fibrous tumor/hemangiopericytoma	__CDA_UNASSIGNED__
+314a342,343
+> 8823/0	8823/0	Sclerotic fibroma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 8824/0	8824/0	Myofibroma	DOID:4386	myofibroma	__CDA_UNASSIGNED__
+315a345
+> 8824/1	8824/1	Myofibromatosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+324a355,357
+> 8833/3	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 8835/1	8835/1	Plexiform fibrohistiocytic tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 8836/1	8836/1	Angiomatoid fibrous histiocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+342a376
+> 8894/3	8894/3	Angiomyosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+344a379
+> 8900/0	8900/0	Rhabdomyoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+348a384
+> 8905/0	8905/0	Genital rhabdomyoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+360a397
+> 8936/0	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+363a401
+> 8941/3	8941/3	Carcinoma ex pleomorphic adenoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+385a424
+> 8991/3	8991/3	Embryonal sarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+408,409c447,448
+< 9065/3	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	testicular germ cell tumor non-seminomatous	C9313
+< 9065/3 : germ cell tumor, nonseminomatous	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	testicular germ cell tumor non-seminomatous	C9313
+---
+> 9065/3	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	obsolete testicular germ cell tumor non-seminomatous	__CDA_UNASSIGNED__
+> 9065/3 : germ cell tumor, nonseminomatous	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	obsolete testicular germ cell tumor non-seminomatous	__CDA_UNASSIGNED__
+438a478
+> 9130/3	9130/3	Hemangioendothelioma, malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+466a507
+> 9251/1	9251/1	Giant cell tumor of soft parts, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+471a513
+> 9342/3	9342/3	Odontogenic carcinosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+481a524
+> 9364/3	9364/3	Ewing sarcoma	DOID:3369	Ewing sarcoma	C27901;C27903;C4817;C7542;C7806;C9341
+492a536
+> 9384/1	9384/1	Subependymal giant cell astrocytoma	DOID:5077	subependymal giant cell astrocytoma	C3696
+497a542
+> 9390/3	9390/3	Choroid plexus carcinoma	DOID:5648	choroid plexus carcinoma	C4533;C4715
+511a557
+> 9412/1	9412/1	Desmoplastic infantile astrocytoma	DOID:0081259	desmoplastic infantile ganglioglioma / desmoplastic infantile astrocytoma	C4738;C9476
+512a559
+> 9420/3	9420/3	Fibrillary astrocytoma	DOID:6726	fibrillary astrocytoma	C4322
+525a573
+> 9441/3	9441/3	Giant cell glioblastoma	DOID:3074	giant cell glioblastoma	C4325
+547a596,597
+> 9501/3	9501/3	Medulloepithelioma, NOS	DOID:4790	medulloepithelioma	C66808
+> 9503/3	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+561a612,613
+> 9513/3	9513/3	Retinoblastoma, diffuse	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 9521/3	9521/3	Olfactory neurocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+565a618
+> 9530/1	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+567a621,622
+> 9531/0	9531/0	Meningothelial meningioma	DOID:7212	meningothelial meningioma	C4329
+> 9538/1	9538/1	Clear cell meningioma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+571a627
+> 9540/1	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+576a633,634
+> 9561/3	9561/3	Malignant peripheral nerve sheath tumor with rhabdomyoblastic differentiation	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+> 9570/0	9570/0	Neuroma, NOS	DOID:2001	neuroma	C3275
+607c665
+< 9708/3 : subcutaneous panniculitis-like t-cell lymphoma	9708/3	Subcutaneous panniculitis-like T-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+---
+> 9708/3 : subcutaneous panniculitis-like t-cell lymphoma	9708/3	Subcutaneous panniculitis-like T-cell lymphoma	DOID:0070662	subcutaneous panniculitis-like T-cell lymphoma	C6918
+616a675
+> 9734/3	9734/3	Plasmacytoma, extramedullary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+987a1047
+> carcinoid tumor of uncertain malignant potential	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+989a1050
+> carcinoma in pleomorphic adenoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+999a1061
+> carcinomatosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+1414,1415c1476,1477
+< germ cell tumor, nonseminomatous	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	testicular germ cell tumor non-seminomatous	C9313
+< germ cell tumor, nonseminomatous, cns germ cell tumors, cns non-germinomatous germ cell tumor	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	testicular germ cell tumor non-seminomatous	C9313
+---
+> germ cell tumor, nonseminomatous	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	obsolete testicular germ cell tumor non-seminomatous	__CDA_UNASSIGNED__
+> germ cell tumor, nonseminomatous, cns germ cell tumors, cns non-germinomatous germ cell tumor	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	obsolete testicular germ cell tumor non-seminomatous	__CDA_UNASSIGNED__
+1418,1419c1480,1481
+< germinoma, cns germ cell tumors, cns germinoma	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	testicular germ cell tumor non-seminomatous	C9313
+< germinoma, cns germ cell tumors, cns non-germinomatous germ cell tumor	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	testicular germ cell tumor non-seminomatous	C9313
+---
+> germinoma, cns germ cell tumors, cns germinoma	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	obsolete testicular germ cell tumor non-seminomatous	__CDA_UNASSIGNED__
+> germinoma, cns germ cell tumors, cns non-germinomatous germ cell tumor	9065/3	Germ cell tumor, nonseminomatous	DOID:4086	obsolete testicular germ cell tumor non-seminomatous	__CDA_UNASSIGNED__
+1657c1719
+< insular carcinoma	8337/3	Poorly differentiated thyroid carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+---
+> insular carcinoma	8337/3	Poorly differentiated thyroid carcinoma	DOID:3972	poorly differentiated thyroid carcinoma	C6040
+1671a1734
+> intraductal papillary-mucinous carcinoma, non-invasive	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+2023a2087
+> minimally invasive adenocarcinoma, mucinous	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+2027a2092
+> mixed adenoneuroendocrine carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+2219a2285
+> odontogenic carcinosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+2492a2559
+> retinoblastoma, diffuse	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+2670c2737
+< subcutaneous panniculitis-like t-cell lymphoma	9708/3	Subcutaneous panniculitis-like T-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+---
+> subcutaneous panniculitis-like t-cell lymphoma	9708/3	Subcutaneous panniculitis-like T-cell lymphoma	DOID:0070662	subcutaneous panniculitis-like T-cell lymphoma	C6918
+2685a2753
+> sympathetic paraganglioma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+2807a2876
+> vipoma, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNAS
