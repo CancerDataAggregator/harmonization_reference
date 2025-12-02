@@ -16,6 +16,7 @@ abdomenpelvis	UBERON:0035819	abdominopelvic cavity
 abdominal esophagus	UBERON:0035177	abdominal part of esophagus
 abdominal lymph node	UBERON:0002507	abdominal lymph node
 abdominal wall	UBERON:0003697	abdominal wall
+accessory sinus, nos	UBERON:0001825	paranasal sinus
 accessory sinuses	UBERON:0001825	paranasal sinus
 adipose tissue	UBERON:0001013	adipose tissue
 adrenal	UBERON:0002369	adrenal gland
@@ -34,7 +35,8 @@ anterior floor of mouth	UBERON:0003679	mouth floor
 anterior mediastinum	UBERON:0008820	anterior mediastinum
 anterior wall of bladder	UBERON:8600046	anterior wall of urinary bladder
 anterior wall of nasopharynx	UBERON:0001707	nasal cavity
-antrum/distal	null	null
+antrum	UBERON:0001165	pyloric antrum
+antrum/distal	UBERON:0001165	pyloric antrum
 anus	UBERON:0001245	anus
 anus and anal canal	UBERON:0000159	anal canal
 anus, nos	UBERON:0001245	anus
@@ -177,6 +179,7 @@ c80 : unknown primary site	null	null
 c80.9 : unknown primary site	null	null
 calf	UBERON:8480048	calf
 cap	UBERON:0002100	trunk
+cardia	UBERON:0001162	cardia of stomach
 cardia, nos	UBERON:0001162	cardia of stomach
 cardia/proximal	UBERON:0001162	cardia of stomach
 cardiac	UBERON:0000948	heart
@@ -276,6 +279,7 @@ ctspine	UBERON:0001130	vertebral column
 cutis	UBERON:0002067	dermis
 descended testis	UBERON:0000473	testis
 descending colon	UBERON:0001158	descending colon
+diaphragm	UBERON:0001103	diaphragm
 distal urethra	UBERON:0000057	urethra
 distant metastasis	null	null
 dome	null	null
@@ -380,6 +384,7 @@ infratemporal fossa	UBERON:0013422	infratemporal fossa
 inguinal lymph node	UBERON:0001542	inguinal lymph node
 inguinal region	UBERON:0008337	inguinal part of abdomen
 innominate bone and/or sacrum and/or coccyx	UBERON:0007830	pelvic girdle bone/zone
+intestinal tract	UBERON:0000160	intestine
 intestinal tract, nos	UBERON:0000160	intestine
 intestine	UBERON:0000160	intestine
 intra-abdominal lymph nodes	UBERON:0002507	abdominal lymph node
@@ -408,6 +413,7 @@ left	null	null
 left adrenal	UBERON:0001234	left adrenal gland
 left adrenal gland	UBERON:0001234	left adrenal gland
 left breast	UBERON:0000310	breast
+left humerus	UBERON:0000976	humerus
 left inguinal lymph node	UBERON:0001542	inguinal lymph node
 left kidney	UBERON:0004538	left kidney
 left lower inner quadrant	null	null
@@ -416,10 +422,12 @@ left lung	UBERON:0002168	left lung
 left neck lymph node	UBERON:0002429	cervical lymph node
 left ovary	UBERON:0002119	left ovary
 left pelvic	UBERON:0011093	left pelvic girdle region
+left pelvis	UBERON:0011093	left pelvic girdle region
 left renal	UBERON:0004538	left kidney
 left renal vein	UBERON:0001142	left renal vein
 left upper inner quadrant	null	null
 left upper outer quadrant	null	null
+left upper paratracheal	UBERON:0038894	paratracheal lymph node
 left upper paratracheal (supra-aortic) mediastinal lymph node	UBERON:0038894	paratracheal lymph node
 leg	UBERON:0000978	leg
 leptomeninges	UBERON:0000391	leptomeninx
@@ -538,6 +546,7 @@ mouth, mandible, mucosa	UBERON:0003729	mouth mucosa
 mouth, maxilla, mucosa	UBERON:0003729	mouth mucosa
 mouth, nos	UBERON:0000165	mouth
 mucosa of lip	UBERON:0036294	mucosa of lip
+mucosa of lip, nos	UBERON:0036294	mucosa of lip
 muscle	UBERON:0001630	muscle organ
 muscle, nos	UBERON:0001630	muscle organ
 myometrium	UBERON:0001296	myometrium
@@ -638,6 +647,7 @@ pancreatic neck	UBERON:8480032	neck of pancreas
 pancreatic structure	UBERON:0001264	pancreas
 para aortic lymph node	UBERON:0016386	paraaortic lymph node
 paraaortic body	UBERON:0001237	paraaortic body
+paraaortic lymph node	UBERON:0016386	paraaortic lymph node
 paraspinal	UBERON:8480060	paraspinal region
 paravertebral	null	null
 parietal lobe	UBERON:0001872	parietal lobe
@@ -691,6 +701,7 @@ pleural cavity	UBERON:0002402	pleural cavity
 pleural effusion	UBERON:0000175	pleural effusion
 port abdomen	UBERON:0000916	abdomen
 port chest	UBERON:0001443	chest
+posterior abdominal wall	UBERON:0003697	abdominal wall
 posterior abdominal wall structure	UBERON:0003697	abdominal wall
 posterior mediastinum	UBERON:0008822	posterior mediastinum
 posterior wall of bladder	UBERON:8600047	posterior wall of urinary bladder
@@ -795,6 +806,7 @@ small bowel	UBERON:0002108	small intestine
 small intestine	UBERON:0002108	small intestine
 small intestine, nos	UBERON:0002108	small intestine
 soft palate	UBERON:0001733	soft palate
+soft palate, nos	UBERON:0001733	soft palate
 soft palate, nos (excludes nasopharyngeal surface of soft palate c11.3)	UBERON:0001733	soft palate
 soft tissue	null	null
 soft tissue (muscle ligaments subcutaneous)	null	null
@@ -893,6 +905,7 @@ upper lobe of lung	UBERON:0008948	upper lobe of lung
 upper lobe of the lung	UBERON:0008948	upper lobe of lung
 upper lobe, lung	UBERON:0008948	upper lobe of lung
 upper respiratory tract	UBERON:0001557	upper respiratory tract
+upper respiratory tract, nos	UBERON:0001557	upper respiratory tract
 upper third of esophagus	UBERON:0013472	upper esophagus
 upper urinary tract	UBERON:0011143	upper urinary tract
 upper-inner quadrant of breast	UBERON:0035542	upper inner quadrant of breast
