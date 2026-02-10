@@ -1418,7 +1418,7 @@ favor teratoma	9080/1	Teratoma, NOS	DOID:0080602	benign teratoma	C67107
 fibrillary astrocytoma	9420/3	Fibrillary astrocytoma	DOID:6726	fibrillary astrocytoma	C4322
 fibroblastic osteosarcoma	9182/3	Fibroblastic osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 fibroblastic spindle cell lesion	8821/1	Aggressive fibromatosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-fibroblastic/myofibroblastic lesion	8225/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+fibroblastic/myofibroblastic lesion	8825/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 fibroepithelial neoplasms	900-903	Fibroepithelial neoplasms	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 fibrolamellar hepatocellular carcinoma	8171/3	Hepatocellular carcinoma, fibrolamellar	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 fibrolipoma	8851/0	Fibrolipoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2155,7 +2155,7 @@ myeloid sarcoma (see also m/9861/3)	9930/3	Myeloid sarcoma	DOID:8683	myeloid sar
 myeloproliferative neoplasm, nos	9960/3	Myeloproliferative neoplasm, NOS	DOID:2226	myeloproliferative neoplasm	C4345
 myloproliferative neoplasm, unclassifiable	9975/3	Myeloproliferative neoplasm, unclassifiable	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myoepithelial carcinoma	8982/3	Myoepithelial carcinoma	DOID:4838	myoepithelial carcinoma	C7596
-myofibroblastic proliferation suggestive of inflammatory myofibroblastic tumor	8225/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+myofibroblastic proliferation suggestive of inflammatory myofibroblastic tumor	8825/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myofibroblastic tumor	8825/1	Myofibroblastic tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myofibroblastic tumor, nos	8825/1	Myofibroblastic tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myofibroblastic tumor, peribronchial	8827/1	Myofibroblastic tumor, peribronchial	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
