@@ -153,6 +153,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8290/3	8290/3	Oxyphilic adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8310	8310/3	Clear cell adenocarcinoma, NOS	DOID:4468	clear cell adenocarcinoma	C36815;C4072;C4156
 8310/3	8310/3	Clear cell adenocarcinoma, NOS	DOID:4468	clear cell adenocarcinoma	C36815;C4072;C4156
+8310/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8311/3	8311/3	Hereditary leiomyomatosis and renal cell carcinoma (HRCC)-associated renal cell carcinoma	DOID:0081413	renal cell carcinoma with MiT translocations	C154494
 8312/3	8312/3	Renal cell carcinoma, NOS	DOID:4450	renal cell carcinoma	C9385
 8312/3 : renal cell carcinoma, nos	8312/3	Renal cell carcinoma, NOS	DOID:4450	renal cell carcinoma	C9385
@@ -205,7 +206,9 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8480/3	8480/3	Mucinous adenocarcinoma	DOID:3030	mucinous adenocarcinoma	C26712;C27379
 8480/3 : mucinous adenocarcinoma	8480/3	Mucinous adenocarcinoma	DOID:3030	mucinous adenocarcinoma	C26712;C27379
 8480/6	8480/6	Pseudomyxoma peritonei	DOID:3559	pseudomyxoma peritonei	C3345
+8481/3	8481/3	Mucin-producing adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8482/3	8482/3	Mucinous carcinoma, gastric type	DOID:8340	endocervical type cervical mucinous adenocarcinoma	__CDA_UNASSIGNED__
+8482/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8490/3	8490/3	Signet ring cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8490/3 : signet ring cell carcinoma	8490/3	Signet ring cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8490/6	8490/6	Metastatic signet ring cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -329,6 +332,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8805/3 : undifferentiated sarcoma	8805/3	Undifferentiated sarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8806/3	8806/3	Desmoplastic small round cell tumor	DOID:6785	desmoplastic small round cell tumor	C8300
 8806/3 : desmoplastic small round cell tumor	8806/3	Desmoplastic small round cell tumor	DOID:6785	desmoplastic small round cell tumor	C8300
+8806/6	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8810/3	8810/3	Fibrosarcoma, NOS	DOID:3355	fibrosarcoma	C3043;C6605;C7075
 8811/3	8811/3	Myxofibrosarcoma	DOID:0080534	myxofibrosarcoma	C6496
 8814/3	8814/3	Infantile fibrosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -667,7 +671,10 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 9712/3	9712/3	Intravascular large B-cell lymphoma	DOID:0081311	intravascular large B-cell lymphoma	C4342
 9714/3	9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	DOID:0050744	anaplastic large cell lymphoma	C3720
 9714/3 : anaplastic large cell lymphoma, t-cell and null-cell type	9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	DOID:0050744	anaplastic large cell lymphoma	C3720
+9716/3	9716/3	Hepatosplenic T-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9716/3 : hepatosplenic t-cell lymphoma, 9835/3 : precursor cell lymphoblastic leukemia, nos	null	null	null	null	null
+9719/3	9719/3	NK/T-cell lymphoma, nasal and nasal type	DOID:0080797	nasal type extranodal NK/T-cell lymphoma	C4684
+9726/3	9726/3	Primary cutaneous gamma-delta T-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9727/3	9727/3	Precursor cell lymphoblastic lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9727/3 : precursor cell lymphoblastic lymphoma, nos	9727/3	Precursor cell lymphoblastic lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9728/3	9811/3	B lymphoblastic leukemia/lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -720,6 +727,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 9837/3 : precursor t-cell lymphoblastic leukemia, 9861/3 : acute myeloid leukemia, nos	null	null	null	null	null
 9840/3	9840/3	Acute erythroid leukemia	DOID:0080780	acute erythroid leukemia	C8923
 9840/3 : acute erythroid leukemia	9840/3	Acute erythroid leukemia	DOID:0080780	acute erythroid leukemia	C8923
+9860/3	9860/3	Myeloid leukemia, NOS	DOID:8692	myeloid leukemia	C3172
 9860/3 : myeloid leukemia, nos	9860/3	Myeloid leukemia, NOS	DOID:8692	myeloid leukemia	C3172
 9861/3	9861/3	Acute myeloid leukemia, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9861/3 : acute myeloid leukemia, nos	9861/3	Acute myeloid leukemia, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -896,6 +904,7 @@ anal sac/mass - amelantic melanoma	8730/3	Amelanotic melanoma	DOID:4359	amelanot
 anaplastic astrocytoma, idh-wildtype, glioblastoma, idh wildtype	8000/6	Neoplasm, metastatic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anaplastic ependymoma	9392/3	Ependymoma, anaplastic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anaplastic ganglioglioma	9505/3	Ganglioglioma, anaplastic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+anaplastic large cell lymphoma, alk negative	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anaplastic large cell lymphoma, alk positive	9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	DOID:0050744	anaplastic large cell lymphoma	C3720
 anaplastic large cell lymphoma, t cell and null cell type	9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	DOID:0050744	anaplastic large cell lymphoma	C3720
 anaplastic large cell lymphoma, t-cell and null-cell type	9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	DOID:0050744	anaplastic large cell lymphoma	C3720
@@ -1403,6 +1412,7 @@ ewing sarcoma - peripheral pnet, melanoma, neuroendocrine cancer (nos), osteosar
 extra adrenal paraganglioma	8693/1	Extra-adrenal paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 extra-adrenal paraganglioma, malignant	8693/3	Extra-adrenal paraganglioma, malignant	DOID:0081245	cauda equina neuroendocrine tumor	C5324
 extra-adrenal paraganglioma, nos	8693/1	Extra-adrenal paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+extranodal nk/t-cell lymphoma, nasal type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 extrarenal malignant rhabdoid tumor	8963/3	Rhabdoid tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 familial adenomatous polyposis	8220/0	Adenomatous polyposis coli	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 fatty neoplasm with myxoid features, no definitive high grade features, favor lipoblastoma	8881/0	Lipoblastomatosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1593,6 +1603,7 @@ hepatocellular carcinoma, spindle cell variant	8173/3	Hepatocellular carcinoma, 
 hepatocellular clear cell carcinoma	8174/3	Hepatocellular carcinoma, clear cell type	DOID:5016	hepatocellular clear cell carcinoma	C5754
 hepatocholangiocarcinoma (mixed)	8180/3	Combined hepatocellular carcinoma and cholangiocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 hepatoid adenocarcinoma	8576/3	Hepatoid adenocarcinoma	DOID:0060534	hepatoid adenocarcinoma	C66950
+hepatosplenic t-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 hepatosplenic t-cell lymphoma, precursor cell lymphoblastic leukemia, nos	9716/3	Hepatosplenic T-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 hereditary leiomyomatosis & rcc-associated renal cell carcinoma	8311/3	Hereditary leiomyomatosis and renal cell carcinoma (HRCC)-associated renal cell carcinoma	DOID:0081413	renal cell carcinoma with MiT translocations	C154494
 hhv8 positive diffuse large b-cell lymphoma	9738/3	HHV8-positive diffuse large B-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1966,6 +1977,7 @@ malignant tumor	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
 malignant tumor, small cell type	8002/3	Malignant tumor, small cell type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 malignant tumor, spindle cell type	8004/3	Malignant tumor, spindle cell type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 malignant tumor, spindle cell type, cns sarcoma, cns sarcoma, nos or nec	8004/3	Malignant tumor, spindle cell type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+malt lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 mammary cancer	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
 mantle cell lymphoma (includes all variants blastic, pleomorphic, small cell)	9673/3	Mantle cell lymphoma	DOID:0050746	mantle cell lymphoma	__CDA_UNASSIGNED__
 marginal zone b-cell lymphoma	9699/3	Marginal zone B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2099,6 +2111,7 @@ mixed germ cell tumor, cns germ cell tumors, cns non-germinomatous germ cell tum
 mixed germ cell tumor, myelodysplastic syndrome with excess blasts	9983/3	Myelodysplastic syndrome with excess blasts	DOID:162	cancer	C9305
 mixed germ cell w/ matrue teratoma	9085/3	Mixed germ cell tumor	DOID:3306	mixed germ cell cancer	C4290
 mixed glioma	9382/3	Oligoastrocytoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+mixed invasive mucinous and non-mucinous adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 mixed malignant germ cell tumor	9085/3	Mixed germ cell tumor	DOID:3306	mixed germ cell cancer	C4290
 mixed malignant germ cell tumor with components of embryonal carcinoma, choriocarcinoma, and mature teratoma	9085/3	Mixed germ cell tumor	DOID:3306	mixed germ cell cancer	C4290
 mixed malignant germ cell tumor with yolk sac tumor	9085/3	Mixed germ cell tumor	DOID:3306	mixed germ cell cancer	C4290
@@ -2398,6 +2411,7 @@ periosteal osteosarcoma	9193/3	Periosteal osteosarcoma	__CDA_UNASSIGNED__	__CDA_
 peripheral nerve sheath tumor	9540/3	Malignant peripheral nerve sheath tumor, NOS	DOID:5940	malignant peripheral nerve sheath tumor	C3798
 peripheral neuroectodermal tumor	9364/3	Ewing sarcoma	DOID:3369	Ewing sarcoma	C27901;C27903;C4817;C7542;C7806;C9341
 peripheral t-cell lymphoma	9702/3	Mature T-cell lymphoma, NOS	DOID:0081312	T-cell non-Hodgkin lymphoma	C3466
+peripheral t-cell lymphoma, nos	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pfa ependymoma	9391/3	Ependymoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 phantom	null	null	null	null	null
 pheochromocytoma	8700/0	Pheochromocytoma, NOS	DOID:0050771	pheochromocytoma	__CDA_UNASSIGNED__
@@ -2495,6 +2509,7 @@ primary cutaneous anaplastic large cell lymphoma	9714/3	Anaplastic large cell ly
 primary cutaneous cd30 positive t-cell lymphoproliferative disorder	9718/3	Primary cutaneous anaplastic large cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 primary cutaneous cd30 t/cell lymphoproliferative disorder	null	null	null	null	null
 primary cutaneous follicle center lymphoma	9597/3	Primary cutaneous follicle centre lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+primary cutaneous gamma-delta t-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 primary diffuse large b-cell lymphoma of the cns	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 primary dlbcl of the cns	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 primary effusion lymphoma	9678/3	Primary effusion lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
