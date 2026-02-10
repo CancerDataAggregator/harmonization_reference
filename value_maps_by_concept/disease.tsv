@@ -275,15 +275,15 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8650/1	8650/1	Leydig cell tumor of the testis, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8670/0	8670/0	Lipid cell tumor of ovary	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8680/1	8680/1	Paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-8680/3	8680/3	Paraganglioma, NOS	DOID:0050773	paraganglioma	C3308
-8680/3 : paraganglioma, nos	8680/3	Paraganglioma, NOS	DOID:0050773	paraganglioma	C3308
+8680/3	8680/3	Paraganglioma, malignant	DOID:0050773	paraganglioma	C3308
+8680/3 : paraganglioma, nos	8680/3	Paraganglioma, malignant	DOID:0050773	paraganglioma	C3308
 8681/1	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8691/1	8691/1	Aortic body tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8693/1	8693/1	Extra-adrenal paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-8693/3	8693/3	Extra-adrenal paraganglioma, NOS	DOID:0081245	cauda equina neuroendocrine tumor	C5324
+8693/3	8693/3	Extra-adrenal paraganglioma, malignant	DOID:0081245	cauda equina neuroendocrine tumor	C5324
 8700/0	8700/0	Pheochromocytoma, NOS	DOID:0050771	pheochromocytoma	__CDA_UNASSIGNED__
-8700/3	8700/3	Pheochromocytoma, NOS	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
-8700/3 : pheochromocytoma, nos	8700/3	Pheochromocytoma, NOS	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
+8700/3	8700/3	Pheochromocytoma, malignant	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
+8700/3 : pheochromocytoma, nos	8700/3	Pheochromocytoma, malignant	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
 8710/3	8710/3	Glomangiosarcoma	DOID:5233	glomangiosarcoma	C4221
 8711/0	8711/0	Glomus tumor, NOS	DOID:2431	glomus tumor	C3060
 8711/3 : glomus tumor, malignant	8711/3	Glomus tumor, malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -497,7 +497,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 9194/3	9194/3	High grade surface osteosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9220/3	9220/3	Chondrosarcoma, NOS	DOID:3371	chondrosarcoma	C2946;C7155
 9220/3 : chondrosarcoma, nos	9220/3	Chondrosarcoma, NOS	DOID:3371	chondrosarcoma	C2946;C7155
-9230/0	9230/0	Chondroblastoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+9230/0	9230/0	Chondroblastoma, NOS	DOID:2649	chondroblastoma	C2945
 9231/3	9231/3	Myxoid chondrosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9240/3	9240/3	Mesenchymal chondrosarcoma	DOID:4545	mesenchymal chondrosarcoma	C3737
 9240/3 : mesenchymal chondrosarcoma	9240/3	Mesenchymal chondrosarcoma	DOID:4545	mesenchymal chondrosarcoma	C3737
@@ -909,7 +909,7 @@ angiomyofibroblastoma	8826/0	Angiomyofibroblastoma	__CDA_UNASSIGNED__	__CDA_UNAS
 angiomyolipoma	8860/0	Angiomyolipoma	DOID:3314	angiomyolipoma	C3734
 angiomyosarcoma	8894/3	Angiomyosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 angiosarcoma	9120/3	Hemangiosarcoma	DOID:0001816	angiosarcoma	C3088;C9275
-aortic body tumor	8691/3	Aortic body tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aortic body tumor	8691/1	Aortic body tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 apocrine adenocarcinoma	8401/3	Apocrine adenocarcinoma	DOID:4933	apocrine carcinoma	C4169
 apocrine carcinoma	8401/3	Apocrine adenocarcinoma	DOID:4933	apocrine carcinoma	C4169
 appearances consistent with alveolar soft part sarcoma	9581/3	Alveolar soft part sarcoma	DOID:4239	alveolar soft part sarcoma	C3750;C7943;C8092
@@ -1092,7 +1092,7 @@ cholangiocarcinoma; distal	8160/3	Cholangiocarcinoma	DOID:4947	cholangiocarcinom
 cholangiocarcinoma; hilar/perihilar	8160/3	Cholangiocarcinoma	DOID:4947	cholangiocarcinoma	C4436;C8265
 cholangiocarcinoma; intrahepatic	8180/3	Combined hepatocellular carcinoma and cholangiocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 chondroblastic osteosarcoma	9181/3	Chondroblastic osteosarcoma	DOID:3372	chondroblastic osteosarcoma	C4021
-chondroblastoma, nos	9230/1	Chondroblastoma, NOS	DOID:2649	chondroblastoma	C2945
+chondroblastoma, nos	9230/0	Chondroblastoma, NOS	DOID:2649	chondroblastoma	C2945
 chondroid chordoma	9371/3	Chondroid chordoma	DOID:4152	chondroid chordoma	C6902
 chondrosarcoma, nos	9220/3	Chondrosarcoma, NOS	DOID:3371	chondrosarcoma	C2946;C7155
 chordoma	9370/3	Chordoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1400,9 +1400,9 @@ essential thrombocythemia	9962/3	Essential thrombocythemia	DOID:2224	essential t
 esthesioneuroblastoma	9522/3	Olfactory neuroblastoma	DOID:369	olfactory neuroblastoma	C3789
 ewing sarcoma	9364/3	Ewing sarcoma	DOID:3369	Ewing sarcoma	C27901;C27903;C4817;C7542;C7806;C9341
 ewing sarcoma - peripheral pnet, melanoma, neuroendocrine cancer (nos), osteosarcoma, anal squamous cell carcinoma, urothelial - bladder cancer (nos), pancreatic adenocarcinoma, rectal adenocarcinoma, colon adenocarcinoma, lung squamous cell carcinoma	null	null	null	null	null
-extra adrenal paraganglioma	8693/3	Extra-adrenal paraganglioma, NOS	DOID:0081245	cauda equina neuroendocrine tumor	C5324
-extra-adrenal paraganglioma, malignant	8693/3	Extra-adrenal paraganglioma, NOS	DOID:0081245	cauda equina neuroendocrine tumor	C5324
-extra-adrenal paraganglioma, nos	8693/3	Extra-adrenal paraganglioma, NOS	DOID:0081245	cauda equina neuroendocrine tumor	C5324
+extra adrenal paraganglioma	8693/1	Extra-adrenal paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+extra-adrenal paraganglioma, malignant	8693/3	Extra-adrenal paraganglioma, malignant	DOID:0081245	cauda equina neuroendocrine tumor	C5324
+extra-adrenal paraganglioma, nos	8693/1	Extra-adrenal paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 extrarenal malignant rhabdoid tumor	8963/3	Rhabdoid tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 familial adenomatous polyposis	8220/0	Adenomatous polyposis coli	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 fatty neoplasm with myxoid features, no definitive high grade features, favor lipoblastoma	8881/0	Lipoblastomatosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1951,7 +1951,7 @@ malignant peripheral nerve sheath tumor, high grade	9540/3	Malignant peripheral 
 malignant peripheral nerve sheath tumor, nos	9540/3	Malignant peripheral nerve sheath tumor, NOS	DOID:5940	malignant peripheral nerve sheath tumor	C3798
 malignant peripheral nerve sheath tumor, nos, cns sarcoma, cns sarcoma, nos or nec	9540/3	Malignant peripheral nerve sheath tumor, NOS	DOID:5940	malignant peripheral nerve sheath tumor	C3798
 malignant peripheral nerve sheath tumors (mpnst)	9540/3	Malignant peripheral nerve sheath tumor, NOS	DOID:5940	malignant peripheral nerve sheath tumor	C3798
-malignant pheochromocytoma	8700/3	Pheochromocytoma, NOS	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
+malignant pheochromocytoma	8700/3	Pheochromocytoma, malignant	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
 malignant primary brain tumor	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
 malignant rhabdoid	8963/3	Rhabdoid tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 malignant rhabdoid tumor	8963/3	Rhabdoid tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2377,11 +2377,11 @@ papillary tumor of the pineal region	9395/3	Papillary tumor of the pineal region
 papillary urothelial carcinoma	8130/3	Papillary transitional cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 papillary urothelial carcinoma, non-invasive	8130/2	Papillary urothelial carcinoma, non-invasive	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 papillary, cribriform	null	null	null	null	null
-paraganglioma	8680/3	Paraganglioma, NOS	DOID:0050773	paraganglioma	C3308
-paraganglioma, malignant	8680/3	Paraganglioma, NOS	DOID:0050773	paraganglioma	C3308
-paraganglioma, nos	8680/3	Paraganglioma, NOS	DOID:0050773	paraganglioma	C3308
-paraganglioma, pheochromocytoma	8700/3	Pheochromocytoma, NOS	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
-paraganglioma; extra-adrenal pheochromocytoma	8700/3	Pheochromocytoma, NOS	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
+paraganglioma	8680/1	Paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+paraganglioma, malignant	8680/3	Paraganglioma, malignant	DOID:0050773	paraganglioma	C3308
+paraganglioma, nos	8680/1	Paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+paraganglioma, pheochromocytoma	8700/0	Pheochromocytoma, NOS	DOID:0050771	pheochromocytoma	__CDA_UNASSIGNED__
+paraganglioma; extra-adrenal pheochromocytoma	8700/0	Pheochromocytoma, NOS	DOID:0050771	pheochromocytoma	__CDA_UNASSIGNED__
 paragangliomas and glomus tumors	868-871	Paragangliomas and glomus tumors	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 paratesticular rhabdomyosarcoma	8900/3	Rhabdomyosarcoma, NOS	DOID:3247	rhabdomyosarcoma	C3359
 paratesticular rhabdomyosarcoma with diffuse anaplasia	8900/3	Rhabdomyosarcoma, NOS	DOID:3247	rhabdomyosarcoma	C3359
@@ -2400,10 +2400,10 @@ peripheral neuroectodermal tumor	9364/3	Ewing sarcoma	DOID:3369	Ewing sarcoma	C2
 peripheral t-cell lymphoma	9702/3	Mature T-cell lymphoma, NOS	DOID:0081312	T-cell non-Hodgkin lymphoma	C3466
 pfa ependymoma	9391/3	Ependymoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 phantom	null	null	null	null	null
-pheochromocytoma	8700/3	Pheochromocytoma, NOS	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
-pheochromocytoma and paraganglioma	8700/3	Pheochromocytoma, NOS	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
-pheochromocytoma, malignant	8700/3	Pheochromocytoma, NOS	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
-pheochromocytoma, nos	8700/3	Pheochromocytoma, NOS	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
+pheochromocytoma	8700/0	Pheochromocytoma, NOS	DOID:0050771	pheochromocytoma	__CDA_UNASSIGNED__
+pheochromocytoma and paraganglioma	8700/0	Pheochromocytoma, NOS	DOID:0050771	pheochromocytoma	__CDA_UNASSIGNED__
+pheochromocytoma, malignant	8700/3	Pheochromocytoma, malignant	DOID:0080347	malignant pheochromocytoma	__CDA_UNASSIGNED__
+pheochromocytoma, nos	8700/0	Pheochromocytoma, NOS	DOID:0050771	pheochromocytoma	__CDA_UNASSIGNED__
 phyllodes tumor, borderline	9020/1	Phyllodes tumor, borderline	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 phyllodes tumor, malignant	9020/3	Phyllodes tumor, malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pigmented dermatofibrosarcoma protuberans	8833/1	Pigmented dermatofibrosarcoma protuberans	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
