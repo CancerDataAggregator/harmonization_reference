@@ -398,7 +398,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8931/3	8931/3	Endometrial stromal sarcoma, low grade	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8933/3	8933/3	Adenosarcoma	DOID:1974	adenosarcoma	C9474
 8933/3 : adenosarcoma	8933/3	Adenosarcoma	DOID:1974	adenosarcoma	C9474
-8936/0	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8936/0	8936/0	Gastrointestinal stromal tumor, benign	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8936/1	8936/1	Gastrointestinal stromal tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8936/3	8936/3	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	C3868
 8936/3 : gastrointestinal stromal tumor	8936/3	Gastrointestinal stromal tumor	DOID:9253	gastrointestinal stromal tumor	C3868
@@ -619,7 +619,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 9522/3 : olfactory neuroblastoma	9522/3	Olfactory neuroblastoma	DOID:369	olfactory neuroblastoma	C3789
 9530/0	9530/0	Meningioma, NOS	DOID:3565	meningioma	C3230;C6971
 9530/0 : meningioma, nos	9530/0	Meningioma, NOS	DOID:3565	meningioma	C3230;C6971
-9530/1	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+9530/1	9530/1	Meningiomatosis, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9530/3	9530/3	Meningioma, malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9530/3 : meningioma, malignant	9530/3	Meningioma, malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9531/0	9531/0	Meningothelial meningioma	DOID:7212	meningothelial meningioma	C4329
