@@ -15,12 +15,14 @@ clinical supplement	__CDA_UNASSIGNED__
 comprehensive 3d sr storage	__CDA_UNASSIGNED__
 comprehensive sr storage	__CDA_UNASSIGNED__
 computed radiography image storage	__CDA_UNASSIGNED__
+computed tomography	__CDA_UNASSIGNED__
 copy number segment	__CDA_UNASSIGNED__
 ct image storage	__CDA_UNASSIGNED__
 database	__CDA_UNASSIGNED__
 differential gene expression	__CDA_UNASSIGNED__
 digital mammography x-ray image storage - for presentation	__CDA_UNASSIGNED__
 digital mammography x-ray image storage - for processing	__CDA_UNASSIGNED__
+digital radiography	__CDA_UNASSIGNED__
 digital x-ray image storage - for presentation	__CDA_UNASSIGNED__
 digital x-ray image storage - for processing	__CDA_UNASSIGNED__
 document	__CDA_UNASSIGNED__
@@ -32,6 +34,7 @@ grayscale softcopy presentation state storage	__CDA_UNASSIGNED__
 intermediate analysis archive	__CDA_UNASSIGNED__
 isoform expression quantification	__CDA_UNASSIGNED__
 key object selection document storage	__CDA_UNASSIGNED__
+magnetic resonance	__CDA_UNASSIGNED__
 masked copy number segment	__CDA_UNASSIGNED__
 masked intensities	__CDA_UNASSIGNED__
 masked somatic mutation	__CDA_UNASSIGNED__
@@ -40,10 +43,13 @@ microscopy bulk simple annotations storage	__CDA_UNASSIGNED__
 mirna expression quantification	__CDA_UNASSIGNED__
 mr image storage	__CDA_UNASSIGNED__
 multi-frame grayscale byte secondary capture image storage	__CDA_UNASSIGNED__
+nuclear medicine	__CDA_UNASSIGNED__
 nuclear medicine image storage	__CDA_UNASSIGNED__
 open standard	__CDA_UNASSIGNED__
+other modality	__CDA_UNASSIGNED__
 parametric map storage	__CDA_UNASSIGNED__
 pathology report	__CDA_UNASSIGNED__
+positron emission tomography	__CDA_UNASSIGNED__
 positron emission tomography image storage	__CDA_UNASSIGNED__
 proprietary	__CDA_UNASSIGNED__
 protein expression quantification	__CDA_UNASSIGNED__
@@ -51,11 +57,17 @@ raw cgi variant	__CDA_UNASSIGNED__
 raw data storage	__CDA_UNASSIGNED__
 raw intensities	__CDA_UNASSIGNED__
 raw simple somatic mutation	__CDA_UNASSIGNED__
+real world value map	__CDA_UNASSIGNED__
 real world value mapping storage	__CDA_UNASSIGNED__
+registration	__CDA_UNASSIGNED__
+rt dose	__CDA_UNASSIGNED__
 rt dose storage	__CDA_UNASSIGNED__
+rt plan	__CDA_UNASSIGNED__
 rt plan storage	__CDA_UNASSIGNED__
+rt structure set	__CDA_UNASSIGNED__
 rt structure set storage	__CDA_UNASSIGNED__
 secondary capture image storage	__CDA_UNASSIGNED__
+segmentation	__CDA_UNASSIGNED__
 segmentation storage	__CDA_UNASSIGNED__
 simple germline variation	__CDA_UNASSIGNED__
 single cell analysis	__CDA_UNASSIGNED__
@@ -66,6 +78,7 @@ somatic mutation index	__CDA_UNASSIGNED__
 spatial registration storage	__CDA_UNASSIGNED__
 splice junction quantification	__CDA_UNASSIGNED__
 structural rearrangement	__CDA_UNASSIGNED__
+structured report document	__CDA_UNASSIGNED__
 text	__CDA_UNASSIGNED__
 tissue microarray image	__CDA_UNASSIGNED__
 transcript fusion	__CDA_UNASSIGNED__
