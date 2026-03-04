@@ -22,6 +22,7 @@ dicom	DICOM
 dict	DICT
 doc	DOC
 docx	DOCX
+dta	STATA
 fasta	FASTA
 fastq	FASTQ
 gct/res format	GCT
@@ -51,9 +52,13 @@ raw	RAW
 rdata	RData
 rds	RDS
 rtf	RTF
+sas	SAS
+sas binary	SAS binary
 seg	SEG
 sky	SKYLINE
+spss	SPSS
 sqlite3	SQLITE3
+stata	STATA
 svg	SVG
 svs	SVS
 tar	TAR

@@ -11,12 +11,18 @@ unharmonized value	harmonized value
 98	null
 99	null
 american indian or alaska native	American Indian or Alaska Native
+american indian or alaska native and white	More than one race
 american indian or alaska native;white	More than one race
 asian	Asian
+asian and black or african american	More than one race
+asian and black or african american and white	More than one race
+asian and native hawaiian or other pacific islander	More than one race
+asian and white	More than one race
 asian;black or african american	More than one race
 asian;native hawaiian or other pacific islander	More than one race
 asian;white	More than one race
 black or african american	Black or African American
+black or african american and white	More than one race
 black or african american;native hawaiian or other pacific islander	More than one race
 black or african american;white	More than one race
 chinese	Asian
