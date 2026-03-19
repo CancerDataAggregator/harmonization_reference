@@ -1,4 +1,4 @@
-icd_o_3_code	slim_disease_term	most_reecent_count_in_CDA_data
+icd_o_3_code	slim_disease_term	most_recent_count_in_CDA_data
 8000/0	Neoplasms	280451
 8000/1	Neoplasms	280451
 8000/3	Neoplasms	280451
@@ -626,4 +626,3 @@ icd_o_3_code	slim_disease_term	most_reecent_count_in_CDA_data
 9987/3	Myelodysplastic syndromes	33
 9989/3	Myelodysplastic syndromes	33
 9993/3	Myelodysplastic syndromes	33
-null		20
