@@ -6,8 +6,8 @@ UBERON:0000007	pituitary gland	443	UBERON:0000955	brain	226762
 UBERON:0000026	appendage	2217	UBERON:0002101	limb	4401
 UBERON:0000029	lymph node	13776	UBERON:0002465	lymphoid system	16701
 UBERON:0000033	head	5147	UBERON:0000033	head	8532
-UBERON:0000056	ureter	43	UBERON:8600046	anterior wall of urinary bladder	276848
-UBERON:0000057	urethra	110	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0000056	ureter	43	UBERON:0001008	renal system	277224
+UBERON:0000057	urethra	110	UBERON:0001008	renal system	277224
 UBERON:0000059	large intestine	26	UBERON:0004907	lower digestive tract	485297
 UBERON:0000079	male reproductive system	17	UBERON:0000079	male reproductive system	155696
 UBERON:0000159	anal canal	35	UBERON:0004907	lower digestive tract	485297
@@ -17,7 +17,7 @@ UBERON:0000175	pleural effusion	3	UBERON:0002100	trunk	1999357
 UBERON:0000178	blood	216104	UBERON:0002390	hematopoietic system	331732
 UBERON:0000180	lateral lumbar region of abdomen	18	UBERON:0002100	trunk	1999357
 UBERON:0000310	breast	674422	UBERON:0000310	breast	675652
-UBERON:0000362	renal medulla	49	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0000362	renal medulla	49	UBERON:0001008	renal system	277224
 UBERON:0000376	hindlimb stylopod	125	UBERON:0002101	limb	4401
 UBERON:0000391	leptomeninx	35	UBERON:0001017	central nervous system	106370
 UBERON:0000403	scalp	159	UBERON:0000033	head	8532
@@ -46,7 +46,7 @@ UBERON:0000996	vagina	638	UBERON:0000474	female reproductive system	1079653
 UBERON:0000997	mammalian vulva	103	UBERON:0000474	female reproductive system	1079653
 UBERON:0001004	respiratory system	244	UBERON:0001004	respiratory system	247
 UBERON:0001007	digestive system	56	UBERON:0001007	digestive system	56
-UBERON:0001008	renal system	376	UBERON:0001008	renal system	376
+UBERON:0001008	renal system	376	UBERON:0001008	renal system	277224
 UBERON:0001013	adipose tissue	969	UBERON:0002384	connective tissue	1139
 UBERON:0001016	nervous system	1991	UBERON:0001016	nervous system	3013
 UBERON:0001017	central nervous system	106002	UBERON:0001017	central nervous system	106370
@@ -62,7 +62,7 @@ UBERON:0001130	vertebral column	788	UBERON:0001434	skeletal system	15630
 UBERON:0001134	skeletal muscle tissue	1020	UBERON:0001134	skeletal muscle tissue	1225
 UBERON:0001136	mesothelium	1050	UBERON:0000042	serous membrane	2727
 UBERON:0001137	dorsum	141	UBERON:0002100	trunk	1999357
-UBERON:0001142	left renal vein	4	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0001142	left renal vein	4	UBERON:0001008	renal system	277224
 UBERON:0001151	tail of pancreas	80	UBERON:0001264	pancreas	81712
 UBERON:0001153	caecum	664	UBERON:0004907	lower digestive tract	485297
 UBERON:0001154	vermiform appendix	221	UBERON:0004907	lower digestive tract	485297
@@ -78,17 +78,17 @@ UBERON:0001164	greater curvature of stomach	1	UBERON:0001165	pyloric antrum	1325
 UBERON:0001165	pyloric antrum	7062	UBERON:0001165	pyloric antrum	13256
 UBERON:0001166	pylorus	3039	UBERON:0001165	pyloric antrum	13256
 UBERON:0001179	peritoneal cavity	195	UBERON:0002100	trunk	1999357
-UBERON:0001224	renal pelvis	18	UBERON:8600046	anterior wall of urinary bladder	276848
-UBERON:0001225	cortex of kidney	549	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0001224	renal pelvis	18	UBERON:0001008	renal system	277224
+UBERON:0001225	cortex of kidney	549	UBERON:0001008	renal system	277224
 UBERON:0001233	right adrenal gland	44	UBERON:0000949	endocrine system	19927
 UBERON:0001234	left adrenal gland	76	UBERON:0000949	endocrine system	19927
 UBERON:0001235	adrenal cortex	1169	UBERON:0000949	endocrine system	19927
 UBERON:0001236	adrenal medulla	63	UBERON:0000949	endocrine system	19927
 UBERON:0001237	paraaortic body	0	UBERON:0004535	cardiovascular system	4045
 UBERON:0001245	anus	113	UBERON:0004907	lower digestive tract	485297
-UBERON:0001255	urinary bladder	129120	UBERON:8600046	anterior wall of urinary bladder	276848
-UBERON:0001257	trigone of urinary bladder	193	UBERON:8600046	anterior wall of urinary bladder	276848
-UBERON:0001258	neck of urinary bladder	3	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0001255	urinary bladder	129120	UBERON:0001008	renal system	277224
+UBERON:0001257	trigone of urinary bladder	193	UBERON:0001008	renal system	277224
+UBERON:0001258	neck of urinary bladder	3	UBERON:0001008	renal system	277224
 UBERON:0001264	pancreas	80758	UBERON:0001264	pancreas	81712
 UBERON:0001273	ilium	921	UBERON:0001434	skeletal system	15630
 UBERON:0001295	endometrium	1879	UBERON:0000474	female reproductive system	1079653
@@ -162,7 +162,7 @@ UBERON:0002037	cerebellum	1793	UBERON:0000955	brain	226762
 UBERON:0002046	thyroid gland	14373	UBERON:0002368	endocrine gland	14373
 UBERON:0002048	lung	703459	UBERON:0001005	respiratory airway	740146
 UBERON:0002067	dermis	3	UBERON:0002097	skin of body	450142
-UBERON:0002068	urachus	2	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0002068	urachus	2	UBERON:0001008	renal system	277224
 UBERON:0002072	hypodermis	14816	UBERON:0002097	skin of body	450142
 UBERON:0002090	postcranial axial skeleton	12	UBERON:0001434	skeletal system	15630
 UBERON:0002091	appendicular skeleton	5274	UBERON:0001434	skeletal system	15630
@@ -176,7 +176,7 @@ UBERON:0002106	spleen	1146	UBERON:0002390	hematopoietic system	331732
 UBERON:0002107	liver	29596	UBERON:0002423	hepatobiliary system	85751
 UBERON:0002108	small intestine	12196	UBERON:0004907	lower digestive tract	485297
 UBERON:0002110	gallbladder	1192	UBERON:0004908	upper digestive tract	281590
-UBERON:0002113	kidney	145898	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0002113	kidney	145898	UBERON:0001008	renal system	277224
 UBERON:0002114	duodenum	109	UBERON:0004907	lower digestive tract	485297
 UBERON:0002115	jejunum	39	UBERON:0004907	lower digestive tract	485297
 UBERON:0002118	right ovary	10	UBERON:0000474	female reproductive system	1079653
@@ -271,12 +271,12 @@ UBERON:0004085	labium majora	2	UBERON:0000474	female reproductive system	1079653
 UBERON:0004086	brain ventricle	109	UBERON:0000955	brain	226762
 UBERON:0004088	orbital region	1511	UBERON:0000970	eye	3221
 UBERON:0004103	alveolar ridge	275	UBERON:0003129	skull	1269
-UBERON:0004122	genitourinary system	0	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0004122	genitourinary system	0	UBERON:0001008	renal system	277224
 UBERON:0004288	skeleton	13	UBERON:0001434	skeletal system	15630
 UBERON:0004452	carpal region	1	UBERON:0002101	limb	4401
 UBERON:0004454	tarsal region	12	UBERON:0002101	limb	4401
-UBERON:0004538	left kidney	148	UBERON:8600046	anterior wall of urinary bladder	276848
-UBERON:0004539	right kidney	224	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0004538	left kidney	148	UBERON:0001008	renal system	277224
+UBERON:0004539	right kidney	224	UBERON:0001008	renal system	277224
 UBERON:0004913	hepatopancreatic ampulla	24	UBERON:0004907	lower digestive tract	485297
 UBERON:0005178	thoracic cavity element	3542	UBERON:0002100	trunk	1999357
 UBERON:0005352	spermatic cord	4	UBERON:0000079	male reproductive system	155696
@@ -319,7 +319,7 @@ UBERON:0010033	posterior part of tongue	2207	UBERON:0000165	mouth	51595
 UBERON:0010743	meningeal cluster	30	UBERON:0000955	brain	226762
 UBERON:0011092	right pelvic girdle region	12	UBERON:0001464	hip	13038
 UBERON:0011093	left pelvic girdle region	28	UBERON:0001464	hip	13038
-UBERON:0011143	upper urinary tract	96	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0011143	upper urinary tract	96	UBERON:0001008	renal system	277224
 UBERON:0011601	gingiva of upper jaw	3	UBERON:0000165	mouth	51595
 UBERON:0011602	gingiva of lower jaw	6	UBERON:0000165	mouth	51595
 UBERON:0011779	nerve of head region	3	UBERON:0001016	nervous system	3013
@@ -327,9 +327,9 @@ UBERON:0011859	internal acoustic meatus	18	UBERON:0001690	ear	89
 UBERON:0011877	margin of tongue	5	UBERON:0000165	mouth	51595
 UBERON:0012179	bone of pelvis	53	UBERON:0001434	skeletal system	15630
 UBERON:0012180	head or neck skin	132	UBERON:0000033	head	8532
-UBERON:0012242	internal urethral orifice	56	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0012242	internal urethral orifice	56	UBERON:0001008	renal system	277224
 UBERON:0012249	ectocervix	40	UBERON:0000474	female reproductive system	1079653
-UBERON:0012303	ureteral orifice	2	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0012303	ureteral orifice	2	UBERON:0001008	renal system	277224
 UBERON:0012337	cauda equina	6	UBERON:0001017	central nervous system	106370
 UBERON:0012652	colorectum	116	UBERON:0004907	lower digestive tract	485297
 UBERON:0013422	infratemporal fossa	6	UBERON:0003129	skull	1269
@@ -357,7 +357,7 @@ UBERON:0016540	occipital cortex	2052	UBERON:0000955	brain	226762
 UBERON:0016632	isthmus of fallopian tube	10	UBERON:0000474	female reproductive system	1079653
 UBERON:0016881	craniopharyngeal canal	3	UBERON:0000955	brain	226762
 UBERON:0018151	skin of upper lip	6	UBERON:0002097	skin of body	450142
-UBERON:0018707	bladder organ	0	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:0018707	bladder organ	0	UBERON:0001008	renal system	277224
 UBERON:0022276	splenic flexure of colon	21	UBERON:0004907	lower digestive tract	485297
 UBERON:0022277	hepatic flexure of colon	86	UBERON:0004907	lower digestive tract	485297
 UBERON:0034767	buccal vestibule	1	UBERON:0000165	mouth	51595
@@ -393,8 +393,8 @@ UBERON:8480048	calf	7	UBERON:0002101	limb	4401
 UBERON:8480051	thoracolumbar junction	62	UBERON:0002100	trunk	1999357
 UBERON:8480059	perigastric lymph node	6	UBERON:0002465	lymphoid system	16701
 UBERON:8480060	paraspinal region	11	UBERON:0002100	trunk	1999357
-UBERON:8600043	lateral wall of urinary bladder	132	UBERON:8600046	anterior wall of urinary bladder	276848
-UBERON:8600046	anterior wall of urinary bladder	40	UBERON:8600046	anterior wall of urinary bladder	276848
-UBERON:8600047	posterior wall of urinary bladder	100	UBERON:8600046	anterior wall of urinary bladder	276848
-UBERON:8600048	apex of urinary bladder	32	UBERON:8600046	anterior wall of urinary bladder	276848
-UBERON:8600049	dome of urinary bladder	29	UBERON:8600046	anterior wall of urinary bladder	276848
+UBERON:8600043	lateral wall of urinary bladder	132	UBERON:0001008	renal system	277224
+UBERON:8600046	anterior wall of urinary bladder	40	UBERON:0001008	renal system	277224
+UBERON:8600047	posterior wall of urinary bladder	100	UBERON:0001008	renal system	277224
+UBERON:8600048	apex of urinary bladder	32	UBERON:0001008	renal system	277224
+UBERON:8600049	dome of urinary bladder	29	UBERON:0001008	renal system	277224
