@@ -1,37 +1,37 @@
 harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_count_in_last_CDA_release	slim_disease_term_id	slim_disease_term_name	slim_disease_term_count_in_last_CDA_release
-8000/0	Neoplasm, benign	30	800	Neoplasms	280451
-8000/1	Neoplasm, uncertain whether benign or malignant	30861	800	Neoplasms	280451
-8000/3	Neoplasm, malignant	249320	800	Neoplasms	280451
-8000/6	Neoplasm, metastatic	18	800	Neoplasms	280451
+8000/0	Neoplasm, benign	30	800	Neoplasms, NOS	280451
+8000/1	Neoplasm, uncertain whether benign or malignant	30861	800	Neoplasms, NOS	280451
+8000/3	Neoplasm, malignant	249320	800	Neoplasms, NOS	280451
+8000/6	Neoplasm, metastatic	18	800	Neoplasms, NOS	280451
 8000/9	Neoplasm, malignant, uncertain whether primary or metastatic	7			22
-8001/0	Tumor cells, benign	5	800	Neoplasms	280451
-8001/1	Tumor cells, uncertain whether benign or malignant	50	800	Neoplasms	280451
-8001/3	Tumor cells, malignant	20	800	Neoplasms	280451
-8002/3	Malignant tumor, small cell type	4	800	Neoplasms	280451
-8004/3	Malignant tumor, spindle cell type	20	800	Neoplasms	280451
-8010/0	Epithelial tumor, benign	123	800	Neoplasms	280451
-8010/0	Epithelial tumor, benign	123	801-804	Epithelial neoplasms	29707
-8010/2	Carcinoma in situ, NOS	15	801-804	Epithelial neoplasms	29707
-8010/3	Carcinoma, NOS	6070	801-804	Epithelial neoplasms	29707
-8010/6	Carcinoma, metastatic, NOS	19	801-804	Epithelial neoplasms	29707
+8001/0	Tumor cells, benign	5	800	Neoplasms, NOS	280451
+8001/1	Tumor cells, uncertain whether benign or malignant	50	800	Neoplasms, NOS	280451
+8001/3	Tumor cells, malignant	20	800	Neoplasms, NOS	280451
+8002/3	Malignant tumor, small cell type	4	800	Neoplasms, NOS	280451
+8004/3	Malignant tumor, spindle cell type	20	800	Neoplasms, NOS	280451
+8010/0	Epithelial tumor, benign	123	800	Neoplasms, NOS	280451
+8010/0	Epithelial tumor, benign	123	801-804	Epithelial neoplasms, NOS	29707
+8010/2	Carcinoma in situ, NOS	15	801-804	Epithelial neoplasms, NOS	29707
+8010/3	Carcinoma, NOS	6070	801-804	Epithelial neoplasms, NOS	29707
+8010/6	Carcinoma, metastatic, NOS	19	801-804	Epithelial neoplasms, NOS	29707
 8010/9	Carcinomatosis	1			22
-8012/3	Large cell carcinoma, NOS	49	801-804	Epithelial neoplasms	29707
-8013/3	Large cell neuroendocrine carcinoma	184	801-804	Epithelial neoplasms	29707
-8015/3	Glassy cell carcinoma	2	801-804	Epithelial neoplasms	29707
-8020/3	Carcinoma, undifferentiated, NOS	121	801-804	Epithelial neoplasms	29707
-8020/6	Metastatic carcinoma	3	801-804	Epithelial neoplasms	29707
-8021/3	Carcinoma, anaplastic, NOS	59	801-804	Epithelial neoplasms	29707
-8022/3	Pleomorphic carcinoma	19	801-804	Epithelial neoplasms	29707
-8023/3	Nuclear protein in testis (NUT) associated carcinoma	0	801-804	Epithelial neoplasms	29707
-8031/3	Giant cell carcinoma	0	801-804	Epithelial neoplasms	29707
-8032/3	Spindle cell carcinoma, NOS	22	801-804	Epithelial neoplasms	29707
-8033/3	Pseudosarcomatous carcinoma	98	801-804	Epithelial neoplasms	29707
-8035/3	Carcinoma with osteoclast-like giant cells	2	801-804	Epithelial neoplasms	29707
-8041/3	Small cell carcinoma, NOS	523	801-804	Epithelial neoplasms	29707
-8041/6	Metastatic small cell carcinoma	2	801-804	Epithelial neoplasms	29707
-8042/3	Oat cell carcinoma	0	801-804	Epithelial neoplasms	29707
-8045/3	Combined small cell carcinoma	20	801-804	Epithelial neoplasms	29707
-8046/3	Non-small cell carcinoma	22376	801-804	Epithelial neoplasms	29707
+8012/3	Large cell carcinoma, NOS	49	801-804	Epithelial neoplasms, NOS	29707
+8013/3	Large cell neuroendocrine carcinoma	184	801-804	Epithelial neoplasms, NOS	29707
+8015/3	Glassy cell carcinoma	2	801-804	Epithelial neoplasms, NOS	29707
+8020/3	Carcinoma, undifferentiated, NOS	121	801-804	Epithelial neoplasms, NOS	29707
+8020/6	Metastatic carcinoma	3	801-804	Epithelial neoplasms, NOS	29707
+8021/3	Carcinoma, anaplastic, NOS	59	801-804	Epithelial neoplasms, NOS	29707
+8022/3	Pleomorphic carcinoma	19	801-804	Epithelial neoplasms, NOS	29707
+8023/3	Nuclear protein in testis (NUT) associated carcinoma	0	801-804	Epithelial neoplasms, NOS	29707
+8031/3	Giant cell carcinoma	0	801-804	Epithelial neoplasms, NOS	29707
+8032/3	Spindle cell carcinoma, NOS	22	801-804	Epithelial neoplasms, NOS	29707
+8033/3	Pseudosarcomatous carcinoma	98	801-804	Epithelial neoplasms, NOS	29707
+8035/3	Carcinoma with osteoclast-like giant cells	2	801-804	Epithelial neoplasms, NOS	29707
+8041/3	Small cell carcinoma, NOS	523	801-804	Epithelial neoplasms, NOS	29707
+8041/6	Metastatic small cell carcinoma	2	801-804	Epithelial neoplasms, NOS	29707
+8042/3	Oat cell carcinoma	0	801-804	Epithelial neoplasms, NOS	29707
+8045/3	Combined small cell carcinoma	20	801-804	Epithelial neoplasms, NOS	29707
+8046/3	Non-small cell carcinoma	22376	801-804	Epithelial neoplasms, NOS	29707
 805-808	Squamous cell neoplasms	189	805-808	Squamous cell neoplasms	19269
 8050/0	Papilloma, NOS	0	805-808	Squamous cell neoplasms	19269
 8050/3	Papillary carcinoma, NOS	323	805-808	Squamous cell neoplasms	19269
@@ -268,17 +268,17 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 8772/3	Spindle cell melanoma, NOS	77	872-879	Nevi and melanomas	12947
 8774/3	Spindle cell melanoma, type B	29	872-879	Nevi and melanomas	12947
 8780/3	Blue nevus, malignant	0	872-879	Nevi and melanomas	12947
-880	Soft tissue tumors and sarcomas	6	880	Soft tissue tumors and sarcomas	4044
-8800/0	Soft tissue tumor, benign	3	880	Soft tissue tumors and sarcomas	4044
-8800/3	Sarcoma, NOS	3713	880	Soft tissue tumors and sarcomas	4044
-8801/3	Spindle cell sarcoma	31	880	Soft tissue tumors and sarcomas	4044
-8801/6	Metastatic Spindle cell sarcoma	1	880	Soft tissue tumors and sarcomas	4044
-8802/3	Giant cell sarcoma	10	880	Soft tissue tumors and sarcomas	4044
-8803/3	Small cell sarcoma	7	880	Soft tissue tumors and sarcomas	4044
-8804/3	Epithelioid sarcoma	22	880	Soft tissue tumors and sarcomas	4044
-8804/6	Metastatic Epithelioid sarcoma	2	880	Soft tissue tumors and sarcomas	4044
-8805/3	Undifferentiated sarcoma	209	880	Soft tissue tumors and sarcomas	4044
-8806/3	Desmoplastic small round cell tumor	40	880	Soft tissue tumors and sarcomas	4044
+880	Soft tissue tumors and sarcomas, NOS	6	880	Soft tissue tumors and sarcomas, NOS	4044
+8800/0	Soft tissue tumor, benign	3	880	Soft tissue tumors and sarcomas, NOS	4044
+8800/3	Sarcoma, NOS	3713	880	Soft tissue tumors and sarcomas, NOS	4044
+8801/3	Spindle cell sarcoma	31	880	Soft tissue tumors and sarcomas, NOS	4044
+8801/6	Metastatic Spindle cell sarcoma	1	880	Soft tissue tumors and sarcomas, NOS	4044
+8802/3	Giant cell sarcoma	10	880	Soft tissue tumors and sarcomas, NOS	4044
+8803/3	Small cell sarcoma	7	880	Soft tissue tumors and sarcomas, NOS	4044
+8804/3	Epithelioid sarcoma	22	880	Soft tissue tumors and sarcomas, NOS	4044
+8804/6	Metastatic Epithelioid sarcoma	2	880	Soft tissue tumors and sarcomas, NOS	4044
+8805/3	Undifferentiated sarcoma	209	880	Soft tissue tumors and sarcomas, NOS	4044
+8806/3	Desmoplastic small round cell tumor	40	880	Soft tissue tumors and sarcomas, NOS	4044
 881-883	Fibromatous neoplasms	0	881-883	Fibromatous neoplasms	399
 8810/0	Fibroma, NOS	0	881-883	Fibromatous neoplasms	399
 8810/3	Fibrosarcoma, NOS	33	881-883	Fibromatous neoplasms	399
@@ -544,14 +544,14 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 9719/3	NK/T-cell lymphoma, nasal and nasal type	2			22
 9726/3	Primary cutaneous gamma-delta T-cell lymphoma	1			22
 9727/3	Precursor cell lymphoblastic lymphoma, NOS	4	959-972	Hodgkin and non-Hodgkin lymphomas	1965
-9731/3	Plasmacytoma, NOS	0	973	Plasma Cell Tumors	3542
-9732/3	Plasma cell myeloma	3540	973	Plasma Cell Tumors	3542
-9734/3	Plasmacytoma, extramedullary	2	973	Plasma Cell Tumors	3542
-9738/3	HHV8-positive diffuse large B-cell lymphoma	0	973	Plasma Cell Tumors	3542
-9740/1	Mastocytoma, NOS	4	974	Mast Cell Tumors	4
-9741/1	Indolent systemic mastocytosis	0	974	Mast Cell Tumors	4
-9741/3	Malignant mastocytosis	0	974	Mast Cell Tumors	4
-9742/3	Mast cell leukemia	0	974	Mast Cell Tumors	4
+9731/3	Plasmacytoma, NOS	0	973	Plasma cell neoplasms	3542
+9732/3	Plasma cell myeloma	3540	973	Plasma cell neoplasms	3542
+9734/3	Plasmacytoma, extramedullary	2	973	Plasma cell neoplasms	3542
+9738/3	HHV8-positive diffuse large B-cell lymphoma	0	973	Plasma cell neoplasms	3542
+9740/1	Mastocytoma, NOS	4	974	Mast cell neoplasms	4
+9741/1	Indolent systemic mastocytosis	0	974	Mast cell neoplasms	4
+9741/3	Malignant mastocytosis	0	974	Mast cell neoplasms	4
+9742/3	Mast cell leukemia	0	974	Mast cell neoplasms	4
 9750/3	Malignant histiocytosis	0	975	Neoplasms of histiocytes and accessory lymphoid cells	8
 9751/1	Langerhans cell histiocytosis, NOS	4	975	Neoplasms of histiocytes and accessory lymphoid cells	8
 9751/3	Langerhans cell histiocytosis, disseminated	0	975	Neoplasms of histiocytes and accessory lymphoid cells	8
@@ -614,8 +614,8 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 9963/3	Chronic neutrophilic leukemia	80	9960/3	Myeloproliferative neoplasm, NOS	84
 9964/3	Chronic eosinophilic leukemia	0	9960/3	Myeloproliferative neoplasm, NOS	84
 9965/3	Myeloid or lymphoid neoplasm with PDGFRA rearrangement	0	9960/3	Myeloproliferative neoplasm, NOS	84
-9970/1	Lymphoproliferative disorder, NOS	0	997	Other hematologic disorders	54
-9975/3	Myeloproliferative neoplasm, unclassifiable	54	997	Other hematologic disorders	54
+9970/1	Lymphoproliferative disorder, NOS	0	997	Other hematological neoplasms	54
+9975/3	Myeloproliferative neoplasm, unclassifiable	54	997	Other hematological neoplasms	54
 9980/3	Myelodysplastic syndrome with single lineage dysplasia	0	998-999	Myelodysplastic syndromes	33
 9982/3	Myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia	0	998-999	Myelodysplastic syndromes	33
 9983/3	Myelodysplastic syndrome with excess blasts	8	998-999	Myelodysplastic syndromes	33
