@@ -98,6 +98,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8140/6 : adenocarcinoma, metastatic, nos	8140/6	Adenocarcinoma, metastatic, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8144/3	8144/3	Adenocarcinoma, intestinal type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8145/3	8145/3	Carcinoma, diffuse type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8148/0	8148/0	Glandular intraepithelial neoplasia, low grade	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8150/1	8150/1	Pancreatic endocrine tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8150/3 : pancreatic neuroendocrine tumor, nonfunctioning	8150/3	Pancreatic neuroendocrine tumor, nonfunctioning	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8155/3	8155/3	Vipoma, NOS	DOID:5574	VIPoma	C26749
@@ -900,6 +901,13 @@ alveolar rhabdomyosarcoma	8920/3	Alveolar rhabdomyosarcoma	DOID:4051	alveolar rh
 alveolar soft part sarcoma	9581/3	Alveolar soft part sarcoma	DOID:4239	alveolar soft part sarcoma	C3750;C7943;C8092
 amelanotic melanoma	8730/3	Amelanotic melanoma	DOID:4359	amelanotic melanoma	C3802
 ameloblastic carcinosarcoma	9342/3	Odontogenic carcinosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aml, not otherwise categorized	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aml, not otherwise categorized: acute megakaryoblastic leukemia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aml, not otherwise categorized: acute monoblastic/acute monocytic leukemia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aml, not otherwise categorized: acute myeloid leukemia with maturation	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aml, not otherwise categorized: acute myeloid leukemia without maturation	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aml, not otherwise categorized: acute myeloid leukemia, with minimal differentiation	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aml, not otherwise categorized: acute myelomonocytic leukemia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anal sac/mass - amelantic melanoma	8730/3	Amelanotic melanoma	DOID:4359	amelanotic melanoma	C3802
 anaplastic astrocytoma, idh-wildtype, glioblastoma, idh wildtype	8000/6	Neoplasm, metastatic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anaplastic ependymoma	9392/3	Ependymoma, anaplastic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1498,6 +1506,7 @@ giant cell tumor of bone, malignant	9250/3	Giant cell tumor of bone, malignant	_
 giant cell tumor of bone, nos	9250/1	Giant cell tumor of bone, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 giant cell tumor of soft parts, nos	9251/1	Giant cell tumor of soft parts, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 giant pigmented nevus, nos	8761/1	Giant pigmented nevus, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+glandular intraepithelial neoplasia, low grade	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 glassy cell carcinoma	8015/3	Glassy cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 glial neoplasm	9380/3	Glioma, malignant	DOID:3070	high grade glioma	C3059;C4822
 glial neoplasm favor optic glioma	9421/1	Pilocytic astrocytoma	DOID:3070	high grade glioma	C3059;C4822
@@ -2174,8 +2183,8 @@ myofibroblastic tumor, nos	8825/1	Myofibroblastic tumor, NOS	__CDA_UNASSIGNED__	
 myofibroblastic tumor, peribronchial	8827/1	Myofibroblastic tumor, peribronchial	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myofibroma	8824/0	Myofibroma	DOID:4386	myofibroma	__CDA_UNASSIGNED__
 myofibromatosis	8824/1	Myofibromatosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-myomatous neoplasm	889-892	myomatous neoplasm	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-myomatous neoplasms	889-892	myomatous neoplasm	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+myomatous neoplasm	889-892	Myomatous neoplasms	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+myomatous neoplasms	889-892	Myomatous neoplasms	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myxofibrosarcoma	8811/3	Myxofibrosarcoma	DOID:0080534	myxofibrosarcoma	C6496
 myxoid chondrosarcoma	9231/3	Myxoid chondrosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 myxoid glioneuronal tumor	9509/1	Papillary glioneuronal tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
