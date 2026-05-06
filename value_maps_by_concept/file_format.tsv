@@ -1,4 +1,5 @@
 unharmonized value	harmonized value
+avi	AVI
 bai	BAI
 bam	BAM
 bcr auxiliary xml	BCR Auxiliary XML
@@ -20,12 +21,15 @@ cram	CRAM
 csv	CSV
 dicom	DICOM
 dict	DICT
-doc	DOC
-docx	DOCX
+doc	Microsoft Word
+docx	Microsoft Word
 dta	STATA
+emf	EMF
 fasta	FASTA
 fastq	FASTQ
+gb	GenBank
 gct/res format	GCT
+gif	GIF
 gvcf	GVCF
 gz	GZ
 gzip	GZIP
@@ -36,6 +40,7 @@ html	HTML
 idat	IDAT
 idpdb	idpDB
 jpeg 2000	JPEG
+jpg	JPEG
 json	JSON
 maf	MAF
 mex	MEX
@@ -43,12 +48,20 @@ mtx	MTX
 mzidentml	mzIdentML
 mzml	mzML
 nifti	NIFTI
+ods	OpenDocument spreadsheet
+odt	OpenDocument text
 ome-tiff	TIFF
+parquet	Apache Parquet
 pdf	PDF
 ped	PED
 png	PNG
+ppt	Microsoft PowerPoint
+pptx	Microsoft PowerPoint
+prism	GraphPad Prism
+pzfx	GraphPad Prism
 r file format	R
 raw	RAW
+rcc	NanoString RCC
 rdata	RData
 rds	RDS
 rtf	RTF
@@ -70,6 +83,6 @@ tsv	TSV
 txt	TXT
 vcf	VCF
 vendor-specific	null
-xls	XLS
-xlsx	XLSX
+xls	Microsoft Excel
+xlsx	Microsoft Excel
 zip	ZIP
