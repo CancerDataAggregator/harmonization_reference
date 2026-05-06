@@ -139,6 +139,7 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8250/3	8250/3	Lepidic adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8252/3	8252/3	Bronchiolo-alveolar carcinoma, non-mucinous	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8253/3	8253/3	Adenocarcinoma of the lung, mucinous	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+8254/3	8254/3	Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8255/3	8255/3	Adenocarcinoma with mixed subtypes	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8255/3 : adenocarcinoma with mixed subtypes	8255/3	Adenocarcinoma with mixed subtypes	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8257/3	8257/3	Minimally invasive adenocarcinoma, mucinous	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -902,17 +903,17 @@ alveolar soft part sarcoma	9581/3	Alveolar soft part sarcoma	DOID:4239	alveolar 
 amelanotic melanoma	8730/3	Amelanotic melanoma	DOID:4359	amelanotic melanoma	C3802
 ameloblastic carcinosarcoma	9342/3	Odontogenic carcinosarcoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 aml, not otherwise categorized	null	null	null	null	null
-aml, not otherwise categorized: acute megakaryoblastic leukemia	9910/3	Acute megakaryoblastic leukemia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-aml, not otherwise categorized: acute monoblastic/acute monocytic leukemia	9891/3	Acute monocytic leukemia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-aml, not otherwise categorized: acute myeloid leukemia with maturation	9874/3	Acute myeloid leukemia with maturation	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-aml, not otherwise categorized: acute myeloid leukemia without maturation	9873/3	Acute myeloid leukemia without maturation	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-aml, not otherwise categorized: acute myeloid leukemia, with minimal differentiation	9872/3	Acute myeloid leukemia, minimal differentiation	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-aml, not otherwise categorized: acute myelomonocytic leukemia	9867/3	Acute myelomonocytic leukemia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+aml, not otherwise categorized: acute megakaryoblastic leukemia	9910/3	Acute megakaryoblastic leukemia	DOID:8761	acute megakaryocytic leukemia	C3170
+aml, not otherwise categorized: acute monoblastic/acute monocytic leukemia	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
+aml, not otherwise categorized: acute myeloid leukemia with maturation	9874/3	Acute myeloid leukemia with maturation	DOID:0081087	acute myeloid leukemia with maturation	C3250
+aml, not otherwise categorized: acute myeloid leukemia without maturation	9873/3	Acute myeloid leukemia without maturation	DOID:0081086	acute myeloid leukemia without maturation	C3249
+aml, not otherwise categorized: acute myeloid leukemia, with minimal differentiation	9872/3	Acute myeloid leukemia, minimal differentiation	DOID:0081085	acute myeloid leukemia with minimal differentiation	C8460
+aml, not otherwise categorized: acute myelomonocytic leukemia	9867/3	Acute myelomonocytic leukemia, NOS	DOID:0081082	acute myelomonocytic leukemia	C7463
 anal sac/mass - amelantic melanoma	8730/3	Amelanotic melanoma	DOID:4359	amelanotic melanoma	C3802
 anaplastic astrocytoma, idh-wildtype, glioblastoma, idh wildtype	8000/6	Neoplasm, metastatic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anaplastic ependymoma	9392/3	Ependymoma, anaplastic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 anaplastic ganglioglioma	9505/3	Ganglioglioma, anaplastic	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-anaplastic large cell lymphoma, alk negative	9702/3	Mature T-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+anaplastic large cell lymphoma, alk negative	9702/3	Mature T-cell lymphoma, NOS	DOID:0081312	T-cell non-Hodgkin lymphoma	C3466
 anaplastic large cell lymphoma, alk positive	9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	DOID:0050744	anaplastic large cell lymphoma	C3720
 anaplastic large cell lymphoma, t cell and null cell type	9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	DOID:0050744	anaplastic large cell lymphoma	C3720
 anaplastic large cell lymphoma, t-cell and null-cell type	9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	DOID:0050744	anaplastic large cell lymphoma	C3720
@@ -1356,7 +1357,7 @@ embryonal tumor with multilayered rosettes with c19mc alteration	9478/3	Embryona
 embryonal tumor with multilayered rosettes, c19mc-altered	9478/3	Embryonal tumor with multilayered rosettes with C19MC alteration	DOID:0081286	embryonal tumor with multilayered rosettes	C186534
 embryonal tumor with multilayered rosettes, cns who grade 4	9478/3	Embryonal tumor with multilayered rosettes with C19MC alteration	DOID:0081286	embryonal tumor with multilayered rosettes	C186534
 endocervical adenocarcinoma of the usual type	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
-endocervical type cervical mucinous adenocarcinoma	8482/3	Mucinous carcinoma, gastric type	DOID:8340	endocervical type cervical mucinous adenocarcinoma	__CDA_UNASSIGNED__
+endocervical type cervical mucinous adenocarcinoma	8482/3	Mucinous adenocarcinoma, endocervical type	DOID:8340	endocervical type cervical mucinous adenocarcinoma	__CDA_UNASSIGNED__
 endocervical type of adenocarcinoma	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 endometrial stromal sarcoma, low grade	8931/3	Endometrial stromal sarcoma, low grade	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 endometrial stromal sarcoma, nos	8930/3	Endometrial stromal sarcoma, NOS	DOID:4226	endometrial stromal sarcoma	C8973
@@ -1420,7 +1421,7 @@ ewing sarcoma - peripheral pnet, melanoma, neuroendocrine cancer (nos), osteosar
 extra adrenal paraganglioma	8693/1	Extra-adrenal paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 extra-adrenal paraganglioma, malignant	8693/3	Extra-adrenal paraganglioma, malignant	DOID:0081245	cauda equina neuroendocrine tumor	C5324
 extra-adrenal paraganglioma, nos	8693/1	Extra-adrenal paraganglioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-extranodal nk/t-cell lymphoma, nasal type	9719/3	NK/T-cell lymphoma, nasal and nasal type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+extranodal nk/t-cell lymphoma, nasal type	9719/3	NK/T-cell lymphoma, nasal and nasal type	DOID:0080797	nasal type extranodal NK/T-cell lymphoma	C4684
 extrarenal malignant rhabdoid tumor	8963/3	Rhabdoid tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 familial adenomatous polyposis	8220/0	Adenomatous polyposis coli	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 fatty neoplasm with myxoid features, no definitive high grade features, favor lipoblastoma	8881/0	Lipoblastomatosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2420,7 +2421,7 @@ periosteal osteosarcoma	9193/3	Periosteal osteosarcoma	__CDA_UNASSIGNED__	__CDA_
 peripheral nerve sheath tumor	9540/3	Malignant peripheral nerve sheath tumor, NOS	DOID:5940	malignant peripheral nerve sheath tumor	C3798
 peripheral neuroectodermal tumor	9364/3	Ewing sarcoma	DOID:3369	Ewing sarcoma	C27901;C27903;C4817;C7542;C7806;C9341
 peripheral t-cell lymphoma	9702/3	Mature T-cell lymphoma, NOS	DOID:0081312	T-cell non-Hodgkin lymphoma	C3466
-peripheral t-cell lymphoma, nos	9702/3	Mature T-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+peripheral t-cell lymphoma, nos	9702/3	Mature T-cell lymphoma, NOS	DOID:0081312	T-cell non-Hodgkin lymphoma	C3466
 pfa ependymoma	9391/3	Ependymoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 phantom	null	null	null	null	null
 pheochromocytoma	8700/0	Pheochromocytoma, NOS	DOID:0050771	pheochromocytoma	__CDA_UNASSIGNED__
