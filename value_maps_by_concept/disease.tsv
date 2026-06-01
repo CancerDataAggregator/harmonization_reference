@@ -101,7 +101,8 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 8148/0	8148/0	Glandular intraepithelial neoplasia, low grade	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8150/1	8150/1	Pancreatic endocrine tumor, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 8150/3 : pancreatic neuroendocrine tumor, nonfunctioning	8150/3	Pancreatic neuroendocrine tumor, nonfunctioning	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-8155/3	8155/3	Vipoma, NOS	DOID:5574	VIPoma	C26749
+8155/1	8155/1	Vipoma, NOS	DOID:5574	VIPoma	C26749
+8155/3	8155/3	Vipoma, malignant	DOID:5574	VIPoma	C26749
 8160/3	8160/3	Cholangiocarcinoma	DOID:4947	cholangiocarcinoma	C4436;C8265
 8160/3 : cholangiocarcinoma	8160/3	Cholangiocarcinoma	DOID:4947	cholangiocarcinoma	C4436;C8265
 8163/3	8163/3	Pancreatobiliary type carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -655,8 +656,8 @@ unharmonized value	icd_o_3_code	icd_o_3_preferred_name	do_id	do_name	ncit_concep
 9673/3	9673/3	Mantle cell lymphoma	DOID:0050746	mantle cell lymphoma	__CDA_UNASSIGNED__
 9678/3	9678/3	Primary effusion lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9679/3	9679/3	Mediastinal large B-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-9680/3	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-9680/3 : diffuse large b-cell lymphoma, nos	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+9680/3	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+9680/3 : diffuse large b-cell lymphoma, nos	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 9687/3	9687/3	Burkitt lymphoma, NOS	DOID:8584	Burkitt lymphoma	C2912
 9687/3 : burkitt lymphoma, nos	9687/3	Burkitt lymphoma, NOS	DOID:8584	Burkitt lymphoma	C2912
 9688/3 : t-cell/histiocyte rich large b-cell lymphoma	9688/3	T-cell/histiocyte rich large B-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -789,6 +790,7 @@ abdominal fibromatosis	8822/1	Abdominal fibromatosis	__CDA_UNASSIGNED__	__CDA_UN
 acantholytic squamous cell carcinoma	8075/3	Squamous cell carcinoma, adenoid	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 acinar adenocarcinoma	8550/3	Acinar cell carcinoma	DOID:3025	acinar cell carcinoma	C3768
 acinar cell carcinoma	8550/3	Acinar cell carcinoma	DOID:3025	acinar cell carcinoma	C3768
+acinar cell carcinoma, adrenal cortical carcinoma, carcinosarcoma, chondrosarcoma, colon adenocarcinoma, ewing sarcoma, gastrointestinal stromal tumor, head and neck squamous cell carcinoma, invasive breast carcinoma, invasive breast carcinoma of no special type, leiomyosarcoma, lung adenocarcinoma, lung squamous cell carcinoma, malignant peripheral nerve sheath tumor, melanoma, merkel cell carcinoma, mesothelial neoplasm, mucoepidermoid carcinoma, myxofibrosarcoma, neuroendocrine carcinoma, non-small cell carcinoma, osteosarcoma, pancreatic adenocarcinoma, renal cell carcinoma, not otherwise specified, rhabdomyosarcoma, spindle cell sarcoma, synovial sarcoma, transitional cell carcinoma, urothelial carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 acinar cell neoplasm	8550/0	Acinar cell adenoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 acinar cell neoplasms	8550/0	Acinar cell adenoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 acinar cell tumor	8550/3	Acinar cell carcinoma	DOID:3025	acinar cell carcinoma	C3768
@@ -861,6 +863,8 @@ adenocarcinoma of colon, adenocarcinoma of pancreas, adenocarcinoma of rectum, e
 adenocarcinoma pancreas	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 adenocarcinoma with mixed subtypes	8255/3	Adenocarcinoma with mixed subtypes	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 adenocarcinoma with neuroendocrine differentiation	8574/3	Adenocarcinoma with neuroendocrine differentiation	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+adenocarcinoma, adrenocortical carcinoma, anal cancer, anal squamous cell carcinoma, astrocytoma, bladder cancer, brain cancer, breast cancer, cervical cancer, cervical squamous cell carcinoma, cholangiocarcinoma, colorectal cancer, esophageal carcinoma, ewing sarcoma - peripheral pnet, gastrointestinal stromal tumor, glioblastoma multiforme, glioma, head and neck cancer, head and neck squamous cell carcinoma, hodgkin lymphoma, kidney cancer, leukemia, liver cancer, lung adenocarcinoma, lung cancer, lung squamous cell carcinoma, lymphoma, melanoma, mesothelioma, multiple myeloma, nasopharyngeal cancer, neuroendocrine cancer (nos), non-small cell lung cancer, osteosarcoma, ovarian cancer, pancreatic cancer, prostate cancer, sarcomas, skin cancer, small cell lung cancer, squamous cell carcinoma, thyroid cancer, thymoma, urothelial - bladder cancer (nos), uveal melanoma, wilms tumor	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+adenocarcinoma, breast ductal carcinoma, glioblastoma, melanoma, breast lobular carcinoma, mucinous adenocarcinoma, squamous cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 adenocarcinoma, diffuse type	8145/3	Carcinoma, diffuse type	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 adenocarcinoma, endocervical type	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 adenocarcinoma, ex-goblet cell carcinoid, with solid, signet ring, and mucinous features	8243/3	Goblet cell carcinoid	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1000,7 +1004,7 @@ b lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); bcr-abl1	9812/3	B lym
 b lymphoblastic leukemia/lymphoma with t(v;11q23); mll rearranged	9813/3	B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged	DOID:0080644	B-lymphoblastic leukemia/lymphoma MLL rearranged	C80342
 b lymphoblastic leukemia/lymphoma, nos	9811/3	B lymphoblastic leukemia/lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 b-cell lymphocytic leukemia/small lymphocytic lymphoma	9823/3	B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma	DOID:6354	chronic lymphocytic leukemia/small lymphocytic lymphoma	C27911
-b-cell lymphoma, unclassifiable, with features intermediate between diffuse large b-cell lymphoma and burkitt lymphoma	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+b-cell lymphoma, unclassifiable, with features intermediate between diffuse large b-cell lymphoma and burkitt lymphoma	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 b-cell lymphoma; possible marginal zone lymphoma	9591/3	Malignant lymphoma, non-Hodgkin, NOS	DOID:0060060	non-Hodgkin lymphoma	C3211
 b-cell. burkitt-like. progression at d6 to diffuse large b-cell lymphoma - immunoblastic	9687/3	Burkitt lymphoma, NOS	DOID:8584	Burkitt lymphoma	C2912
 b-cell. lymphoblastic	9811/3	B lymphoblastic leukemia/lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1055,6 +1059,7 @@ bronchiolo-alveolar adenocarcinoma, nos	8250/3	Lepidic adenocarcinoma	__CDA_UNAS
 bronchiolo-alveolar carcinoma, non-mucinous	8250/3	Lepidic adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 bronchiolo-alveolar carcinoma, nos	8250/3	Lepidic adenocarcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 burkitt like lymphoma progression to diffuse large b cell - immunoblastic lymphoma	9687/3	Burkitt lymphoma, NOS	DOID:8584	Burkitt lymphoma	C2912
+burkitt lymphoma	9687/3	Burkitt lymphoma, NOS	DOID:8584	Burkitt lymphoma	C2912
 burkitt lymphoma, nos	9687/3	Burkitt lymphoma, NOS	DOID:8584	Burkitt lymphoma	C2912
 burkitt lymphoma, nos (includes all variants)	9687/3	Burkitt lymphoma, NOS	DOID:8584	Burkitt lymphoma	C2912
 burkitt-like	9687/3	Burkitt lymphoma, NOS	DOID:8584	Burkitt lymphoma	C2912
@@ -1268,14 +1273,15 @@ diffuse glioma, favor high grade	9385/3	Diffuse midline glioma, H3 K27M-mutant	_
 diffuse hemispheric glioma	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 diffuse hemispheric glioma cns who grade 4	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 diffuse hemispheric high-grade glioma	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-diffuse large b-cell lymphoma	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-diffuse large b-cell lymphoma (dlbcl) nos (any anatomic site nodal or extranodal)	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-diffuse large b-cell lymphoma - centroblastic	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-diffuse large b-cell lymphoma - centroblastic.	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-diffuse large b-cell lymphoma - immunoblastic	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-diffuse large b-cell lymphoma - immunoblastic.	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-diffuse large b-cell lymphoma, nos	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-diffuse large b-cell lymphoma-immunoblastic	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+diffuse large b-cell lymphoma	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+diffuse large b-cell lymphoma (dlbcl) nos (any anatomic site nodal or extranodal)	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+diffuse large b-cell lymphoma - centroblastic	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+diffuse large b-cell lymphoma - centroblastic.	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+diffuse large b-cell lymphoma - immunoblastic	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+diffuse large b-cell lymphoma - immunoblastic.	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+diffuse large b-cell lymphoma, nos	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+diffuse large b-cell lymphoma, not otherwise specified	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+diffuse large b-cell lymphoma-immunoblastic	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 diffuse leptomeningeal melanocytic neoplasm	8728/0	Meningeal melanocytosis	DOID:6379	diffuse meningeal melanocytosis	C6890
 diffuse low-grade glioma	9421/1	Pilocytic astrocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 diffuse malignant mesothelioma - biphasic	9053/3	Mesothelioma, biphasic, malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1324,7 +1330,7 @@ dysembryoplastic neuroepithelial tumor, low-grade glioma, polymorphous low-grade
 dysgerminoma	9060/3	Dysgerminoma	DOID:4441	dysgerminoma	__CDA_UNASSIGNED__
 dysplasia	null	null	null	null	null
 early onset gastric cancer	8000/3	Neoplasm, malignant	DOID:162	cancer	C9305
-ebv positive diffuse large b-cell lymphoma of the elderly	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+ebv positive diffuse large b-cell lymphoma of the elderly	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 ebv-related squamous cell carcinoma	8070/3	Squamous cell carcinoma, NOS	DOID:1749	squamous cell carcinoma	C2929
 eccrine poroma, malignant	8409/3	Porocarcinoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 eccrine spiradenoma	8403/0	Spiradenoma, NOS	DOID:5444	spiradenoma	C4170
@@ -1929,7 +1935,7 @@ lymphoepithelial carcinoma	8082/3	Lymphoepithelial carcinoma	__CDA_UNASSIGNED__	
 lymphoepithelioma-like carcinoma	8082/3	Lymphoepithelial carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 lymphoid leukemia, nos	9820/3	Lymphoid leukemia, NOS	DOID:1037	lymphoid leukemia	C7539
 lymphoid leukemias	9820/3	Lymphoid leukemia, NOS	DOID:1037	lymphoid leukemia	C7539
-lymphoid neoplasm diffuse large b-cell lymphoma	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+lymphoid neoplasm diffuse large b-cell lymphoma	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 lymphoma	9590/3	Malignant lymphoma, NOS	DOID:0060058	lymphoma	C3208;C7065
 lymphoma, nos	9590/3	Malignant lymphoma, NOS	DOID:0060058	lymphoma	C3208;C7065
 lymphoproliferative disorder, nos	9970/1	Lymphoproliferative disorder, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -1939,8 +1945,8 @@ malignant epithelioid neoplasm, malignant epithelioid neoplasm with ewsr1::klf5 
 malignant fibrous histiocytoma	8830/3	Malignant fibrous histiocytoma	DOID:1907	malignant fibrous histiocytoma	C4247
 malignant glioma	9380/3	Glioma, malignant	DOID:3070	high grade glioma	C3059;C4822
 malignant histiocytosis	9750/3	Malignant histiocytosis	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-malignant lymphoma, large b-cell, diffuse, nos	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-malignant lymphoma, large b/cell, diffuse, nos	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+malignant lymphoma, large b-cell, diffuse, nos	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+malignant lymphoma, large b/cell, diffuse, nos	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 malignant lymphoma, non-hodgkin, nos	9591/3	Malignant lymphoma, non-Hodgkin, NOS	DOID:0060060	non-Hodgkin lymphoma	C3211
 malignant lymphoma, non/hodgkin, nos	9591/3	Malignant lymphoma, non-Hodgkin, NOS	DOID:0060060	non-Hodgkin lymphoma	C3211
 malignant lymphoma, nos	9590/3	Malignant lymphoma, NOS	DOID:0060058	lymphoma	C3208;C7065
@@ -2053,6 +2059,7 @@ medulloepithelioma, nos	9501/3	Medulloepithelioma, NOS	DOID:4790	medulloepitheli
 melanoma	8720/3	Malignant melanoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 melanoma in situ	8720/2	Melanoma in situ	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 melanoma, nos	8720/3	Malignant melanoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+melanoma, squamous cell carcinoma, malignant peripheral nerve sheath tumor, skin fibrous histiocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 melanotic neuroectodermal tumor	9363/0	Melanotic neuroectodermal tumor	DOID:166	melanotic neuroectodermal tumor	C3717
 melanotic schwannoma, other	9560/0	Schwannoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 meningeal melanocytoma	8728/1	Meningeal melanocytoma	DOID:5900	meningeal melanocytoma	C4662
@@ -2430,7 +2437,7 @@ pheochromocytoma, malignant	8700/3	Pheochromocytoma, malignant	DOID:0080347	mali
 pheochromocytoma, nos	8700/0	Pheochromocytoma, NOS	DOID:0050771	pheochromocytoma	__CDA_UNASSIGNED__
 phyllodes tumor, borderline	9020/1	Phyllodes tumor, borderline	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 phyllodes tumor, malignant	9020/3	Phyllodes tumor, malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-pigmented dermatofibrosarcoma protuberans	8833/1	Pigmented dermatofibrosarcoma protuberans	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+pigmented dermatofibrosarcoma protuberans	8833/3	Pigmented dermatofibrosarcoma protuberans	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pilocytic astrocytoma	9421/1	Pilocytic astrocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pilocytic astrocytoma (who grade 1)	9421/1	Pilocytic astrocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pilocytic astrocytoma who grade 1	9421/1	Pilocytic astrocytoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2520,8 +2527,8 @@ primary cutaneous cd30 positive t-cell lymphoproliferative disorder	9718/3	Prima
 primary cutaneous cd30 t/cell lymphoproliferative disorder	null	null	null	null	null
 primary cutaneous follicle center lymphoma	9597/3	Primary cutaneous follicle centre lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 primary cutaneous gamma-delta t-cell lymphoma	9726/3	Primary cutaneous gamma-delta T-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-primary diffuse large b-cell lymphoma of the cns	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-primary dlbcl of the cns	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+primary diffuse large b-cell lymphoma of the cns	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+primary dlbcl of the cns	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 primary effusion lymphoma	9678/3	Primary effusion lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 primary mediastinal (thymic) dlbcl	9679/3	Mediastinal large B-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 primary mediastinal (thymic) large b-cell lymphoma	9679/3	Mediastinal large B-cell lymphoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
@@ -2533,7 +2540,7 @@ primitive sarcoma	8800/3	Sarcoma, NOS	DOID:1115	sarcoma	__CDA_UNASSIGNED__
 primitive t-cell leukemia	9827/3	Adult T-cell leukemia/lymphoma (HTLV-1 positive)	DOID:0050523	adult T-cell leukemia/lymphoma	C3184
 primitive/embryonal tumor with high-grade features; compatible with medulloblastoma	9470/3	Medulloblastoma, NOS	DOID:0050902	medulloblastoma	C27294;C3222;C3716
 probable pilocytic astrocytoma	null	null	null	null	null
-progression to diffuse large b-cell lymphoma - centroblastic.	9680/3	Diffuse large B-cell lymphoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+progression to diffuse large b-cell lymphoma - centroblastic.	9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 proliferative dermal lesion in congenital nevus	8762/1	Proliferative dermal lesion in congenital nevus	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 prolymphocytic leukemia, t-cell type	9834/3	Prolymphocytic leukemia, T-cell type	DOID:0081042	T-cell prolymphocytic leukemia	C4752
 prostate adenocarcinoma	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
@@ -2898,7 +2905,7 @@ verrucous carcinoma	8051/3	Verrucous carcinoma, NOS	DOID:3737	verrucous carcinom
 verrucous carcinoma, nos	8051/3	Verrucous carcinoma, NOS	DOID:3737	verrucous carcinoma	C3781
 vestibular schwannoma (non-cancer)	null	null	null	null	null
 villous adenocarcinoma	8262/3	Villous adenocarcinoma	DOID:4917	villous adenocarcinoma	C4142
-vipoma, nos	8155/1	Vipoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+vipoma, nos	8155/1	Vipoma, NOS	DOID:5574	VIPoma	C26749
 waldenstrom macroglobulinemia	9761/3	Waldenstrom macroglobulinemia	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 warty carcinoma	8051/3	Verrucous carcinoma, NOS	DOID:3737	verrucous carcinoma	C3781
 well differentiated embryonal rhabdomyosarcoma	8910/3	Embryonal rhabdomyosarcoma, NOS	DOID:3246	embryonal rhabdomyosarcoma	C8971
