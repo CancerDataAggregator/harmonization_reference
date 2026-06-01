@@ -1,52 +1,52 @@
 harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_count_in_last_CDA_release	slim_disease_term_id	slim_disease_term_name	slim_disease_term_count_in_last_CDA_release
-8000/0	Neoplasm, benign	30	800	Neoplasms, NOS	280328
-8000/1	Neoplasm, uncertain whether benign or malignant	30861	800	Neoplasms, NOS	280328
-8000/3	Neoplasm, malignant	249320	800	Neoplasms, NOS	280328
-8000/6	Neoplasm, metastatic	18	800	Neoplasms, NOS	280328
-8000/9	Neoplasm, malignant, uncertain whether primary or metastatic	7			49
-8001/0	Tumor cells, benign	5	800	Neoplasms, NOS	280328
-8001/1	Tumor cells, uncertain whether benign or malignant	50	800	Neoplasms, NOS	280328
-8001/3	Tumor cells, malignant	20	800	Neoplasms, NOS	280328
-8002/3	Malignant tumor, small cell type	4	800	Neoplasms, NOS	280328
-8004/3	Malignant tumor, spindle cell type	20	800	Neoplasms, NOS	280328
-8010/0	Epithelial tumor, benign	123	801-804	Epithelial neoplasms, NOS	29707
-8010/2	Carcinoma in situ, NOS	15	801-804	Epithelial neoplasms, NOS	29707
-8010/3	Carcinoma, NOS	6070	801-804	Epithelial neoplasms, NOS	29707
-8010/6	Carcinoma, metastatic, NOS	19	801-804	Epithelial neoplasms, NOS	29707
-8010/9	Carcinomatosis	2			49
-8012/3	Large cell carcinoma, NOS	49	801-804	Epithelial neoplasms, NOS	29707
-8013/3	Large cell neuroendocrine carcinoma	184	801-804	Epithelial neoplasms, NOS	29707
-8015/3	Glassy cell carcinoma	2	801-804	Epithelial neoplasms, NOS	29707
-8020/3	Carcinoma, undifferentiated, NOS	121	801-804	Epithelial neoplasms, NOS	29707
-8020/6	Metastatic carcinoma	3	801-804	Epithelial neoplasms, NOS	29707
-8021/3	Carcinoma, anaplastic, NOS	59	801-804	Epithelial neoplasms, NOS	29707
-8022/3	Pleomorphic carcinoma	19	801-804	Epithelial neoplasms, NOS	29707
-8023/3	Nuclear protein in testis (NUT) associated carcinoma	0	801-804	Epithelial neoplasms, NOS	29707
-8031/3	Giant cell carcinoma	0	801-804	Epithelial neoplasms, NOS	29707
-8032/3	Spindle cell carcinoma, NOS	22	801-804	Epithelial neoplasms, NOS	29707
-8033/3	Pseudosarcomatous carcinoma	98	801-804	Epithelial neoplasms, NOS	29707
-8035/3	Carcinoma with osteoclast-like giant cells	2	801-804	Epithelial neoplasms, NOS	29707
-8041/3	Small cell carcinoma, NOS	523	801-804	Epithelial neoplasms, NOS	29707
-8041/6	Metastatic small cell carcinoma	2	801-804	Epithelial neoplasms, NOS	29707
-8042/3	Oat cell carcinoma	0	801-804	Epithelial neoplasms, NOS	29707
-8045/3	Combined small cell carcinoma	20	801-804	Epithelial neoplasms, NOS	29707
-8046/3	Non-small cell carcinoma	22376	801-804	Epithelial neoplasms, NOS	29707
-805-808	Squamous cell neoplasms	189	805-808	Squamous cell neoplasms	19269
-8050/0	Papilloma, NOS	0	805-808	Squamous cell neoplasms	19269
-8050/3	Papillary carcinoma, NOS	323	805-808	Squamous cell neoplasms	19269
-8051/3	Verrucous carcinoma, NOS	5	805-808	Squamous cell neoplasms	19269
-8052/3	Papillary squamous cell carcinoma	21	805-808	Squamous cell neoplasms	19269
-8070/2	Squamous cell carcinoma in situ, NOS	8	805-808	Squamous cell neoplasms	19269
-8070/3	Squamous cell carcinoma, NOS	17556	805-808	Squamous cell neoplasms	19269
-8070/6	Squamous cell carcinoma, metastatic, NOS	49	805-808	Squamous cell neoplasms	19269
-8071/3	Squamous cell carcinoma, keratinizing, NOS	489	805-808	Squamous cell neoplasms	19269
-8072/3	Squamous cell carcinoma, large cell, nonkeratinizing, NOS	485	805-808	Squamous cell neoplasms	19269
-8073/3	Squamous cell carcinoma, small cell, nonkeratinizing	3	805-808	Squamous cell neoplasms	19269
-8074/3	Squamous cell carcinoma, spindle cell	3	805-808	Squamous cell neoplasms	19269
-8075/3	Squamous cell carcinoma, adenoid	1	805-808	Squamous cell neoplasms	19269
-8082/3	Lymphoepithelial carcinoma	9	805-808	Squamous cell neoplasms	19269
-8083/3	Basaloid squamous cell carcinoma	120	805-808	Squamous cell neoplasms	19269
-8084/3	Squamous cell carcinoma, clear cell type	8	805-808	Squamous cell neoplasms	19269
+8000/0	Neoplasm, benign	30	800	Neoplasms, NOS	284595
+8000/1	Neoplasm, uncertain whether benign or malignant	32257	800	Neoplasms, NOS	284595
+8000/3	Neoplasm, malignant	252191	800	Neoplasms, NOS	284595
+8000/6	Neoplasm, metastatic	18	800	Neoplasms, NOS	284595
+8000/9	Neoplasm, malignant, uncertain whether primary or metastatic	7			54
+8001/0	Tumor cells, benign	5	800	Neoplasms, NOS	284595
+8001/1	Tumor cells, uncertain whether benign or malignant	50	800	Neoplasms, NOS	284595
+8001/3	Tumor cells, malignant	20	800	Neoplasms, NOS	284595
+8002/3	Malignant tumor, small cell type	4	800	Neoplasms, NOS	284595
+8004/3	Malignant tumor, spindle cell type	20	800	Neoplasms, NOS	284595
+8010/0	Epithelial tumor, benign	123	801-804	Epithelial neoplasms, NOS	29791
+8010/2	Carcinoma in situ, NOS	15	801-804	Epithelial neoplasms, NOS	29791
+8010/3	Carcinoma, NOS	6070	801-804	Epithelial neoplasms, NOS	29791
+8010/6	Carcinoma, metastatic, NOS	19	801-804	Epithelial neoplasms, NOS	29791
+8010/9	Carcinomatosis	2			54
+8012/3	Large cell carcinoma, NOS	49	801-804	Epithelial neoplasms, NOS	29791
+8013/3	Large cell neuroendocrine carcinoma	184	801-804	Epithelial neoplasms, NOS	29791
+8015/3	Glassy cell carcinoma	2	801-804	Epithelial neoplasms, NOS	29791
+8020/3	Carcinoma, undifferentiated, NOS	121	801-804	Epithelial neoplasms, NOS	29791
+8020/6	Metastatic carcinoma	3	801-804	Epithelial neoplasms, NOS	29791
+8021/3	Carcinoma, anaplastic, NOS	59	801-804	Epithelial neoplasms, NOS	29791
+8022/3	Pleomorphic carcinoma	19	801-804	Epithelial neoplasms, NOS	29791
+8023/3	Nuclear protein in testis (NUT) associated carcinoma	0	801-804	Epithelial neoplasms, NOS	29791
+8031/3	Giant cell carcinoma	0	801-804	Epithelial neoplasms, NOS	29791
+8032/3	Spindle cell carcinoma, NOS	22	801-804	Epithelial neoplasms, NOS	29791
+8033/3	Pseudosarcomatous carcinoma	98	801-804	Epithelial neoplasms, NOS	29791
+8035/3	Carcinoma with osteoclast-like giant cells	2	801-804	Epithelial neoplasms, NOS	29791
+8041/3	Small cell carcinoma, NOS	523	801-804	Epithelial neoplasms, NOS	29791
+8041/6	Metastatic small cell carcinoma	2	801-804	Epithelial neoplasms, NOS	29791
+8042/3	Oat cell carcinoma	0	801-804	Epithelial neoplasms, NOS	29791
+8045/3	Combined small cell carcinoma	20	801-804	Epithelial neoplasms, NOS	29791
+8046/3	Non-small cell carcinoma	22460	801-804	Epithelial neoplasms, NOS	29791
+805-808	Squamous cell neoplasms	189	805-808	Squamous cell neoplasms	19919
+8050/0	Papilloma, NOS	0	805-808	Squamous cell neoplasms	19919
+8050/3	Papillary carcinoma, NOS	323	805-808	Squamous cell neoplasms	19919
+8051/3	Verrucous carcinoma, NOS	5	805-808	Squamous cell neoplasms	19919
+8052/3	Papillary squamous cell carcinoma	21	805-808	Squamous cell neoplasms	19919
+8070/2	Squamous cell carcinoma in situ, NOS	8	805-808	Squamous cell neoplasms	19919
+8070/3	Squamous cell carcinoma, NOS	18206	805-808	Squamous cell neoplasms	19919
+8070/6	Squamous cell carcinoma, metastatic, NOS	49	805-808	Squamous cell neoplasms	19919
+8071/3	Squamous cell carcinoma, keratinizing, NOS	489	805-808	Squamous cell neoplasms	19919
+8072/3	Squamous cell carcinoma, large cell, nonkeratinizing, NOS	485	805-808	Squamous cell neoplasms	19919
+8073/3	Squamous cell carcinoma, small cell, nonkeratinizing	3	805-808	Squamous cell neoplasms	19919
+8074/3	Squamous cell carcinoma, spindle cell	3	805-808	Squamous cell neoplasms	19919
+8075/3	Squamous cell carcinoma, adenoid	1	805-808	Squamous cell neoplasms	19919
+8082/3	Lymphoepithelial carcinoma	9	805-808	Squamous cell neoplasms	19919
+8083/3	Basaloid squamous cell carcinoma	120	805-808	Squamous cell neoplasms	19919
+8084/3	Squamous cell carcinoma, clear cell type	8	805-808	Squamous cell neoplasms	19919
 809-811	Basal cell neoplasms	0	809-811	Basal cell neoplasms	214
 8090/3	Basal cell carcinoma, NOS	210	809-811	Basal cell neoplasms	214
 8097/3	Basal cell carcinoma, nodular	2	809-811	Basal cell neoplasms	214
@@ -59,89 +59,89 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 8123/3	Basaloid carcinoma	10	812-813	Transitional cell papillomas and carcinomas	8274
 8130/2	Papillary urothelial carcinoma, non-invasive	72	812-813	Transitional cell papillomas and carcinomas	8274
 8130/3	Papillary transitional cell carcinoma	286	812-813	Transitional cell papillomas and carcinomas	8274
-8140/0	Adenoma, NOS	667	814-838	Adenomas and adenocarcinomas	97819
-8140/1	Atypical adenoma	0	814-838	Adenomas and adenocarcinomas	97819
-8140/2	Adenocarcinoma in situ, NOS	14	814-838	Adenomas and adenocarcinomas	97819
-8140/3	Adenocarcinoma, NOS	40245	814-838	Adenomas and adenocarcinomas	97819
-8140/6	Adenocarcinoma, metastatic, NOS	411	814-838	Adenomas and adenocarcinomas	97819
-8144/3	Adenocarcinoma, intestinal type	4908	814-838	Adenomas and adenocarcinomas	97819
-8145/3	Carcinoma, diffuse type	376	814-838	Adenomas and adenocarcinomas	97819
-8147/3	Basal cell adenocarcinoma	0	814-838	Adenomas and adenocarcinomas	97819
-8148/0	Glandular intraepithelial neoplasia, low grade	4			49
-8150/1	Pancreatic endocrine tumor, NOS	0	814-838	Adenomas and adenocarcinomas	97819
-8150/3	Pancreatic neuroendocrine tumor, nonfunctioning	154	814-838	Adenomas and adenocarcinomas	97819
-8155/1	Vipoma, NOS	1			49
-8155/3	Vipoma, NOS	1			49
-8160/3	Cholangiocarcinoma	1050	814-838	Adenomas and adenocarcinomas	97819
-8163/3	Pancreatobiliary type carcinoma	0	814-838	Adenomas and adenocarcinomas	97819
-8170/3	Hepatocellular carcinoma, NOS	9543	814-838	Adenomas and adenocarcinomas	97819
-8171/3	Hepatocellular carcinoma, fibrolamellar	18	814-838	Adenomas and adenocarcinomas	97819
-8173/3	Hepatocellular carcinoma, spindle cell variant	5	814-838	Adenomas and adenocarcinomas	97819
-8174/3	Hepatocellular carcinoma, clear cell type	20	814-838	Adenomas and adenocarcinomas	97819
-8180/3	Combined hepatocellular carcinoma and cholangiocarcinoma	33	814-838	Adenomas and adenocarcinomas	97819
-8190/3	Trabecular adenocarcinoma	1	814-838	Adenomas and adenocarcinomas	97819
-8200/3	Adenoid cystic carcinoma	331	814-838	Adenomas and adenocarcinomas	97819
-8201/3	Cribriform carcinoma, NOS	3	814-838	Adenomas and adenocarcinomas	97819
-8210/0	Adenomatous polyp, NOS	30	814-838	Adenomas and adenocarcinomas	97819
-8210/2	Adenocarcinoma in situ in adenomatous polyp	0	814-838	Adenomas and adenocarcinomas	97819
-8211/0	Tubular adenoma, NOS	2	814-838	Adenomas and adenocarcinomas	97819
-8211/3	Tubular adenocarcinoma	318	814-838	Adenomas and adenocarcinomas	97819
-8211/6	Metastatic Tubular adenocarcinoma	2	814-838	Adenomas and adenocarcinomas	97819
-8213/0	Serrated adenoma, NOS	4	814-838	Adenomas and adenocarcinomas	97819
-8215/3	Adenocarcinoma of anal glands	0	814-838	Adenomas and adenocarcinomas	97819
-8220/0	Adenomatous polyposis coli	0	814-838	Adenomas and adenocarcinomas	97819
-8220/3	Adenocarcinoma in adenomatous polyposis coli	5	814-838	Adenomas and adenocarcinomas	97819
-8230/3	Solid carcinoma, NOS	163	814-838	Adenomas and adenocarcinomas	97819
-8240/1	Carcinoid tumor of uncertain malignant potential	4			49
-8240/3	Neuroendocrine tumor, NOS	261	814-838	Adenomas and adenocarcinomas	97819
-8243/3	Goblet cell carcinoid	0	814-838	Adenomas and adenocarcinomas	97819
-8244/3	Mixed adenoneuroendocrine carcinoma	2			49
-8246/3	Neuroendocrine carcinoma, NOS	928	814-838	Adenomas and adenocarcinomas	97819
-8246/6	Metastatic Neuroendocrine carcinoma	2	814-838	Adenomas and adenocarcinomas	97819
-8247/3	Merkel cell carcinoma	102	814-838	Adenomas and adenocarcinomas	97819
-8249/3	Neuroendocrine tumor, grade 2	57	814-838	Adenomas and adenocarcinomas	97819
-8249/6	Metastatic Atypical carcinoid tumor	1	814-838	Adenomas and adenocarcinomas	97819
-8250/3	Lepidic adenocarcinoma	66	814-838	Adenomas and adenocarcinomas	97819
-8252/3	Bronchiolo-alveolar carcinoma, non-mucinous	46	814-838	Adenomas and adenocarcinomas	97819
-8253/3	Adenocarcinoma of the lung, mucinous	22	814-838	Adenomas and adenocarcinomas	97819
-8254/3	Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous	3			49
-8255/3	Adenocarcinoma with mixed subtypes	462	814-838	Adenomas and adenocarcinomas	97819
-8257/3	Minimally invasive adenocarcinoma, mucinous	2			49
-8260/3	Papillary adenocarcinoma, NOS	5133	814-838	Adenomas and adenocarcinomas	97819
-8261/3	Adenocarcinoma in villous adenoma	0	814-838	Adenomas and adenocarcinomas	97819
-8262/3	Villous adenocarcinoma	0	814-838	Adenomas and adenocarcinomas	97819
-8263/0	Tubulovillous adenoma, NOS	14	814-838	Adenomas and adenocarcinomas	97819
-8263/3	Adenocarcinoma in tubulovillous adenoma	17	814-838	Adenomas and adenocarcinomas	97819
-8265/3	Micropapillary carcinoma, NOS	11	814-838	Adenomas and adenocarcinomas	97819
-8271/0	Lactotroph adenoma	0	814-838	Adenomas and adenocarcinomas	97819
-8272/0	Pituitary adenoma, NOS	21	814-838	Adenomas and adenocarcinomas	97819
-8272/3	Pituitary carcinoma, NOS	0	814-838	Adenomas and adenocarcinomas	97819
-8290/0	Oxyphilic adenoma	61	814-838	Adenomas and adenocarcinomas	97819
-8290/3	Oxyphilic adenocarcinoma	3	814-838	Adenomas and adenocarcinomas	97819
-8310/0	Clear cell adenoma	0	814-838	Adenomas and adenocarcinomas	97819
-8310/3	Clear cell adenocarcinoma, NOS	5618	814-838	Adenomas and adenocarcinomas	97819
-8310/6	Metastatic clear cell adenocarcinoma	1			49
-8311/3	Hereditary leiomyomatosis and renal cell carcinoma (HRCC)-associated renal cell carcinoma	4	814-838	Adenomas and adenocarcinomas	97819
-8312/3	Renal cell carcinoma, NOS	11271	814-838	Adenomas and adenocarcinomas	97819
-8317/3	Renal cell carcinoma, chromophobe type	1057	814-838	Adenomas and adenocarcinomas	97819
-8318/3	Renal cell carcinoma, sarcomatoid	1	814-838	Adenomas and adenocarcinomas	97819
-8319/3	Collecting duct carcinoma	16	814-838	Adenomas and adenocarcinomas	97819
-8330/3	Follicular carcinoma, NOS	60	814-838	Adenomas and adenocarcinomas	97819
-8331/3	Follicular adenocarcinoma, well differentiated	0	814-838	Adenomas and adenocarcinomas	97819
-8335/3	Follicular carcinoma, minimally invasive	4	814-838	Adenomas and adenocarcinomas	97819
-8336/1	Hyalinizing trabecular tumor	0	814-838	Adenomas and adenocarcinomas	97819
-8337/3	Poorly differentiated thyroid carcinoma	0	814-838	Adenomas and adenocarcinomas	97819
-8340/3	Papillary carcinoma, follicular variant	345	814-838	Adenomas and adenocarcinomas	97819
-8341/3	Papillary microcarcinoma	5	814-838	Adenomas and adenocarcinomas	97819
-8342/3	Papillary carcinoma, oncocytic variant	3	814-838	Adenomas and adenocarcinomas	97819
-8344/3	Papillary carcinoma, columnar cell	117	814-838	Adenomas and adenocarcinomas	97819
-8350/3	Nonencapsulated sclerosing carcinoma	12	814-838	Adenomas and adenocarcinomas	97819
-8370/0	Adrenal cortical adenoma, NOS	14	814-838	Adenomas and adenocarcinomas	97819
-8370/3	Adrenal cortical carcinoma	1970	814-838	Adenomas and adenocarcinomas	97819
-8380/1	Endometrioid adenoma, borderline malignancy	0	814-838	Adenomas and adenocarcinomas	97819
-8380/3	Endometrioid adenocarcinoma, NOS	8902	814-838	Adenomas and adenocarcinomas	97819
-8382/3	Endometrioid adenocarcinoma, secretory variant	8	814-838	Adenomas and adenocarcinomas	97819
-8384/3	Adenocarcinoma, endocervical type	2902	814-838	Adenomas and adenocarcinomas	97819
+8140/0	Adenoma, NOS	667	814-838	Adenomas and adenocarcinomas	98130
+8140/1	Atypical adenoma	0	814-838	Adenomas and adenocarcinomas	98130
+8140/2	Adenocarcinoma in situ, NOS	14	814-838	Adenomas and adenocarcinomas	98130
+8140/3	Adenocarcinoma, NOS	40542	814-838	Adenomas and adenocarcinomas	98130
+8140/6	Adenocarcinoma, metastatic, NOS	415	814-838	Adenomas and adenocarcinomas	98130
+8144/3	Adenocarcinoma, intestinal type	4910	814-838	Adenomas and adenocarcinomas	98130
+8145/3	Carcinoma, diffuse type	376	814-838	Adenomas and adenocarcinomas	98130
+8147/3	Basal cell adenocarcinoma	0	814-838	Adenomas and adenocarcinomas	98130
+8148/0	Glandular intraepithelial neoplasia, low grade	4			54
+8150/1	Pancreatic endocrine tumor, NOS	0	814-838	Adenomas and adenocarcinomas	98130
+8150/3	Pancreatic neuroendocrine tumor, nonfunctioning	154	814-838	Adenomas and adenocarcinomas	98130
+8155/1	Vipoma, NOS	1			54
+8155/3	Vipoma, malignant	1			54
+8160/3	Cholangiocarcinoma	1050	814-838	Adenomas and adenocarcinomas	98130
+8163/3	Pancreatobiliary type carcinoma	0	814-838	Adenomas and adenocarcinomas	98130
+8170/3	Hepatocellular carcinoma, NOS	9543	814-838	Adenomas and adenocarcinomas	98130
+8171/3	Hepatocellular carcinoma, fibrolamellar	18	814-838	Adenomas and adenocarcinomas	98130
+8173/3	Hepatocellular carcinoma, spindle cell variant	5	814-838	Adenomas and adenocarcinomas	98130
+8174/3	Hepatocellular carcinoma, clear cell type	20	814-838	Adenomas and adenocarcinomas	98130
+8180/3	Combined hepatocellular carcinoma and cholangiocarcinoma	33	814-838	Adenomas and adenocarcinomas	98130
+8190/3	Trabecular adenocarcinoma	1	814-838	Adenomas and adenocarcinomas	98130
+8200/3	Adenoid cystic carcinoma	331	814-838	Adenomas and adenocarcinomas	98130
+8201/3	Cribriform carcinoma, NOS	3	814-838	Adenomas and adenocarcinomas	98130
+8210/0	Adenomatous polyp, NOS	30	814-838	Adenomas and adenocarcinomas	98130
+8210/2	Adenocarcinoma in situ in adenomatous polyp	0	814-838	Adenomas and adenocarcinomas	98130
+8211/0	Tubular adenoma, NOS	2	814-838	Adenomas and adenocarcinomas	98130
+8211/3	Tubular adenocarcinoma	318	814-838	Adenomas and adenocarcinomas	98130
+8211/6	Metastatic Tubular adenocarcinoma	2	814-838	Adenomas and adenocarcinomas	98130
+8213/0	Serrated adenoma, NOS	8	814-838	Adenomas and adenocarcinomas	98130
+8215/3	Adenocarcinoma of anal glands	0	814-838	Adenomas and adenocarcinomas	98130
+8220/0	Adenomatous polyposis coli	0	814-838	Adenomas and adenocarcinomas	98130
+8220/3	Adenocarcinoma in adenomatous polyposis coli	5	814-838	Adenomas and adenocarcinomas	98130
+8230/3	Solid carcinoma, NOS	163	814-838	Adenomas and adenocarcinomas	98130
+8240/1	Carcinoid tumor of uncertain malignant potential	4			54
+8240/3	Neuroendocrine tumor, NOS	261	814-838	Adenomas and adenocarcinomas	98130
+8243/3	Goblet cell carcinoid	0	814-838	Adenomas and adenocarcinomas	98130
+8244/3	Mixed adenoneuroendocrine carcinoma	2			54
+8246/3	Neuroendocrine carcinoma, NOS	928	814-838	Adenomas and adenocarcinomas	98130
+8246/6	Metastatic Neuroendocrine carcinoma	2	814-838	Adenomas and adenocarcinomas	98130
+8247/3	Merkel cell carcinoma	102	814-838	Adenomas and adenocarcinomas	98130
+8249/3	Neuroendocrine tumor, grade 2	57	814-838	Adenomas and adenocarcinomas	98130
+8249/6	Metastatic Atypical carcinoid tumor	1	814-838	Adenomas and adenocarcinomas	98130
+8250/3	Lepidic adenocarcinoma	66	814-838	Adenomas and adenocarcinomas	98130
+8252/3	Bronchiolo-alveolar carcinoma, non-mucinous	46	814-838	Adenomas and adenocarcinomas	98130
+8253/3	Adenocarcinoma of the lung, mucinous	22	814-838	Adenomas and adenocarcinomas	98130
+8254/3	Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous	3			54
+8255/3	Adenocarcinoma with mixed subtypes	462	814-838	Adenomas and adenocarcinomas	98130
+8257/3	Minimally invasive adenocarcinoma, mucinous	2			54
+8260/3	Papillary adenocarcinoma, NOS	5133	814-838	Adenomas and adenocarcinomas	98130
+8261/3	Adenocarcinoma in villous adenoma	0	814-838	Adenomas and adenocarcinomas	98130
+8262/3	Villous adenocarcinoma	0	814-838	Adenomas and adenocarcinomas	98130
+8263/0	Tubulovillous adenoma, NOS	18	814-838	Adenomas and adenocarcinomas	98130
+8263/3	Adenocarcinoma in tubulovillous adenoma	17	814-838	Adenomas and adenocarcinomas	98130
+8265/3	Micropapillary carcinoma, NOS	11	814-838	Adenomas and adenocarcinomas	98130
+8271/0	Lactotroph adenoma	0	814-838	Adenomas and adenocarcinomas	98130
+8272/0	Pituitary adenoma, NOS	21	814-838	Adenomas and adenocarcinomas	98130
+8272/3	Pituitary carcinoma, NOS	0	814-838	Adenomas and adenocarcinomas	98130
+8290/0	Oxyphilic adenoma	61	814-838	Adenomas and adenocarcinomas	98130
+8290/3	Oxyphilic adenocarcinoma	3	814-838	Adenomas and adenocarcinomas	98130
+8310/0	Clear cell adenoma	0	814-838	Adenomas and adenocarcinomas	98130
+8310/3	Clear cell adenocarcinoma, NOS	5618	814-838	Adenomas and adenocarcinomas	98130
+8310/6	Metastatic clear cell adenocarcinoma	1			54
+8311/3	Hereditary leiomyomatosis and renal cell carcinoma (HRCC)-associated renal cell carcinoma	4	814-838	Adenomas and adenocarcinomas	98130
+8312/3	Renal cell carcinoma, NOS	11271	814-838	Adenomas and adenocarcinomas	98130
+8317/3	Renal cell carcinoma, chromophobe type	1057	814-838	Adenomas and adenocarcinomas	98130
+8318/3	Renal cell carcinoma, sarcomatoid	1	814-838	Adenomas and adenocarcinomas	98130
+8319/3	Collecting duct carcinoma	16	814-838	Adenomas and adenocarcinomas	98130
+8330/3	Follicular carcinoma, NOS	60	814-838	Adenomas and adenocarcinomas	98130
+8331/3	Follicular adenocarcinoma, well differentiated	0	814-838	Adenomas and adenocarcinomas	98130
+8335/3	Follicular carcinoma, minimally invasive	4	814-838	Adenomas and adenocarcinomas	98130
+8336/1	Hyalinizing trabecular tumor	0	814-838	Adenomas and adenocarcinomas	98130
+8337/3	Poorly differentiated thyroid carcinoma	0	814-838	Adenomas and adenocarcinomas	98130
+8340/3	Papillary carcinoma, follicular variant	345	814-838	Adenomas and adenocarcinomas	98130
+8341/3	Papillary microcarcinoma	5	814-838	Adenomas and adenocarcinomas	98130
+8342/3	Papillary carcinoma, oncocytic variant	3	814-838	Adenomas and adenocarcinomas	98130
+8344/3	Papillary carcinoma, columnar cell	117	814-838	Adenomas and adenocarcinomas	98130
+8350/3	Nonencapsulated sclerosing carcinoma	12	814-838	Adenomas and adenocarcinomas	98130
+8370/0	Adrenal cortical adenoma, NOS	14	814-838	Adenomas and adenocarcinomas	98130
+8370/3	Adrenal cortical carcinoma	1970	814-838	Adenomas and adenocarcinomas	98130
+8380/1	Endometrioid adenoma, borderline malignancy	0	814-838	Adenomas and adenocarcinomas	98130
+8380/3	Endometrioid adenocarcinoma, NOS	8902	814-838	Adenomas and adenocarcinomas	98130
+8382/3	Endometrioid adenocarcinoma, secretory variant	8	814-838	Adenomas and adenocarcinomas	98130
+8384/3	Adenocarcinoma, endocervical type	2902	814-838	Adenomas and adenocarcinomas	98130
 839-842	Adnexal and skin appendage neoplasms	0	839-842	Adnexal and skin appendage neoplasms	50
 8390/3	Adnexal adenocarcinoma, NOS	42	839-842	Adnexal and skin appendage neoplasms	50
 8400/3	Sweat gland adenocarcinoma	0	839-842	Adnexal and skin appendage neoplasms	50
@@ -151,54 +151,54 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 8410/0	Sebaceoma	1	839-842	Adnexal and skin appendage neoplasms	50
 8410/3	Sebaceous carcinoma	2	839-842	Adnexal and skin appendage neoplasms	50
 8430/3	Mucoepidermoid carcinoma	51	843	Mucoepidermoid neoplasms	51
-844-849	Cystic, mucinous and serous neoplasms	48	844-849	Cystic, mucinous and serous neoplasms	10688
-8440/3	Cystadenocarcinoma, NOS	3	844-849	Cystic, mucinous and serous neoplasms	10688
-8441/0	Serous cystadenoma, NOS	18	844-849	Cystic, mucinous and serous neoplasms	10688
-8441/3	Serous carcinoma, NOS	9507	844-849	Cystic, mucinous and serous neoplasms	10688
-8441/6	Metastatic Serous cystadenocarcinoma	3	844-849	Cystic, mucinous and serous neoplasms	10688
-8442/1	Serous borderline tumor, NOS	1	844-849	Cystic, mucinous and serous neoplasms	10688
-8452/1	Solid pseudopapillary tumor of ovary	16	844-849	Cystic, mucinous and serous neoplasms	10688
-8452/3	Solid pseudopapillary neoplasm of the pancreas	0	844-849	Cystic, mucinous and serous neoplasms	10688
-8453/0	Intraductal Papillary mucinous adenoma	37	844-849	Cystic, mucinous and serous neoplasms	10688
-8453/2	Intraductal Papillary mucinous neoplasm with high grade dysplasia	38	844-849	Cystic, mucinous and serous neoplasms	10688
-8453/3	Intraductal Papillary mucinous neoplasm with an associated invasive carcinoma	18	844-849	Cystic, mucinous and serous neoplasms	10688
-8460/3	Low grade serous carcinoma	187	844-849	Cystic, mucinous and serous neoplasms	10688
-8461/3	High grade serous carcinoma	24	844-849	Cystic, mucinous and serous neoplasms	10688
-8461/6	Metastatic Serous surface papilloma	10	844-849	Cystic, mucinous and serous neoplasms	10688
-8470/0	Mucinous cystadenoma, NOS	7	844-849	Cystic, mucinous and serous neoplasms	10688
-8470/2	Mucinous cystic neoplasm with high grade dysplasia	1	844-849	Cystic, mucinous and serous neoplasms	10688
-8472/1	Mucinous cystic tumor of borderline malignancy	2	844-849	Cystic, mucinous and serous neoplasms	10688
-8474/3	Seromucinous carcinoma	0	844-849	Cystic, mucinous and serous neoplasms	10688
-8480/3	Mucinous adenocarcinoma	631	844-849	Cystic, mucinous and serous neoplasms	10688
-8480/6	Pseudomyxoma peritonei	2	844-849	Cystic, mucinous and serous neoplasms	10688
-8481/3	Mucin-producing adenocarcinoma	8	844-849	Cystic, mucinous and serous neoplasms	10688
-8482/3	Mucinous adenocarcinoma, endocervical type	40	844-849	Cystic, mucinous and serous neoplasms	10688
-8482/6	Metastatic mucinous adenocarcinoma, endocervical type	1			49
-8490/3	Signet ring cell carcinoma	78	844-849	Cystic, mucinous and serous neoplasms	10688
-8490/6	Metastatic signet ring cell carcinoma	9	844-849	Cystic, mucinous and serous neoplasms	10688
-850-854	Ductal and lobular neoplasms	0	850-854	Ductal and lobular neoplasms	16105
-8500/2	Intraductal carcinoma, noninfiltrating, NOS	80	850-854	Ductal and lobular neoplasms	16105
-8500/3	Infiltrating duct carcinoma, NOS	11298	850-854	Ductal and lobular neoplasms	16105
-8500/6	Metastatic Infiltrating duct carcinoma	10	850-854	Ductal and lobular neoplasms	16105
-8501/2	Comedocarcinoma, noninfiltrating	1	850-854	Ductal and lobular neoplasms	16105
-8502/3	Secretory carcinoma	3	850-854	Ductal and lobular neoplasms	16105
-8503/2	Noninfiltrating intraductal papillary adenocarcinoma	6	850-854	Ductal and lobular neoplasms	16105
-8503/3	Intraductal papillary adenocarcinoma with invasion	23	850-854	Ductal and lobular neoplasms	16105
-8507/2	Intraductal micropapillary carcinoma	0	850-854	Ductal and lobular neoplasms	16105
-8507/3	Invasive micropapillary carcinoma of breast	14	850-854	Ductal and lobular neoplasms	16105
-8510/3	Medullary carcinoma, NOS	76	850-854	Ductal and lobular neoplasms	16105
-8520/2	Lobular carcinoma in situ, NOS	8	850-854	Ductal and lobular neoplasms	16105
-8520/3	Lobular carcinoma, NOS	1035	850-854	Ductal and lobular neoplasms	16105
-8521/1	Infiltrating ductular carcinoma, borderline malignancy	2	850-854	Ductal and lobular neoplasms	16105
-8521/3	Infiltrating ductular carcinoma	3254	850-854	Ductal and lobular neoplasms	16105
-8522/1	Borderline Intraductal carcinoma and lobular	2	850-854	Ductal and lobular neoplasms	16105
-8522/3	Infiltrating duct and lobular carcinoma	118	850-854	Ductal and lobular neoplasms	16105
-8523/3	Infiltrating duct mixed with other types of carcinoma	68	850-854	Ductal and lobular neoplasms	16105
-8524/3	Infiltrating lobular mixed with other types of carcinoma	21	850-854	Ductal and lobular neoplasms	16105
-8530/3	Inflammatory carcinoma	25	850-854	Ductal and lobular neoplasms	16105
-8540/3	Paget disease, mammary	0	850-854	Ductal and lobular neoplasms	16105
-8541/3	Paget disease and infiltrating duct carcinoma of breast	61	850-854	Ductal and lobular neoplasms	16105
-8542/3	Paget disease, extramammary	0	850-854	Ductal and lobular neoplasms	16105
+844-849	Cystic, mucinous and serous neoplasms	48	844-849	Cystic, mucinous and serous neoplasms	10693
+8440/3	Cystadenocarcinoma, NOS	3	844-849	Cystic, mucinous and serous neoplasms	10693
+8441/0	Serous cystadenoma, NOS	18	844-849	Cystic, mucinous and serous neoplasms	10693
+8441/3	Serous carcinoma, NOS	9507	844-849	Cystic, mucinous and serous neoplasms	10693
+8441/6	Metastatic Serous cystadenocarcinoma	3	844-849	Cystic, mucinous and serous neoplasms	10693
+8442/1	Serous borderline tumor, NOS	1	844-849	Cystic, mucinous and serous neoplasms	10693
+8452/1	Solid pseudopapillary tumor of ovary	16	844-849	Cystic, mucinous and serous neoplasms	10693
+8452/3	Solid pseudopapillary neoplasm of the pancreas	0	844-849	Cystic, mucinous and serous neoplasms	10693
+8453/0	Intraductal Papillary mucinous adenoma	37	844-849	Cystic, mucinous and serous neoplasms	10693
+8453/2	Intraductal Papillary mucinous neoplasm with high grade dysplasia	38	844-849	Cystic, mucinous and serous neoplasms	10693
+8453/3	Intraductal Papillary mucinous neoplasm with an associated invasive carcinoma	20	844-849	Cystic, mucinous and serous neoplasms	10693
+8460/3	Low grade serous carcinoma	187	844-849	Cystic, mucinous and serous neoplasms	10693
+8461/3	High grade serous carcinoma	24	844-849	Cystic, mucinous and serous neoplasms	10693
+8461/6	Metastatic Serous surface papilloma	10	844-849	Cystic, mucinous and serous neoplasms	10693
+8470/0	Mucinous cystadenoma, NOS	7	844-849	Cystic, mucinous and serous neoplasms	10693
+8470/2	Mucinous cystic neoplasm with high grade dysplasia	1	844-849	Cystic, mucinous and serous neoplasms	10693
+8472/1	Mucinous cystic tumor of borderline malignancy	2	844-849	Cystic, mucinous and serous neoplasms	10693
+8474/3	Seromucinous carcinoma	0	844-849	Cystic, mucinous and serous neoplasms	10693
+8480/3	Mucinous adenocarcinoma	634	844-849	Cystic, mucinous and serous neoplasms	10693
+8480/6	Pseudomyxoma peritonei	2	844-849	Cystic, mucinous and serous neoplasms	10693
+8481/3	Mucin-producing adenocarcinoma	8	844-849	Cystic, mucinous and serous neoplasms	10693
+8482/3	Mucinous adenocarcinoma, endocervical type	40	844-849	Cystic, mucinous and serous neoplasms	10693
+8482/6	Metastatic mucinous adenocarcinoma, endocervical type	1			54
+8490/3	Signet ring cell carcinoma	78	844-849	Cystic, mucinous and serous neoplasms	10693
+8490/6	Metastatic signet ring cell carcinoma	9	844-849	Cystic, mucinous and serous neoplasms	10693
+850-854	Ductal and lobular neoplasms	0	850-854	Ductal and lobular neoplasms	16131
+8500/2	Intraductal carcinoma, noninfiltrating, NOS	80	850-854	Ductal and lobular neoplasms	16131
+8500/3	Infiltrating duct carcinoma, NOS	11308	850-854	Ductal and lobular neoplasms	16131
+8500/6	Metastatic Infiltrating duct carcinoma	12	850-854	Ductal and lobular neoplasms	16131
+8501/2	Comedocarcinoma, noninfiltrating	1	850-854	Ductal and lobular neoplasms	16131
+8502/3	Secretory carcinoma	3	850-854	Ductal and lobular neoplasms	16131
+8503/2	Noninfiltrating intraductal papillary adenocarcinoma	6	850-854	Ductal and lobular neoplasms	16131
+8503/3	Intraductal papillary adenocarcinoma with invasion	23	850-854	Ductal and lobular neoplasms	16131
+8507/2	Intraductal micropapillary carcinoma	0	850-854	Ductal and lobular neoplasms	16131
+8507/3	Invasive micropapillary carcinoma of breast	14	850-854	Ductal and lobular neoplasms	16131
+8510/3	Medullary carcinoma, NOS	78	850-854	Ductal and lobular neoplasms	16131
+8520/2	Lobular carcinoma in situ, NOS	8	850-854	Ductal and lobular neoplasms	16131
+8520/3	Lobular carcinoma, NOS	1035	850-854	Ductal and lobular neoplasms	16131
+8521/1	Infiltrating ductular carcinoma, borderline malignancy	2	850-854	Ductal and lobular neoplasms	16131
+8521/3	Infiltrating ductular carcinoma	3266	850-854	Ductal and lobular neoplasms	16131
+8522/1	Borderline Intraductal carcinoma and lobular	2	850-854	Ductal and lobular neoplasms	16131
+8522/3	Infiltrating duct and lobular carcinoma	118	850-854	Ductal and lobular neoplasms	16131
+8523/3	Infiltrating duct mixed with other types of carcinoma	68	850-854	Ductal and lobular neoplasms	16131
+8524/3	Infiltrating lobular mixed with other types of carcinoma	21	850-854	Ductal and lobular neoplasms	16131
+8530/3	Inflammatory carcinoma	25	850-854	Ductal and lobular neoplasms	16131
+8540/3	Paget disease, mammary	0	850-854	Ductal and lobular neoplasms	16131
+8541/3	Paget disease and infiltrating duct carcinoma of breast	61	850-854	Ductal and lobular neoplasms	16131
+8542/3	Paget disease, extramammary	0	850-854	Ductal and lobular neoplasms	16131
 8550/0	Acinar cell adenoma	2	855	Acinar cell neoplasms	1287
 8550/1	Acinar cell tumor	31	855	Acinar cell neoplasms	1287
 8550/3	Acinar cell carcinoma	1254	855	Acinar cell neoplasms	1287
@@ -230,14 +230,14 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 8631/3	Sertoli-Leydig cell tumor, poorly differentiated	13	859-867	Specialized gonadal neoplasms	157
 8634/1	Sertoli-Leydig cell tumor, intermediate differentiation, with heterologous elements	2	859-867	Specialized gonadal neoplasms	157
 8634/3	Sertoli-Leydig cell tumor, poorly differentiated, with heterologous elements	1	859-867	Specialized gonadal neoplasms	157
-8640/1	Sertoli cell tumor, NOS	4			49
+8640/1	Sertoli cell tumor, NOS	4			54
 8650/0	Leydig cell tumor of the ovary, NOS	2	859-867	Specialized gonadal neoplasms	157
 8650/1	Leydig cell tumor of the testis, NOS	2	859-867	Specialized gonadal neoplasms	157
 8670/0	Lipid cell tumor of ovary	0	859-867	Specialized gonadal neoplasms	157
 868-871	Paragangliomas and glomus tumors	1	868-871	Paragangliomas and glomus tumors	1286
 8680/1	Paraganglioma, NOS	67	868-871	Paragangliomas and glomus tumors	1286
 8680/3	Paraganglioma, malignant	9	868-871	Paragangliomas and glomus tumors	1286
-8681/1	Sympathetic paraganglioma	2			49
+8681/1	Sympathetic paraganglioma	2			54
 8691/1	Aortic body tumor	3	868-871	Paragangliomas and glomus tumors	1286
 8693/1	Extra-adrenal paraganglioma, NOS	56	868-871	Paragangliomas and glomus tumors	1286
 8693/3	Extra-adrenal paraganglioma, malignant	32	868-871	Paragangliomas and glomus tumors	1286
@@ -284,30 +284,30 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 8804/6	Metastatic Epithelioid sarcoma	2	880	Soft tissue tumors and sarcomas, NOS	4044
 8805/3	Undifferentiated sarcoma	209	880	Soft tissue tumors and sarcomas, NOS	4044
 8806/3	Desmoplastic small round cell tumor	40	880	Soft tissue tumors and sarcomas, NOS	4044
-8806/6	Metastatic desmoplastic small round cell tumor	1			49
-881-883	Fibromatous neoplasms	0	881-883	Fibromatous neoplasms	399
-8810/0	Fibroma, NOS	0	881-883	Fibromatous neoplasms	399
-8810/3	Fibrosarcoma, NOS	33	881-883	Fibromatous neoplasms	399
-8811/3	Myxofibrosarcoma	139	881-883	Fibromatous neoplasms	399
-8814/3	Infantile fibrosarcoma	13	881-883	Fibromatous neoplasms	399
-8815/0	Solitary fibrous tumor/Hemangiopericytoma, grade 1	1	881-883	Fibromatous neoplasms	399
-8815/1	Solitary fibrous tumor, NOS	1	881-883	Fibromatous neoplasms	399
-8821/1	Aggressive fibromatosis	35	881-883	Fibromatous neoplasms	399
-8822/1	Abdominal fibromatosis	17	881-883	Fibromatous neoplasms	399
-8823/0	Sclerotic fibroma	10	881-883	Fibromatous neoplasms	399
-8824/0	Myofibroma	6	881-883	Fibromatous neoplasms	399
-8824/1	Myofibromatosis	3	881-883	Fibromatous neoplasms	399
-8825/1	Myofibroblastic tumor, NOS	30	881-883	Fibromatous neoplasms	399
-8826/0	Angiomyofibroblastoma	0	881-883	Fibromatous neoplasms	399
-8827/1	Myofibroblastic tumor, peribronchial	0	881-883	Fibromatous neoplasms	399
-8830/3	Malignant fibrous histiocytoma	72	881-883	Fibromatous neoplasms	399
-8832/0	Dermatofibroma, NOS	0	881-883	Fibromatous neoplasms	399
-8832/1	Dermatofibrosarcoma protuberans, NOS	0	881-883	Fibromatous neoplasms	399
-8832/3	Dermatofibrosarcoma protuberans, fibrosarcomatous	16	881-883	Fibromatous neoplasms	399
-8833/1	Pigmented dermatofibrosarcoma protuberans	5	881-883	Fibromatous neoplasms	399
-8833/3	Pigmented dermatofibrosarcoma protuberans	3			49
-8835/1	Plexiform fibrohistiocytic tumor	3	881-883	Fibromatous neoplasms	399
-8836/1	Angiomatoid fibrous histiocytoma	15	881-883	Fibromatous neoplasms	399
+8806/6	Metastatic desmoplastic small round cell tumor	1			54
+881-883	Fibromatous neoplasms	0	881-883	Fibromatous neoplasms	394
+8810/0	Fibroma, NOS	0	881-883	Fibromatous neoplasms	394
+8810/3	Fibrosarcoma, NOS	33	881-883	Fibromatous neoplasms	394
+8811/3	Myxofibrosarcoma	139	881-883	Fibromatous neoplasms	394
+8814/3	Infantile fibrosarcoma	13	881-883	Fibromatous neoplasms	394
+8815/0	Solitary fibrous tumor/Hemangiopericytoma, grade 1	1	881-883	Fibromatous neoplasms	394
+8815/1	Solitary fibrous tumor, NOS	1	881-883	Fibromatous neoplasms	394
+8821/1	Aggressive fibromatosis	35	881-883	Fibromatous neoplasms	394
+8822/1	Abdominal fibromatosis	17	881-883	Fibromatous neoplasms	394
+8823/0	Sclerotic fibroma	10	881-883	Fibromatous neoplasms	394
+8824/0	Myofibroma	6	881-883	Fibromatous neoplasms	394
+8824/1	Myofibromatosis	3	881-883	Fibromatous neoplasms	394
+8825/1	Myofibroblastic tumor, NOS	30	881-883	Fibromatous neoplasms	394
+8826/0	Angiomyofibroblastoma	0	881-883	Fibromatous neoplasms	394
+8827/1	Myofibroblastic tumor, peribronchial	0	881-883	Fibromatous neoplasms	394
+8830/3	Malignant fibrous histiocytoma	72	881-883	Fibromatous neoplasms	394
+8832/0	Dermatofibroma, NOS	0	881-883	Fibromatous neoplasms	394
+8832/1	Dermatofibrosarcoma protuberans, NOS	0	881-883	Fibromatous neoplasms	394
+8832/3	Dermatofibrosarcoma protuberans, fibrosarcomatous	16	881-883	Fibromatous neoplasms	394
+8833/1	Pigmented dermatofibrosarcoma protuberans	0	881-883	Fibromatous neoplasms	394
+8833/3	Pigmented dermatofibrosarcoma protuberans	8			54
+8835/1	Plexiform fibrohistiocytic tumor	3	881-883	Fibromatous neoplasms	394
+8836/1	Angiomatoid fibrous histiocytoma	15	881-883	Fibromatous neoplasms	394
 8840/0	Myxoma, NOS	0	884	Myxomatous neoplasms	2
 8840/3	Myxosarcoma	0	884	Myxomatous neoplasms	2
 8842/0	Ossifying fibromyxoid tumor, NOS	2	884	Myxomatous neoplasms	2
@@ -345,7 +345,7 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 8936/1	Gastrointestinal stromal tumor, NOS	82	893-899	Complex mixed and stromal neoplasms	2541
 8936/3	Gastrointestinal stromal tumor	97	893-899	Complex mixed and stromal neoplasms	2541
 8940/0	Pleomorphic adenoma	0	893-899	Complex mixed and stromal neoplasms	2541
-8941/3	Carcinoma in pleomorphic adenoma	2			49
+8941/3	Carcinoma in pleomorphic adenoma	2			54
 8950/3	Mullerian mixed tumor	224	893-899	Complex mixed and stromal neoplasms	2541
 8950/6	Metastatic Mullerian mixed tumor	1	893-899	Complex mixed and stromal neoplasms	2541
 8951/3	Mesodermal mixed tumor	3	893-899	Complex mixed and stromal neoplasms	2541
@@ -446,43 +446,43 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 9364/3	Ewing sarcoma	65	935-937	Miscellaneous tumors	373
 9370/3	Chordoma, NOS	66	935-937	Miscellaneous tumors	373
 9371/3	Chondroid chordoma	0	935-937	Miscellaneous tumors	373
-9380/3	Glioma, malignant	4716	938-948	Gliomas	31955
-9381/3	Gliomatosis cerebri	2	938-948	Gliomas	31955
-9382/3	Oligoastrocytoma, NOS	484	938-948	Gliomas	31955
-9383/1	Subependymoma	5	938-948	Gliomas	31955
-9384/1	Subependymal giant cell astrocytoma	15	938-948	Gliomas	31955
-9385/3	Diffuse midline glioma, H3 K27M-mutant	100	938-948	Gliomas	31955
-9390/0	Choroid plexus papilloma, NOS	89	938-948	Gliomas	31955
-9390/1	Atypical choroid plexus papilloma	29	938-948	Gliomas	31955
-9390/3	Choroid plexus carcinoma	49	938-948	Gliomas	31955
-9391/3	Ependymoma, NOS	560	938-948	Gliomas	31955
-9392/3	Ependymoma, anaplastic	46	938-948	Gliomas	31955
-9394/1	Myxopapillary ependymoma	59	938-948	Gliomas	31955
-9395/3	Papillary tumor of the pineal region	0	938-948	Gliomas	31955
-9396/3	Ependymoma, RELA fusion-positive	0	938-948	Gliomas	31955
-9400/3	Astrocytoma, NOS	1342	938-948	Gliomas	31955
-9401/3	Astrocytoma, anaplastic	448	938-948	Gliomas	31955
-9412/1	Desmoplastic infantile astrocytoma	6	938-948	Gliomas	31955
-9413/0	Dysembryoplastic neuroepithelial tumor	87	938-948	Gliomas	31955
-9420/3	Fibrillary astrocytoma	3	938-948	Gliomas	31955
-9421/1	Pilocytic astrocytoma	816	938-948	Gliomas	31955
-9424/3	Pleomorphic xanthoastrocytoma	37	938-948	Gliomas	31955
-9425/3	Pilomyxoid astrocytoma	0	938-948	Gliomas	31955
-9430/3	Astroblastoma	27	938-948	Gliomas	31955
-9431/1	Angiocentric glioma	0	938-948	Gliomas	31955
-9432/1	Pituicytoma	0	938-948	Gliomas	31955
-9440/3	Glioblastoma, NOS	20816	938-948	Gliomas	31955
-9441/3	Giant cell glioblastoma	3	938-948	Gliomas	31955
-9442/3	Gliosarcoma	13	938-948	Gliomas	31955
-9445/3	Glioblastoma, IDH-mutant	0	938-948	Gliomas	31955
-9450/3	Oligodendroglioma, NOS	624	938-948	Gliomas	31955
-9451/3	Oligodendroglioma, anaplastic, NOS	262	938-948	Gliomas	31955
-9470/3	Medulloblastoma, NOS	1205	938-948	Gliomas	31955
-9471/3	Desmoplastic nodular medulloblastoma	39	938-948	Gliomas	31955
-9473/3	CNS embryonal tumor, NOS	45	938-948	Gliomas	31955
-9474/3	Large cell medulloblastoma	23	938-948	Gliomas	31955
-9477/3	Medulloblastoma, non-WNT/non-SHH	0	938-948	Gliomas	31955
-9478/3	Embryonal tumor with multilayered rosettes with C19MC alteration	5	938-948	Gliomas	31955
+9380/3	Glioma, malignant	4710	938-948	Gliomas	32018
+9381/3	Gliomatosis cerebri	2	938-948	Gliomas	32018
+9382/3	Oligoastrocytoma, NOS	485	938-948	Gliomas	32018
+9383/1	Subependymoma	5	938-948	Gliomas	32018
+9384/1	Subependymal giant cell astrocytoma	15	938-948	Gliomas	32018
+9385/3	Diffuse midline glioma, H3 K27M-mutant	100	938-948	Gliomas	32018
+9390/0	Choroid plexus papilloma, NOS	89	938-948	Gliomas	32018
+9390/1	Atypical choroid plexus papilloma	29	938-948	Gliomas	32018
+9390/3	Choroid plexus carcinoma	49	938-948	Gliomas	32018
+9391/3	Ependymoma, NOS	561	938-948	Gliomas	32018
+9392/3	Ependymoma, anaplastic	46	938-948	Gliomas	32018
+9394/1	Myxopapillary ependymoma	59	938-948	Gliomas	32018
+9395/3	Papillary tumor of the pineal region	0	938-948	Gliomas	32018
+9396/3	Ependymoma, RELA fusion-positive	0	938-948	Gliomas	32018
+9400/3	Astrocytoma, NOS	1343	938-948	Gliomas	32018
+9401/3	Astrocytoma, anaplastic	448	938-948	Gliomas	32018
+9412/1	Desmoplastic infantile astrocytoma	6	938-948	Gliomas	32018
+9413/0	Dysembryoplastic neuroepithelial tumor	87	938-948	Gliomas	32018
+9420/3	Fibrillary astrocytoma	3	938-948	Gliomas	32018
+9421/1	Pilocytic astrocytoma	816	938-948	Gliomas	32018
+9424/3	Pleomorphic xanthoastrocytoma	37	938-948	Gliomas	32018
+9425/3	Pilomyxoid astrocytoma	0	938-948	Gliomas	32018
+9430/3	Astroblastoma	27	938-948	Gliomas	32018
+9431/1	Angiocentric glioma	0	938-948	Gliomas	32018
+9432/1	Pituicytoma	0	938-948	Gliomas	32018
+9440/3	Glioblastoma, NOS	20880	938-948	Gliomas	32018
+9441/3	Giant cell glioblastoma	3	938-948	Gliomas	32018
+9442/3	Gliosarcoma	15	938-948	Gliomas	32018
+9445/3	Glioblastoma, IDH-mutant	0	938-948	Gliomas	32018
+9450/3	Oligodendroglioma, NOS	624	938-948	Gliomas	32018
+9451/3	Oligodendroglioma, anaplastic, NOS	262	938-948	Gliomas	32018
+9470/3	Medulloblastoma, NOS	1205	938-948	Gliomas	32018
+9471/3	Desmoplastic nodular medulloblastoma	39	938-948	Gliomas	32018
+9473/3	CNS embryonal tumor, NOS	45	938-948	Gliomas	32018
+9474/3	Large cell medulloblastoma	23	938-948	Gliomas	32018
+9477/3	Medulloblastoma, non-WNT/non-SHH	0	938-948	Gliomas	32018
+9478/3	Embryonal tumor with multilayered rosettes with C19MC alteration	5	938-948	Gliomas	32018
 9490/0	Ganglioneuroma	9	949-952	Neuroepitheliomatous neoplasms	2920
 9490/3	Ganglioneuroblastoma	271	949-952	Neuroepitheliomatous neoplasms	2920
 9492/0	Gangliocytoma, NOS	0	949-952	Neuroepitheliomatous neoplasms	2920
@@ -498,7 +498,7 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 9510/3	Retinoblastoma, NOS	41	949-952	Neuroepitheliomatous neoplasms	2920
 9511/3	Retinoblastoma, differentiated	0	949-952	Neuroepitheliomatous neoplasms	2920
 9512/3	Retinoblastoma, undifferentiated	0	949-952	Neuroepitheliomatous neoplasms	2920
-9513/3	Retinoblastoma, diffuse	2			49
+9513/3	Retinoblastoma, diffuse	2			54
 9521/3	Olfactory neurocytoma	3	949-952	Neuroepitheliomatous neoplasms	2920
 9522/3	Olfactory neuroblastoma	16	949-952	Neuroepitheliomatous neoplasms	2920
 9530/0	Meningioma, NOS	180	953	Meningiomas	204
@@ -511,7 +511,7 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 9539/1	Atypical meningioma	10	953	Meningiomas	204
 954-957	Nerve sheath tumors	2	954-957	Nerve sheath tumors	183
 9540/0	Neurofibroma, NOS	9	954-957	Nerve sheath tumors	183
-9540/1	Neurofibromatosis, NOS	1			49
+9540/1	Neurofibromatosis, NOS	1			54
 9540/3	Malignant peripheral nerve sheath tumor, NOS	89	954-957	Nerve sheath tumors	183
 9550/0	Plexiform neurofibroma	25	954-957	Nerve sheath tumors	183
 9560/0	Schwannoma, NOS	26	954-957	Nerve sheath tumors	183
@@ -521,41 +521,41 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 9571/0	Perineurioma, NOS	0	954-957	Nerve sheath tumors	183
 9580/0	Granular cell tumor, NOS	0	958	Granular cell tumors and alveolar soft part sarcomas	19
 9581/3	Alveolar soft part sarcoma	19	958	Granular cell tumors and alveolar soft part sarcomas	19
-9590/3	Malignant lymphoma, NOS	130	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9591/3	Malignant lymphoma, non-Hodgkin, NOS	71	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9596/3	Composite Hodgkin and non-Hodgkin lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9597/3	Primary cutaneous follicle centre lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9650/3	Hodgkin lymphoma, NOS	21	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9659/3	Hodgkin lymphoma, nodular lymphocyte predominant	0	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9663/3	Hodgkin lymphoma, nodular sclerosis, NOS	0	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-967-969	Mature B-cell lymphomas	1	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9670/3	Malignant lymphoma, small B lymphocytic, NOS	6	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9673/3	Mantle cell lymphoma	4	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9678/3	Primary effusion lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9679/3	Mediastinal large B-cell lymphoma	4	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9680/3	Diffuse large B-cell lymphoma, NOS	1051	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9687/3	Burkitt lymphoma, NOS	549	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9688/3	T-cell/histiocyte rich large B-cell lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9690/3	Follicular lymphoma, NOS	8	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9699/3	Marginal zone B-cell lymphoma, NOS	25	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-970-971	Mature T- and NK-cell lymphomas	2	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9700/3	Mycosis fungoides	4	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9701/3	Sezary syndrome	2	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9702/3	Mature T-cell lymphoma, NOS	63	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9705/3	Angioimmunoblastic T-cell lymphoma	24	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9708/3	Subcutaneous panniculitis-like T-cell lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9709/3	Cutaneous T-cell lymphoma, NOS	0	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9712/3	Intravascular large B-cell lymphoma	2	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	5	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9716/3	Hepatosplenic T-cell lymphoma	6	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9718/3	Primary cutaneous anaplastic large cell lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9719/3	NK/T-cell lymphoma, nasal and nasal type	4			49
-9726/3	Primary cutaneous gamma-delta T-cell lymphoma	2			49
-9727/3	Precursor cell lymphoblastic lymphoma, NOS	4	959-972	Hodgkin and non-Hodgkin lymphomas	1982
-9731/3	Plasmacytoma, NOS	0	973	Plasma cell neoplasms	3542
-9732/3	Plasma cell myeloma	3540	973	Plasma cell neoplasms	3542
-9734/3	Plasmacytoma, extramedullary	2	973	Plasma cell neoplasms	3542
-9738/3	HHV8-positive diffuse large B-cell lymphoma	0	973	Plasma cell neoplasms	3542
+9590/3	Malignant lymphoma, NOS	130	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9591/3	Malignant lymphoma, non-Hodgkin, NOS	71	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9596/3	Composite Hodgkin and non-Hodgkin lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9597/3	Primary cutaneous follicle centre lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9650/3	Hodgkin lymphoma, NOS	21	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9659/3	Hodgkin lymphoma, nodular lymphocyte predominant	0	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9663/3	Hodgkin lymphoma, nodular sclerosis, NOS	0	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+967-969	Mature B-cell lymphomas	1	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9670/3	Malignant lymphoma, small B lymphocytic, NOS	6	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9673/3	Mantle cell lymphoma	4	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9678/3	Primary effusion lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9679/3	Mediastinal large B-cell lymphoma	4	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9680/3	Malignant lymphoma, large B-cell, diffuse, NOS	1547	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9687/3	Burkitt lymphoma, NOS	2482	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9688/3	T-cell/histiocyte rich large B-cell lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9690/3	Follicular lymphoma, NOS	8	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9699/3	Marginal zone B-cell lymphoma, NOS	25	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+970-971	Mature T- and NK-cell lymphomas	2	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9700/3	Mycosis fungoides	4	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9701/3	Sezary syndrome	2	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9702/3	Mature T-cell lymphoma, NOS	63	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9705/3	Angioimmunoblastic T-cell lymphoma	24	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9708/3	Subcutaneous panniculitis-like T-cell lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9709/3	Cutaneous T-cell lymphoma, NOS	0	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9712/3	Intravascular large B-cell lymphoma	2	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9714/3	Anaplastic large cell lymphoma, T-cell and Null-cell type	5	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9716/3	Hepatosplenic T-cell lymphoma	6	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9718/3	Primary cutaneous anaplastic large cell lymphoma	0	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9719/3	NK/T-cell lymphoma, nasal and nasal type	4			54
+9726/3	Primary cutaneous gamma-delta T-cell lymphoma	2			54
+9727/3	Precursor cell lymphoblastic lymphoma, NOS	4	959-972	Hodgkin and non-Hodgkin lymphomas	4411
+9731/3	Plasmacytoma, NOS	0	973	Plasma cell neoplasms	4982
+9732/3	Plasma cell myeloma	4980	973	Plasma cell neoplasms	4982
+9734/3	Plasmacytoma, extramedullary	2	973	Plasma cell neoplasms	4982
+9738/3	HHV8-positive diffuse large B-cell lymphoma	0	973	Plasma cell neoplasms	4982
 9740/1	Mastocytoma, NOS	4	974	Mast cell neoplasms	4
 9741/1	Indolent systemic mastocytosis	0	974	Mast cell neoplasms	4
 9741/3	Malignant mastocytosis	0	974	Mast cell neoplasms	4
@@ -567,54 +567,54 @@ harmonized_disease_term_id	harmonized_disease_term_name	harmonized_disease_term_
 9757/3	Interdigitating dendritic cell sarcoma	0	975	Neoplasms of histiocytes and accessory lymphoid cells	8
 9758/3	Follicular dendritic cell sarcoma	0	975	Neoplasms of histiocytes and accessory lymphoid cells	8
 9761/3	Waldenstrom macroglobulinemia	0	976	Immunoproliferative diseases	0
-9800/3	Leukemia, NOS	1395	980-994	Leukemias	15863
-9801/3	Acute leukemia, NOS	27	980-994	Leukemias	15863
-9806/3	Mixed phenotype acute leukemia with t(9;22)(q34;q11.2); BCR-ABL1	0	980-994	Leukemias	15863
-9807/3	Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged	0	980-994	Leukemias	15863
-9808/3	Mixed phenotype acute leukemia, B/myeloid, NOS	2	980-994	Leukemias	15863
-9809/3	Mixed phenotype acute leukemia, T/myeloid, NOS	13	980-994	Leukemias	15863
-9811/3	B lymphoblastic leukemia/lymphoma, NOS	3678	980-994	Leukemias	15863
-9812/3	B lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1	0	980-994	Leukemias	15863
-9813/3	B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged	0	980-994	Leukemias	15863
-9814/3	B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1(ETV6-RUNX1)	0	980-994	Leukemias	15863
-9815/3	B lymphoblastic leukemia/lymphoma with hyperdiploidy	0	980-994	Leukemias	15863
-9816/3	B lymphoblastic leukemia/lymphoma with hypodiploidy(Hypodiploid ALL)	0	980-994	Leukemias	15863
-9818/3	B lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3); E2A-PBX1(TCF3-PBX1)	0	980-994	Leukemias	15863
-9820/3	Lymphoid leukemia, NOS	98	980-994	Leukemias	15863
-9823/3	B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma	12	980-994	Leukemias	15863
-9827/3	Adult T-cell leukemia/lymphoma (HTLV-1 positive)	18	980-994	Leukemias	15863
-9831/3	T-cell large granular lymphocytic leukemia	16	980-994	Leukemias	15863
-9834/3	Prolymphocytic leukemia, T-cell type	22	980-994	Leukemias	15863
-9835/3	Precursor cell lymphoblastic leukemia, NOS	2491	980-994	Leukemias	15863
-9837/3	Precursor T-cell lymphoblastic leukemia	112	980-994	Leukemias	15863
-9840/3	Acute erythroid leukemia	16	980-994	Leukemias	15863
-9860/3	Myeloid leukemia, NOS	39	980-994	Leukemias	15863
-9861/3	Acute myeloid leukemia, NOS	5660	980-994	Leukemias	15863
-9863/3	Chronic myeloid leukemia, NOS	4	980-994	Leukemias	15863
-9865/3	Acute myeloid leukemia with t(6;9)(p23;q34); DEK-NUP214	14	980-994	Leukemias	15863
-9866/3	Acute promyelocytic leukemia, t(15;17)(q22;q11-12)	93	980-994	Leukemias	15863
-9867/3	Acute myelomonocytic leukemia, NOS	149	980-994	Leukemias	15863
-9869/3	Acute myeloid leukemia with inv(3)(q21;q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1	34	980-994	Leukemias	15863
-9871/3	Acute myeloid leukemia with abnormal marrow eosinophils	101	980-994	Leukemias	15863
-9872/3	Acute myeloid leukemia, minimal differentiation	70	980-994	Leukemias	15863
-9873/3	Acute myeloid leukemia without maturation	120	980-994	Leukemias	15863
-9874/3	Acute myeloid leukemia with maturation	116	980-994	Leukemias	15863
-9875/3	Chronic myelogenous leukemia, BCR/ABL positive	0	980-994	Leukemias	15863
-9876/3	Atypical chronic myeloid leukemia, BCR/ABL negative	60	980-994	Leukemias	15863
-9877/3	Acute myeloid leukemia with mutated NPM1	267	980-994	Leukemias	15863
-9878/3	Acute myeloid leukemia with biallelic mutation of CEBPA	56	980-994	Leukemias	15863
-9891/3	Acute monocytic leukemia	446	980-994	Leukemias	15863
-9895/3	Acute myeloid leukemia with myelodysplasia-related changes	395	980-994	Leukemias	15863
-9896/3	Acute myeloid leukemia, t(8;21)(q22;q22)	38	980-994	Leukemias	15863
-9897/3	Acute myeloid leukemia, 11q23 abnormalities	25	980-994	Leukemias	15863
-9898/1	Transient abnormal myelopoiesis	0	980-994	Leukemias	15863
-9898/3	Myeloid leukemia associated with Down syndrome	5	980-994	Leukemias	15863
-9910/3	Acute megakaryoblastic leukemia	13	980-994	Leukemias	15863
-9920/3	Therapy-related myeloid neoplasm	130	980-994	Leukemias	15863
-9930/3	Myeloid sarcoma	17	980-994	Leukemias	15863
-9940/3	Hairy cell leukemia, NOS	4	980-994	Leukemias	15863
-9945/3	Chronic myelomonocytic leukemia, NOS	68	980-994	Leukemias	15863
-9946/3	Juvenile myelomonocytic leukemia, NOS	39	980-994	Leukemias	15863
+9800/3	Leukemia, NOS	1388	980-994	Leukemias	15856
+9801/3	Acute leukemia, NOS	27	980-994	Leukemias	15856
+9806/3	Mixed phenotype acute leukemia with t(9;22)(q34;q11.2); BCR-ABL1	0	980-994	Leukemias	15856
+9807/3	Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged	0	980-994	Leukemias	15856
+9808/3	Mixed phenotype acute leukemia, B/myeloid, NOS	2	980-994	Leukemias	15856
+9809/3	Mixed phenotype acute leukemia, T/myeloid, NOS	13	980-994	Leukemias	15856
+9811/3	B lymphoblastic leukemia/lymphoma, NOS	3678	980-994	Leukemias	15856
+9812/3	B lymphoblastic leukemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1	0	980-994	Leukemias	15856
+9813/3	B lymphoblastic leukemia/lymphoma with t(v;11q23); MLL rearranged	0	980-994	Leukemias	15856
+9814/3	B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1(ETV6-RUNX1)	0	980-994	Leukemias	15856
+9815/3	B lymphoblastic leukemia/lymphoma with hyperdiploidy	0	980-994	Leukemias	15856
+9816/3	B lymphoblastic leukemia/lymphoma with hypodiploidy(Hypodiploid ALL)	0	980-994	Leukemias	15856
+9818/3	B lymphoblastic leukemia/lymphoma with t(1;19)(q23;p13.3); E2A-PBX1(TCF3-PBX1)	0	980-994	Leukemias	15856
+9820/3	Lymphoid leukemia, NOS	98	980-994	Leukemias	15856
+9823/3	B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma	12	980-994	Leukemias	15856
+9827/3	Adult T-cell leukemia/lymphoma (HTLV-1 positive)	18	980-994	Leukemias	15856
+9831/3	T-cell large granular lymphocytic leukemia	16	980-994	Leukemias	15856
+9834/3	Prolymphocytic leukemia, T-cell type	22	980-994	Leukemias	15856
+9835/3	Precursor cell lymphoblastic leukemia, NOS	2491	980-994	Leukemias	15856
+9837/3	Precursor T-cell lymphoblastic leukemia	112	980-994	Leukemias	15856
+9840/3	Acute erythroid leukemia	16	980-994	Leukemias	15856
+9860/3	Myeloid leukemia, NOS	39	980-994	Leukemias	15856
+9861/3	Acute myeloid leukemia, NOS	5660	980-994	Leukemias	15856
+9863/3	Chronic myeloid leukemia, NOS	4	980-994	Leukemias	15856
+9865/3	Acute myeloid leukemia with t(6;9)(p23;q34); DEK-NUP214	14	980-994	Leukemias	15856
+9866/3	Acute promyelocytic leukemia, t(15;17)(q22;q11-12)	93	980-994	Leukemias	15856
+9867/3	Acute myelomonocytic leukemia, NOS	149	980-994	Leukemias	15856
+9869/3	Acute myeloid leukemia with inv(3)(q21;q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1	34	980-994	Leukemias	15856
+9871/3	Acute myeloid leukemia with abnormal marrow eosinophils	101	980-994	Leukemias	15856
+9872/3	Acute myeloid leukemia, minimal differentiation	70	980-994	Leukemias	15856
+9873/3	Acute myeloid leukemia without maturation	120	980-994	Leukemias	15856
+9874/3	Acute myeloid leukemia with maturation	116	980-994	Leukemias	15856
+9875/3	Chronic myelogenous leukemia, BCR/ABL positive	0	980-994	Leukemias	15856
+9876/3	Atypical chronic myeloid leukemia, BCR/ABL negative	60	980-994	Leukemias	15856
+9877/3	Acute myeloid leukemia with mutated NPM1	267	980-994	Leukemias	15856
+9878/3	Acute myeloid leukemia with biallelic mutation of CEBPA	56	980-994	Leukemias	15856
+9891/3	Acute monocytic leukemia	446	980-994	Leukemias	15856
+9895/3	Acute myeloid leukemia with myelodysplasia-related changes	395	980-994	Leukemias	15856
+9896/3	Acute myeloid leukemia, t(8;21)(q22;q22)	38	980-994	Leukemias	15856
+9897/3	Acute myeloid leukemia, 11q23 abnormalities	25	980-994	Leukemias	15856
+9898/1	Transient abnormal myelopoiesis	0	980-994	Leukemias	15856
+9898/3	Myeloid leukemia associated with Down syndrome	5	980-994	Leukemias	15856
+9910/3	Acute megakaryoblastic leukemia	13	980-994	Leukemias	15856
+9920/3	Therapy-related myeloid neoplasm	130	980-994	Leukemias	15856
+9930/3	Myeloid sarcoma	17	980-994	Leukemias	15856
+9940/3	Hairy cell leukemia, NOS	4	980-994	Leukemias	15856
+9945/3	Chronic myelomonocytic leukemia, NOS	68	980-994	Leukemias	15856
+9946/3	Juvenile myelomonocytic leukemia, NOS	39	980-994	Leukemias	15856
 9950/3	Polycythemia vera	0	9960/3	Myeloproliferative neoplasm, NOS	84
 9960/3	Myeloproliferative neoplasm, NOS	0	9960/3	Myeloproliferative neoplasm, NOS	84
 9961/3	Primary myelofibrosis	2	9960/3	Myeloproliferative neoplasm, NOS	84
