@@ -22,6 +22,7 @@ key object selection	__CDA_UNASSIGNED__
 magnetic resonance	__CDA_UNASSIGNED__
 mammography	__CDA_UNASSIGNED__
 mirna-seq	__CDA_UNASSIGNED__
+mrna-seq	__CDA_UNASSIGNED__
 nanostring ncounter canine io analysis file	__CDA_UNASSIGNED__
 nuclear medicine	__CDA_UNASSIGNED__
 other metadata	__CDA_UNASSIGNED__
@@ -49,6 +50,7 @@ rt dose	__CDA_UNASSIGNED__
 rt plan	__CDA_UNASSIGNED__
 rt structure set	__CDA_UNASSIGNED__
 scatac sequence file	__CDA_UNASSIGNED__
+scdna-seq	__CDA_UNASSIGNED__
 sch5 matrix file	__CDA_UNASSIGNED__
 scrna sequence file	__CDA_UNASSIGNED__
 scrna-seq	__CDA_UNASSIGNED__
@@ -59,6 +61,7 @@ skyline document	__CDA_UNASSIGNED__
 slide microscopy	__CDA_UNASSIGNED__
 snatac-seq	__CDA_UNASSIGNED__
 somatic structural variation	__CDA_UNASSIGNED__
+spatial-tx	__CDA_UNASSIGNED__
 spectral library	__CDA_UNASSIGNED__
 structural variation	__CDA_UNASSIGNED__
 structured report document	__CDA_UNASSIGNED__

@@ -283,6 +283,7 @@ corpus uteri	UBERON:0009853	body of uterus
 corpus uteri, unknown	UBERON:0009853	body of uterus
 cortex of adrenal gland	UBERON:0001235	adrenal cortex
 cranial and/or facial bone	UBERON:0003457	head bone
+cranial fossa	UBERON:0008789	cranial fossa
 cranial nerve	UBERON:0001785	cranial nerve
 cranial nerve, nos	UBERON:0001785	cranial nerve
 cranial sternum	UBERON:0002205	manubrium of sternum
@@ -385,6 +386,7 @@ head and neck - head	UBERON:0000033	head
 head and neck - neck	UBERON:0000974	neck
 head and neck - other (please specify	UBERON:0007811	craniocervical region
 head and neck lymph node	UBERON:0038849	craniocervical lymph node
+head bone	UBERON:0003457	head bone
 head of pancreas	UBERON:0001069	head of pancreas
 head, chest, phantom	null	null
 head, face or neck, nos	UBERON:0007811	craniocervical region
@@ -673,6 +675,7 @@ oral cavity	UBERON:0000165	mouth
 oral soft tissue	UBERON:0000165	mouth
 oral tongue	UBERON:0001723	tongue
 orbit	UBERON:0001697	orbit of skull
+orbit of skull	UBERON:0001697	orbit of skull
 orbit, nos	UBERON:0001697	orbit of skull
 oropharyngeal tonsil	UBERON:0002373	palatine tonsil
 oropharynx	UBERON:0001729	oropharynx
@@ -817,6 +820,7 @@ porta hepatis lymph node	UBERON:0038694	hepatoportal lymph node
 portacaval lymph node	UBERON:0038694	hepatoportal lymph node
 posterior abdominal wall	UBERON:0003697	abdominal wall
 posterior abdominal wall structure	UBERON:0003697	abdominal wall
+posterior cranial fossa	UBERON:0008788	posterior cranial fossa
 posterior mediastinum	UBERON:0008822	posterior mediastinum
 posterior wall of bladder	UBERON:8600047	posterior wall of urinary bladder
 posterior wall of oropharynx	UBERON:0035240	posterior wall of oropharynx
@@ -1076,6 +1080,7 @@ upper gum	UBERON:0011601	gingiva of upper jaw
 upper limb	UBERON:0002102	forelimb
 upper limb lymph node	UBERON:0016399	lymph node of upper limb
 upper limb, nos	UBERON:0008785	upper limb segment
+upper lip	UBERON:0001834	upper lip
 upper lobe lung	UBERON:0008948	upper lobe of lung
 upper lobe of left lung	UBERON:0008952	upper lobe of left lung
 upper lobe of lung	UBERON:0008948	upper lobe of lung
