@@ -813,7 +813,7 @@ acute myeloid leukemia	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic
 acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); rbm15-mkl1	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
 acute myeloid leukemia mll	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
 acute myeloid leukemia not otherwise specified	9861/3	Acute myeloid leukemia, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-acute myeloid leukemia w/o maturation	9873/3	Acute myeloid leukemia without maturation	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+acute myeloid leukemia w/o maturation	9873/3	Acute myeloid leukemia without maturation	DOID:0081086	acute myeloid leukemia without maturation	C3249
 acute myeloid leukemia with abnormal marrow eosinophils	9871/3	Acute myeloid leukemia with abnormal marrow eosinophils	DOID:0081084	acute myeloid leukemia with inv(16)(p13.1q22) or t(16;16)(p13.1;q22)	__CDA_UNASSIGNED__
 acute myeloid leukemia with abnormal marrow eosinophils (includes all variants)	9871/3	Acute myeloid leukemia with abnormal marrow eosinophils	DOID:0081084	acute myeloid leukemia with inv(16)(p13.1q22) or t(16;16)(p13.1;q22)	__CDA_UNASSIGNED__
 acute myeloid leukemia with inv(3)(q21q26.2) or t(3;3)(q21;q26.2); rpn1-evi1	9869/3	Acute myeloid leukemia with inv(3)(q21;q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1	DOID:0081083	acute myeloid leukemia with inv(3) (q21.3;q26.2) or t(3;3) (q21.3;q26.2)	C82426
