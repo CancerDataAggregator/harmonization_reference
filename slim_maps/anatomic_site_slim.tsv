@@ -37,12 +37,12 @@ UBERON:0000956	cerebral cortex	522	UBERON:0000955	brain	229678
 UBERON:0000966	retina	44	UBERON:0000970	eye	3523
 UBERON:0000970	eye	1439	UBERON:0000970	eye	3523
 UBERON:0000974	neck	1098	UBERON:0000033	head	9369
-UBERON:0000975	sternum	8	UBERON:0001434	skeletal system	33922
-UBERON:0000976	humerus	488	UBERON:0001434	skeletal system	33922
+UBERON:0000975	sternum	8	UBERON:0001434	skeletal system	33151
+UBERON:0000976	humerus	488	UBERON:0001434	skeletal system	33151
 UBERON:0000977	pleura	2017	UBERON:0002100	trunk	2050465
 UBERON:0000978	leg	1029	UBERON:0002101	limb	9567
-UBERON:0000979	tibia	1015	UBERON:0001434	skeletal system	33922
-UBERON:0000981	femur	645	UBERON:0001434	skeletal system	33922
+UBERON:0000979	tibia	1015	UBERON:0001434	skeletal system	33151
+UBERON:0000981	femur	645	UBERON:0001434	skeletal system	33151
 UBERON:0000989	penis	31	UBERON:0000079	male reproductive system	160280
 UBERON:0000992	ovary	84098	UBERON:0000474	female reproductive system	1081679
 UBERON:0000995	uterus	274667	UBERON:0000474	female reproductive system	1081679
@@ -57,13 +57,16 @@ UBERON:0001017	central nervous system	106000	UBERON:0001017	central nervous syst
 UBERON:0001043	esophagus	42202	UBERON:0004908	upper digestive tract	282424
 UBERON:0001051	hypopharynx	1894	UBERON:0004908	upper digestive tract	282424
 UBERON:0001052	rectum	60094	UBERON:0004907	lower digestive tract	487265
+UBERON:0001068	skin of back	1713	UBERON:0002097	skin of body	452463
 UBERON:0001069	head of pancreas	925	UBERON:0001264	pancreas	82271
 UBERON:0001072	inferior vena cava	12	UBERON:0004535	cardiovascular system	4091
-UBERON:0001085	skin of trunk	1713	UBERON:0002097	skin of body	452726
+UBERON:0001085	skin of trunk	1713	UBERON:0002097	skin of body	452463
 UBERON:0001097	axillary lymph node	965	UBERON:0002465	lymphoid system	20811
 UBERON:0001103	diaphragm	44	UBERON:0002100	trunk	2050465
-UBERON:0001105	clavicle bone	306	UBERON:0001434	skeletal system	33922
-UBERON:0001130	vertebral column	4087	UBERON:0001434	skeletal system	33922
+UBERON:0001105	clavicle bone	306	UBERON:0001434	skeletal system	33151
+UBERON:0001115	left lobe of liver	33535	UBERON:0002423	hepatobiliary system	89690
+UBERON:0001117	caudate lobe of liver	33535	UBERON:0002423	hepatobiliary system	89690
+UBERON:0001130	vertebral column	4087	UBERON:0001434	skeletal system	33151
 UBERON:0001132	parathyroid gland	3	UBERON:0000949	endocrine system	20418
 UBERON:0001134	skeletal muscle tissue	1020	UBERON:0001134	skeletal muscle tissue	1270
 UBERON:0001136	mesothelium	1050	UBERON:0000042	serous membrane	2776
@@ -84,6 +87,7 @@ UBERON:0001164	greater curvature of stomach	1	UBERON:0001165	pyloric antrum	1325
 UBERON:0001165	pyloric antrum	7062	UBERON:0001165	pyloric antrum	13256
 UBERON:0001166	pylorus	3039	UBERON:0001165	pyloric antrum	13256
 UBERON:0001179	peritoneal cavity	195	UBERON:0002100	trunk	2050465
+UBERON:0001193	hepatic artery	33535	UBERON:0002423	hepatobiliary system	89690
 UBERON:0001224	renal pelvis	18	UBERON:0001008	renal system	278196
 UBERON:0001225	cortex of kidney	549	UBERON:0001008	renal system	278196
 UBERON:0001233	right adrenal gland	168	UBERON:0000949	endocrine system	20418
@@ -96,7 +100,7 @@ UBERON:0001255	urinary bladder	129267	UBERON:0001008	renal system	278196
 UBERON:0001257	trigone of urinary bladder	193	UBERON:0001008	renal system	278196
 UBERON:0001258	neck of urinary bladder	3	UBERON:0001008	renal system	278196
 UBERON:0001264	pancreas	81182	UBERON:0001264	pancreas	82271
-UBERON:0001273	ilium	1306	UBERON:0001434	skeletal system	33922
+UBERON:0001273	ilium	1306	UBERON:0001434	skeletal system	33151
 UBERON:0001274	ischium	10	UBERON:0001464	hip	19452
 UBERON:0001275	pubis	20	UBERON:0001464	hip	19452
 UBERON:0001295	endometrium	1893	UBERON:0000474	female reproductive system	1081679
@@ -107,19 +111,21 @@ UBERON:0001323	tibial nerve	970	UBERON:0001016	nervous system	3013
 UBERON:0001352	external acoustic meatus	1	UBERON:0001690	ear	89
 UBERON:0001353	anal region	2	UBERON:0004907	lower digestive tract	487265
 UBERON:0001365	sacro-iliac joint	2	UBERON:0001464	hip	19452
-UBERON:0001423	radius bone	130	UBERON:0001434	skeletal system	33922
-UBERON:0001424	ulna	2	UBERON:0001434	skeletal system	33922
-UBERON:0001440	forelimb skeleton	190	UBERON:0001434	skeletal system	33922
-UBERON:0001441	hindlimb skeleton	5	UBERON:0001434	skeletal system	33922
+UBERON:0001423	radius bone	130	UBERON:0001434	skeletal system	33151
+UBERON:0001424	ulna	2	UBERON:0001434	skeletal system	33151
+UBERON:0001440	forelimb skeleton	190	UBERON:0001434	skeletal system	33151
+UBERON:0001441	hindlimb skeleton	5	UBERON:0001434	skeletal system	33151
 UBERON:0001443	chest	1973736	UBERON:0002100	trunk	2050465
-UBERON:0001446	fibula	498	UBERON:0001434	skeletal system	33922
-UBERON:0001458	skin of lip	1	UBERON:0002097	skin of body	452726
+UBERON:0001446	fibula	498	UBERON:0001434	skeletal system	33151
+UBERON:0001458	skin of lip	1	UBERON:0002097	skin of body	452463
 UBERON:0001460	arm	453	UBERON:0002101	limb	9567
 UBERON:0001461	elbow	110	UBERON:0002101	limb	9567
+UBERON:0001463	manual digit 1	272	UBERON:0002101	limb	9567
 UBERON:0001464	hip	378	UBERON:0001464	hip	19452
 UBERON:0001465	knee	8	UBERON:0002101	limb	9567
 UBERON:0001467	shoulder	782	UBERON:0002101	limb	9567
 UBERON:0001488	ankle joint	119	UBERON:0002101	limb	9567
+UBERON:0001513	skin of pes	272	UBERON:0002101	limb	9567
 UBERON:0001542	inguinal lymph node	439	UBERON:0002465	lymphoid system	20811
 UBERON:0001543	popliteal lymph node	54	UBERON:0002465	lymphoid system	20811
 UBERON:0001557	upper respiratory tract	2	UBERON:0001005	respiratory airway	748021
@@ -160,10 +166,11 @@ UBERON:0001830	minor salivary gland	245	UBERON:0000165	mouth	62875
 UBERON:0001831	parotid gland	163	UBERON:0000165	mouth	62875
 UBERON:0001832	sublingual gland	81	UBERON:0000165	mouth	62875
 UBERON:0001833	lip	2955	UBERON:0000165	mouth	62875
-UBERON:0001834	upper lip	263	UBERON:0002097	skin of body	452726
+UBERON:0001834	upper lip	263	UBERON:0002097	skin of body	999999
 UBERON:0001836	saliva	0	UBERON:0000165	mouth	62875
 UBERON:0001871	temporal lobe	470	UBERON:0000955	brain	229678
 UBERON:0001872	parietal lobe	217	UBERON:0000955	brain	229678
+UBERON:0001890	forebrain	443	UBERON:0000955	brain	229678
 UBERON:0001891	midbrain	4	UBERON:0000955	brain	229678
 UBERON:0001893	telencephalon	2354	UBERON:0000955	brain	229678
 UBERON:0001897	dorsal plus ventral thalamus	10	UBERON:0000955	brain	229678
@@ -175,13 +182,13 @@ UBERON:0002028	hindbrain	156	UBERON:0000955	brain	229678
 UBERON:0002037	cerebellum	2641	UBERON:0000955	brain	229678
 UBERON:0002046	thyroid gland	14441	UBERON:0002368	endocrine gland	14441
 UBERON:0002048	lung	708387	UBERON:0001005	respiratory airway	748021
-UBERON:0002067	dermis	3	UBERON:0002097	skin of body	452726
+UBERON:0002067	dermis	3	UBERON:0002097	skin of body	452463
 UBERON:0002068	urachus	2	UBERON:0001008	renal system	278196
-UBERON:0002072	hypodermis	14817	UBERON:0002097	skin of body	452726
-UBERON:0002090	postcranial axial skeleton	12	UBERON:0001434	skeletal system	33922
-UBERON:0002091	appendicular skeleton	5274	UBERON:0001434	skeletal system	33922
+UBERON:0002072	hypodermis	14817	UBERON:0002097	skin of body	452463
+UBERON:0002090	postcranial axial skeleton	12	UBERON:0001434	skeletal system	33151
+UBERON:0002091	appendicular skeleton	5274	UBERON:0001434	skeletal system	33151
 UBERON:0002095	mesentery	117	UBERON:0000042	serous membrane	2776
-UBERON:0002097	skin of body	426198	UBERON:0002097	skin of body	452726
+UBERON:0002097	skin of body	426198	UBERON:0002097	skin of body	452463
 UBERON:0002100	trunk	7568	UBERON:0002100	trunk	2050465
 UBERON:0002101	limb	1224	UBERON:0002101	limb	9567
 UBERON:0002102	forelimb	112	UBERON:0002101	limb	9567
@@ -201,13 +208,14 @@ UBERON:0002170	upper lobe of right lung	21	UBERON:0001005	respiratory airway	748
 UBERON:0002171	lower lobe of right lung	20	UBERON:0001005	respiratory airway	748021
 UBERON:0002185	bronchus	67	UBERON:0001005	respiratory airway	748021
 UBERON:0002204	musculoskeletal system	75	UBERON:0013702	body proper	4001
-UBERON:0002205	manubrium of sternum	6	UBERON:0001434	skeletal system	33922
-UBERON:0002228	rib	148	UBERON:0001434	skeletal system	33922
+UBERON:0002205	manubrium of sternum	6	UBERON:0001434	skeletal system	33151
+UBERON:0002228	rib	148	UBERON:0001434	skeletal system	33151
 UBERON:0002240	spinal cord	545	UBERON:0001017	central nervous system	106599
 UBERON:0002289	midbrain cerebral aqueduct	2	UBERON:0000955	brain	229678
 UBERON:0002294	biliary system	1972	UBERON:0002423	hepatobiliary system	89690
 UBERON:0002298	brainstem	335	UBERON:0000955	brain	229678
 UBERON:0002331	umbilical cord	1	UBERON:0000474	female reproductive system	1081679
+UBERON:0002347	thoracic vertebra	1306	UBERON:0001434	skeletal system	33151
 UBERON:0002355	pelvic region of trunk	18505	UBERON:0001464	hip	19452
 UBERON:0002356	perineum	372	UBERON:0002100	trunk	2050465
 UBERON:0002358	peritoneum	2623	UBERON:0002100	trunk	2050465
@@ -229,14 +237,16 @@ UBERON:0002405	immune system	187266	UBERON:0002405	immune system	187266
 UBERON:0002407	pericardium	6	UBERON:0004535	cardiovascular system	4091
 UBERON:0002410	autonomic nervous system	21	UBERON:0001016	nervous system	3013
 UBERON:0002411	clitoris	1	UBERON:0000474	female reproductive system	1081679
-UBERON:0002412	vertebra	2	UBERON:0001434	skeletal system	33922
+UBERON:0002412	vertebra	2	UBERON:0001434	skeletal system	33151
+UBERON:0002414	lumbar vertebra	1306	UBERON:0001434	skeletal system	33151
 UBERON:0002422	fourth ventricle	2	UBERON:0000955	brain	229678
 UBERON:0002423	hepatobiliary system	53853	UBERON:0002423	hepatobiliary system	89690
-UBERON:0002428	limb bone	542	UBERON:0001434	skeletal system	33922
+UBERON:0002427	arm skin	272	UBERON:0002101	limb	9567
+UBERON:0002428	limb bone	542	UBERON:0001434	skeletal system	33151
 UBERON:0002429	cervical lymph node	488	UBERON:0002465	lymphoid system	20811
 UBERON:0002453	ethmoid sinus	9	UBERON:0003129	skull	2463
 UBERON:0002469	esophagus mucosa	962	UBERON:0004908	upper digestive tract	282424
-UBERON:0002481	bone tissue	14066	UBERON:0001434	skeletal system	33922
+UBERON:0002481	bone tissue	14066	UBERON:0001434	skeletal system	33151
 UBERON:0002486	glottis	1	UBERON:0001005	respiratory airway	748021
 UBERON:0002507	abdominal lymph node	136	UBERON:0002465	lymphoid system	20811
 UBERON:0002509	mesenteric lymph node	150	UBERON:0002465	lymphoid system	20811
@@ -263,16 +273,16 @@ UBERON:0003442	hindlimb nerve	1	UBERON:0001016	nervous system	3013
 UBERON:0003444	pelvis nerve	2	UBERON:0001016	nervous system	3013
 UBERON:0003457	head bone	270	UBERON:0003129	skull	2463
 UBERON:0003459	chest bone	2	UBERON:0002100	trunk	2050465
-UBERON:0003464	hindlimb bone	3	UBERON:0001434	skeletal system	33922
-UBERON:0003531	forelimb skin	2336	UBERON:0002097	skin of body	452726
-UBERON:0003532	hindlimb skin	6551	UBERON:0002097	skin of body	452726
+UBERON:0003464	hindlimb bone	3	UBERON:0001434	skeletal system	33151
+UBERON:0003531	forelimb skin	2336	UBERON:0002097	skin of body	452463
+UBERON:0003532	hindlimb skin	6551	UBERON:0002097	skin of body	452463
 UBERON:0003547	brain meninx	2	UBERON:0000955	brain	229678
 UBERON:0003567	abdomen connective tissue	22	UBERON:0002384	connective tissue	1150
 UBERON:0003586	trunk connective tissue	16	UBERON:0002384	connective tissue	1150
 UBERON:0003588	forelimb connective tissue	44	UBERON:0002384	connective tissue	1150
 UBERON:0003589	hindlimb connective tissue	76	UBERON:0002384	connective tissue	1150
 UBERON:0003594	pelvis connective tissue	22	UBERON:0002384	connective tissue	1150
-UBERON:0003608	hindlimb long bone	631	UBERON:0001434	skeletal system	33922
+UBERON:0003608	hindlimb long bone	631	UBERON:0001434	skeletal system	33151
 UBERON:0003679	mouth floor	21005	UBERON:0000165	mouth	62875
 UBERON:0003684	abdominal cavity	0	UBERON:0002100	trunk	2050465
 UBERON:0003688	omentum	1609	UBERON:0000042	serous membrane	2776
@@ -293,28 +303,33 @@ UBERON:0004086	brain ventricle	109	UBERON:0000955	brain	229678
 UBERON:0004088	orbital region	1511	UBERON:0000970	eye	3523
 UBERON:0004103	alveolar ridge	275	UBERON:0003129	skull	2463
 UBERON:0004122	genitourinary system	17	UBERON:0001008	renal system	278196
-UBERON:0004288	skeleton	13	UBERON:0001434	skeletal system	33922
+UBERON:0004262	upper leg skin	272	UBERON:0002101	limb	9567
+UBERON:0004288	skeleton	13	UBERON:0001434	skeletal system	33151
 UBERON:0004452	carpal region	1	UBERON:0002101	limb	9567
 UBERON:0004454	tarsal region	12	UBERON:0002101	limb	9567
 UBERON:0004538	left kidney	158	UBERON:0001008	renal system	278196
 UBERON:0004539	right kidney	246	UBERON:0001008	renal system	278196
-UBERON:0004620	lumbar vertebra 4	2	UBERON:0001434	skeletal system	33922
-UBERON:0004630	thoracic vertebra 5	2	UBERON:0001434	skeletal system	33922
-UBERON:0004631	thoracic vertebra 6	2	UBERON:0001434	skeletal system	33922
+UBERON:0004606	rib 6	1306	UBERON:0001434	skeletal system	33151
+UBERON:0004617	lumbar vertebra 1	1306	UBERON:0001434	skeletal system	33151
+UBERON:0004620	lumbar vertebra 4	2	UBERON:0001434	skeletal system	33151
+UBERON:0004630	thoracic vertebra 5	2	UBERON:0001434	skeletal system	33151
+UBERON:0004631	thoracic vertebra 6	2	UBERON:0001434	skeletal system	33151
+UBERON:0004634	thoracic vertebra 10	1306	UBERON:0001434	skeletal system	33151
 UBERON:0004885	hilum	154	UBERON:0013702	body proper	4001
 UBERON:0004913	hepatopancreatic ampulla	27	UBERON:0004907	lower digestive tract	487265
 UBERON:0005178	thoracic cavity element	3542	UBERON:0002100	trunk	2050465
 UBERON:0005352	spermatic cord	4	UBERON:0000079	male reproductive system	160280
 UBERON:0005409	alimentary part of gastrointestinal system	226	UBERON:0004908	upper digestive tract	282424
-UBERON:0005462	lower back	0	UBERON:0001434	skeletal system	33922
-UBERON:0005944	axial skeleton plus cranial skeleton	2	UBERON:0001434	skeletal system	33922
-UBERON:0006072	cervical region of vertebral column	353	UBERON:0001434	skeletal system	33922
-UBERON:0006073	thoracic region of vertebral column	1374	UBERON:0001434	skeletal system	33922
-UBERON:0006074	lumbar region of vertebral column	1679	UBERON:0001434	skeletal system	33922
+UBERON:0005462	lower back	0	UBERON:0001434	skeletal system	33151
+UBERON:0005944	axial skeleton plus cranial skeleton	2	UBERON:0001434	skeletal system	33151
+UBERON:0006072	cervical region of vertebral column	353	UBERON:0001434	skeletal system	33151
+UBERON:0006073	thoracic region of vertebral column	1374	UBERON:0001434	skeletal system	33151
+UBERON:0006074	lumbar region of vertebral column	1679	UBERON:0001434	skeletal system	33151
 UBERON:0006562	pharynx	60	UBERON:0004908	upper digestive tract	282424
 UBERON:0006618	atrium auricular region	607	UBERON:0004535	cardiovascular system	4091
+UBERON:0006692	vertebral canal	1306	UBERON:0001434	skeletal system	33151
 UBERON:0006720	pterygoid muscle	1	UBERON:0000165	mouth	62875
-UBERON:0006849	scapula	254	UBERON:0001434	skeletal system	33922
+UBERON:0006849	scapula	254	UBERON:0001434	skeletal system	33151
 UBERON:0006956	buccal mucosa	2562	UBERON:0000033	head	9369
 UBERON:0007196	tracheobronchial tree	1	UBERON:0001005	respiratory airway	748021
 UBERON:0007329	pancreatic duct	48	UBERON:0001264	pancreas	82271
@@ -331,8 +346,8 @@ UBERON:0008200	forehead	59	UBERON:0000033	head	9369
 UBERON:0008337	inguinal part of abdomen	124	UBERON:0002100	trunk	2050465
 UBERON:0008450	psoas muscle	16	UBERON:0001134	skeletal muscle tissue	1270
 UBERON:0008785	upper limb segment	89	UBERON:0002101	limb	9567
-UBERON:0008788	posterior cranial fossa	510	UBERON:0001434	skeletal system	33922
-UBERON:0008789	cranial fossa	261	UBERON:0001434	skeletal system	33922
+UBERON:0008788	posterior cranial fossa	510	UBERON:0001434	skeletal system	999999
+UBERON:0008789	cranial fossa	261	UBERON:0001434	skeletal system	999999
 UBERON:0008820	anterior mediastinum	111	UBERON:0002100	trunk	2050465
 UBERON:0008822	posterior mediastinum	75	UBERON:0002100	trunk	2050465
 UBERON:0008948	upper lobe of lung	1666	UBERON:0001005	respiratory airway	748021
@@ -340,13 +355,15 @@ UBERON:0008949	lower lobe of lung	1178	UBERON:0001005	respiratory airway	748021
 UBERON:0008952	upper lobe of left lung	21	UBERON:0001134	skeletal muscle tissue	1270
 UBERON:0008953	lower lobe of left lung	38	UBERON:0001005	respiratory airway	748021
 UBERON:0008955	middle lobe of lung	163	UBERON:0001005	respiratory airway	748021
-UBERON:0008962	forelimb bone	1	UBERON:0001434	skeletal system	33922
+UBERON:0008962	forelimb bone	1	UBERON:0001434	skeletal system	33151
+UBERON:0008972	right colon	401195	UBERON:0004907	lower digestive tract	487265
 UBERON:0009472	axilla	261	UBERON:0002101	limb	9567
 UBERON:0009853	body of uterus	629762	UBERON:0000474	female reproductive system	1081679
-UBERON:0009879	tarsal skeleton	6	UBERON:0001434	skeletal system	33922
+UBERON:0009879	tarsal skeleton	6	UBERON:0001434	skeletal system	33151
 UBERON:0010011	collection of basal ganglia	6	UBERON:0000955	brain	229678
 UBERON:0010033	posterior part of tongue	2207	UBERON:0000165	mouth	62875
 UBERON:0010743	meningeal cluster	35	UBERON:0000955	brain	229678
+UBERON:0011050	thoracic vertebra 8	1306	UBERON:0001434	skeletal system	33151
 UBERON:0011092	right pelvic girdle region	24	UBERON:0001464	hip	19452
 UBERON:0011093	left pelvic girdle region	30	UBERON:0001464	hip	19452
 UBERON:0011143	upper urinary tract	96	UBERON:0001008	renal system	278196
@@ -355,13 +372,16 @@ UBERON:0011602	gingiva of lower jaw	16	UBERON:0000165	mouth	62875
 UBERON:0011779	nerve of head region	3	UBERON:0001016	nervous system	3013
 UBERON:0011859	internal acoustic meatus	18	UBERON:0001690	ear	89
 UBERON:0011877	margin of tongue	6	UBERON:0000165	mouth	62875
-UBERON:0012179	bone of pelvis	60	UBERON:0001434	skeletal system	33922
+UBERON:0012179	bone of pelvis	60	UBERON:0001434	skeletal system	33151
 UBERON:0012180	head or neck skin	132	UBERON:0000033	head	9369
 UBERON:0012242	internal urethral orifice	56	UBERON:0001008	renal system	278196
 UBERON:0012249	ectocervix	40	UBERON:0000474	female reproductive system	1081679
 UBERON:0012303	ureteral orifice	2	UBERON:0001008	renal system	278196
 UBERON:0012337	cauda equina	6	UBERON:0001017	central nervous system	106599
+UBERON:0012475	skeleton of pectoral complex	272	UBERON:0002101	limb	9567
 UBERON:0012652	colorectum	116	UBERON:0004907	lower digestive tract	487265
+UBERON:0013069	popliteal area	272	UBERON:0002101	limb	9567
+UBERON:0013411	cranial cavity	5	UBERON:0000033	head	9369
 UBERON:0013422	infratemporal fossa	6	UBERON:0003129	skull	2463
 UBERON:0013471	retromolar space	21	UBERON:0000165	mouth	62875
 UBERON:0013472	upper esophagus	13012	UBERON:0004908	upper digestive tract	282424
@@ -369,8 +389,9 @@ UBERON:0013473	lower esophagus	267	UBERON:0004908	upper digestive tract	282424
 UBERON:0013474	middle part of esophagus	86	UBERON:0004908	upper digestive tract	282424
 UBERON:0013691	buttock	101	UBERON:0001464	hip	19452
 UBERON:0013702	body proper	3772	UBERON:0013702	body proper	4001
+UBERON:0014437	iliac crest	1306	UBERON:0001434	skeletal system	33151
 UBERON:0014444	pubic ramus	4	UBERON:0001464	hip	19452
-UBERON:0014477	thoracic skeleton	39	UBERON:0001434	skeletal system	33922
+UBERON:0014477	thoracic skeleton	39	UBERON:0001434	skeletal system	33151
 UBERON:0015049	carpus endochondral element	5	UBERON:0002101	limb	9567
 UBERON:0015469	splenic lymph node	39	UBERON:0002465	lymphoid system	20811
 UBERON:0015859	hepatic lymph node	100	UBERON:0002465	lymphoid system	20811
@@ -390,7 +411,7 @@ UBERON:0016538	temporal cortex	783	UBERON:0000955	brain	229678
 UBERON:0016540	occipital cortex	2052	UBERON:0000955	brain	229678
 UBERON:0016632	isthmus of fallopian tube	11	UBERON:0000474	female reproductive system	1081679
 UBERON:0016881	craniopharyngeal canal	3	UBERON:0000955	brain	229678
-UBERON:0018151	skin of upper lip	6	UBERON:0002097	skin of body	452726
+UBERON:0018151	skin of upper lip	6	UBERON:0002097	skin of body	452463
 UBERON:0018707	bladder organ	0	UBERON:0001008	renal system	278196
 UBERON:0022276	splenic flexure of colon	85	UBERON:0004907	lower digestive tract	487265
 UBERON:0022277	hepatic flexure of colon	139	UBERON:0004907	lower digestive tract	487265
@@ -411,7 +432,7 @@ UBERON:0035477	lower inner quadrant of breast	67	UBERON:0000310	breast	677528
 UBERON:0035542	upper inner quadrant of breast	76	UBERON:0000310	breast	677528
 UBERON:0035619	retropharyngeal space	2	UBERON:0007811	craniocervical region	97733
 UBERON:0035819	abdominopelvic cavity	1570	UBERON:0002100	trunk	2050465
-UBERON:0036149	suprapubic skin	808	UBERON:0002097	skin of body	452726
+UBERON:0036149	suprapubic skin	808	UBERON:0002097	skin of body	452463
 UBERON:0036214	rectosigmoid junction	7734	UBERON:0004907	lower digestive tract	487265
 UBERON:0036263	supraglottic part of larynx	91	UBERON:0001005	respiratory airway	748021
 UBERON:0036292	adnexa of uterus	6	UBERON:0000474	female reproductive system	1081679
@@ -427,14 +448,16 @@ UBERON:0038894	paratracheal lymph node	12	UBERON:0002465	lymphoid system	20811
 UBERON:0038932	pretracheal lymph node	2	UBERON:0002465	lymphoid system	20811
 UBERON:0039167	bronchopulmonary lymph node	153	UBERON:0002465	lymphoid system	20811
 UBERON:1000011	labial commissure	2	UBERON:0000474	female reproductive system	1081679
-UBERON:1000021	skin of face	30	UBERON:0002097	skin of body	452726
+UBERON:1000021	skin of face	30	UBERON:0002097	skin of body	452463
 UBERON:1200003	uterine fundus	1	UBERON:0000474	female reproductive system	1081679
 UBERON:8300002	left forelimb	6	UBERON:0002101	limb	9567
 UBERON:8410050	anorectum	6	UBERON:0004907	lower digestive tract	487265
 UBERON:8470001	sublumbar lymph node	2	UBERON:0002465	lymphoid system	20811
+UBERON:8480027	temple	5	UBERON:0000033	head	9369
 UBERON:8480032	neck of pancreas	3	UBERON:0001264	pancreas	82271
 UBERON:8480048	calf	274	UBERON:0002101	limb	9567
 UBERON:8480051	thoracolumbar junction	62	UBERON:0002100	trunk	2050465
+UBERON:8480053	skin of umbilical area	1713	UBERON:0002097	skin of body	452463
 UBERON:8480055	subcarinal lymph node	70	UBERON:0002465	lymphoid system	20811
 UBERON:8480059	perigastric lymph node	30	UBERON:0002465	lymphoid system	20811
 UBERON:8480060	paraspinal region	13	UBERON:0002100	trunk	2050465

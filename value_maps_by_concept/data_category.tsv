@@ -17,6 +17,7 @@ digital radiography	__CDA_UNASSIGNED__
 dna methylation	__CDA_UNASSIGNED__
 dna methylation analysis file	__CDA_UNASSIGNED__
 external-camera photography	__CDA_UNASSIGNED__
+file collection	__CDA_UNASSIGNED__
 index file	__CDA_UNASSIGNED__
 key object selection	__CDA_UNASSIGNED__
 magnetic resonance	__CDA_UNASSIGNED__
@@ -37,6 +38,7 @@ proteome profiling	__CDA_UNASSIGNED__
 publication supplementary material	__CDA_UNASSIGNED__
 quality metrics	__CDA_UNASSIGNED__
 radiofluoroscopy	__CDA_UNASSIGNED__
+radiology imaging	__CDA_UNASSIGNED__
 radiotherapy dose	__CDA_UNASSIGNED__
 radiotherapy plan	__CDA_UNASSIGNED__
 radiotherapy structure set	__CDA_UNASSIGNED__
@@ -72,6 +74,7 @@ targeted-capture	__CDA_UNASSIGNED__
 transcriptome profiling	__CDA_UNASSIGNED__
 ultrasound	__CDA_UNASSIGNED__
 variant call file	__CDA_UNASSIGNED__
+variant report	__CDA_UNASSIGNED__
 wga	__CDA_UNASSIGNED__
 wgs	__CDA_UNASSIGNED__
 whole exome sequence file	__CDA_UNASSIGNED__

@@ -15,9 +15,11 @@ abdomen, total	UBERON:0000916	abdomen
 abdomen_pelvis c	UBERON:0035819	abdominopelvic cavity
 abdomenpelvic	UBERON:0035819	abdominopelvic cavity
 abdomenpelvis	UBERON:0035819	abdominopelvic cavity
+abdominal cavity	UBERON:0003684	abdominal cavity
 abdominal esophagus	UBERON:0035177	abdominal part of esophagus
 abdominal lymph node	UBERON:0002507	abdominal lymph node
 abdominal mass	UBERON:0000916	abdomen
+abdominal region	UBERON:0000916	abdomen
 abdominal wall	UBERON:0003697	abdominal wall
 accessory sinus, nos	UBERON:0001825	paranasal sinus
 accessory sinuses	UBERON:0001825	paranasal sinus
@@ -46,12 +48,14 @@ anus	UBERON:0001245	anus
 anus and anal canal	UBERON:0000159	anal canal
 anus, nos	UBERON:0001245	anus
 aorta	UBERON:0000947	aorta
+aortic body	UBERON:0034971	aortic body
 aortic body and other paraganglia	UBERON:0034971	aortic body
 aortic lymph node	UBERON:0002526	lumbar lymph node
 aortocaval lymph node	UBERON:0002526	lumbar lymph node
 ap portable ches	UBERON:0001443	chest
 appendix	UBERON:0001154	vermiform appendix
 arm	UBERON:0001460	arm
+arm skin	UBERON:0002427	arm skin
 arm, bladder, buttock, colon, liver, myometrium, pancreas, rectum, shoulder, scapula	null	null
 arm, nos	UBERON:0001460	arm
 ascending colon	UBERON:0001156	ascending colon
@@ -68,6 +72,7 @@ basal ganglia	UBERON:0010011	collection of basal ganglia
 basal ganglia,temporal lobe	UBERON:0010011	collection of basal ganglia
 basal ganglia,thalamus	UBERON:0010011	collection of basal ganglia
 base of skull	UBERON:0002517	basicranium
+base of the skull	UBERON:0002517	basicranium
 base of tongue	UBERON:0010033	posterior part of tongue
 base of tongue, nos	UBERON:0010033	posterior part of tongue
 bd ct abd wo_w c	UBERON:0000916	abdomen
@@ -200,6 +205,8 @@ cardiophrenic lymph node	UBERON:0038053	cardiophrenic angle lymph node
 carotid body	UBERON:0001629	carotid body
 carpus	UBERON:0015049	carpus endochondral element
 cauda equina	UBERON:0012337	cauda equina
+cauda equina spinal cord	UBERON:0012337	cauda equina
+caudate lobe	UBERON:0001117	caudate lobe of liver
 cecum	UBERON:0001153	caecum
 central nervous system	UBERON:0001017	central nervous system
 central portion of breast	UBERON:0000310	breast
@@ -266,6 +273,7 @@ connective subcutaneous and other soft tissues of abdomen	UBERON:0002072	hypoder
 connective subcutaneous and other soft tissues of head face and neck	UBERON:0002072	hypodermis
 connective subcutaneous and other soft tissues of lower limb and hip	UBERON:0002072	hypodermis
 connective subcutaneous and other soft tissues of trunk nos	UBERON:0002072	hypodermis
+connective tissue	UBERON:0002384	connective tissue
 connective, subcutaneous and other soft tissues	UBERON:0002072	hypodermis
 connective, subcutaneous and other soft tissues of abdomen	UBERON:0002072	hypodermis
 connective, subcutaneous and other soft tissues of head, face, and neck	UBERON:0002072	hypodermis
@@ -283,6 +291,7 @@ corpus uteri	UBERON:0009853	body of uterus
 corpus uteri, unknown	UBERON:0009853	body of uterus
 cortex of adrenal gland	UBERON:0001235	adrenal cortex
 cranial and/or facial bone	UBERON:0003457	head bone
+cranial cavity	UBERON:0013411	cranial cavity
 cranial fossa	UBERON:0008789	cranial fossa
 cranial nerve	UBERON:0001785	cranial nerve
 cranial nerve, nos	UBERON:0001785	cranial nerve
@@ -350,7 +359,9 @@ flank	UBERON:0000180	lateral lumbar region of abdomen
 floor of mouth	UBERON:0003679	mouth floor
 floor of mouth, nos	UBERON:0003679	mouth floor
 foot	UBERON:0002387	pes
+foot skin	UBERON:0001513	skin of pes
 forearm	UBERON:0002102	forelimb
+forebrain	UBERON:0001890	forebrain
 forehead	UBERON:0008200	forehead
 frontal lobe	UBERON:0016525	frontal lobe
 frontal lobe,parietal lobe	UBERON:0000955	brain
@@ -365,10 +376,12 @@ gastric antrum	UBERON:0001165	pyloric antrum
 gastroesophageal junction	UBERON:0007650	esophagogastric junction
 gastrointestinal tract	UBERON:0005409	alimentary part of gastrointestinal system
 gastrointestinal tract, nos	UBERON:0005409	alimentary part of gastrointestinal system
+general	null	null
 genitourinary tract	UBERON:0004122	genitourinary system
 genitourinary, nos	UBERON:0004122	genitourinary system
 glottis	UBERON:0002486	glottis
 gluteal	UBERON:0002000	gluteal muscle
+gluteal muscle	UBERON:0002000	gluteal muscle
 greater curvature of stomach	UBERON:0001164	greater curvature of stomach
 groin	UBERON:0008337	inguinal part of abdomen
 gum	UBERON:0001828	gingiva
@@ -377,6 +390,7 @@ gum, nos	UBERON:0001828	gingiva
 gynecological - ovary	UBERON:0000992	ovary
 gynecological - uterus	UBERON:0000995	uterus
 hand	UBERON:0002398	manus
+hand digit 1	UBERON:0001463	manual digit 1
 hard palate	UBERON:0003216	hard palate
 head	UBERON:0000033	head
 head & neck	UBERON:0007811	craniocervical region
@@ -400,9 +414,12 @@ hematopoietic and reticuloendothelial systems	UBERON:0002405	immune system
 hematopoietic system	UBERON:0002390	hematopoietic system
 hematopoietic system, nos	UBERON:0002390	hematopoietic system
 hemispheric	null	null
+hepatic artery	UBERON:0001193	hepatic artery
 hepatic flexure	UBERON:0022277	hepatic flexure of colon
 hepatic flexure of colon	UBERON:0022277	hepatic flexure of colon
 hepatic lymph node	UBERON:0015859	hepatic lymph node
+hilar	UBERON:0004885	hilum
+hilar area of the lung	UBERON:0004885	hilum
 hilar lymph node	UBERON:0039167	bronchopulmonary lymph node
 hilar mass	UBERON:0004885	hilum
 hip	UBERON:0001464	hip
@@ -414,6 +431,7 @@ iac	UBERON:0011859	internal acoustic meatus
 ileum	UBERON:0001273	ilium
 iliac bone	UBERON:0001273	ilium
 iliac chain node	UBERON:0015877	parietal pelvic lymph node
+iliac crest	UBERON:0014437	iliac crest
 iliac lymph node	UBERON:0015878	common iliac lymph node
 ilium	UBERON:0001273	ilium
 inferior limb	UBERON:0002103	hindlimb
@@ -442,6 +460,7 @@ knee	UBERON:0001465	knee
 knee region	UBERON:0001465	knee
 l-lower	null	null
 l-upper	null	null
+l1 vertebra	UBERON:0004617	lumbar vertebra 1
 l4 vertebra	UBERON:0004620	lumbar vertebra 4
 labium majus	UBERON:0004085	labium majora
 lacrimal gland	UBERON:0001817	lacrimal gland
@@ -471,6 +490,7 @@ left inguinal	UBERON:0001542	inguinal lymph node
 left inguinal lymph node	UBERON:0001542	inguinal lymph node
 left internal iliac lymph node	UBERON:0015881	internal iliac lymph node
 left kidney	UBERON:0004538	left kidney
+left lobe of the liver	UBERON:0001115	left lobe of liver
 left lower inner quadrant	null	null
 left lower outer quadrant	null	null
 left lung	UBERON:0002168	left lung
@@ -533,7 +553,9 @@ lower lobe lung	UBERON:0008949	lower lobe of lung
 lower lobe of left lung	UBERON:0008953	lower lobe of left lung
 lower lobe of lung	UBERON:0008949	lower lobe of lung
 lower lobe of right lung	UBERON:0002171	lower lobe of right lung
+lower lobe of the left lung	UBERON:0008953	lower lobe of left lung
 lower lobe of the lung	UBERON:0008949	lower lobe of lung
+lower lobe of the right lung	UBERON:0002171	lower lobe of right lung
 lower lobe, lung	UBERON:0008949	lower lobe of lung
 lower respiratory tract	UBERON:0001558	lower respiratory tract
 lower third of esophagus	UBERON:0013473	lower esophagus
@@ -545,6 +567,7 @@ lower-outer quadrant of the breast	UBERON:0035365	lower outer quadrant of breast
 lowerlimb	UBERON:0002103	hindlimb
 lspine	UBERON:0006074	lumbar region of vertebral column
 lumbar spine	UBERON:0006074	lumbar region of vertebral column
+lumbar vertebra	UBERON:0002414	lumbar vertebra
 lumbo-sacral spi	UBERON:0002090	postcranial axial skeleton
 lung	UBERON:0002048	lung
 lung med	UBERON:0002048	lung
@@ -635,6 +658,7 @@ myometrium	UBERON:0001296	myometrium
 nasal cavity	UBERON:0001707	nasal cavity
 nasal cavity (excludes nose, nos c76.0)	UBERON:0001707	nasal cavity
 nasal cavity and middle ear	null	null
+nasal cavity and paranasal sinuses	UBERON:0001707	nasal cavity
 nasal sinus	UBERON:0001825	paranasal sinus
 nasopharynx	UBERON:0001728	nasopharynx
 nasopharynx, nos	UBERON:0001728	nasopharynx
@@ -650,6 +674,7 @@ neoplasm of unknown origin	null	null
 nerve of pelvis	UBERON:0003444	pelvis nerve
 nerve of thorax	UBERON:0003824	nerve of thoracic segment
 nerve of trunk	UBERON:0003439	nerve of trunk region
+nerve(s) cranial	UBERON:0001785	cranial nerve
 nervous system	UBERON:0001016	nervous system
 nervous system nos	UBERON:0001016	nervous system
 nervous system, nos	UBERON:0001016	nervous system
@@ -799,6 +824,7 @@ peritoneum	UBERON:0002358	peritoneum
 peritoneum nos	UBERON:0002358	peritoneum
 peritoneum ovary	null	null
 peritoneum, nos	UBERON:0002358	peritoneum
+periumbilical region	UBERON:8480053	skin of umbilical area
 pet_abdomen_pelv	UBERON:0035819	abdominopelvic cavity
 pet_ct scan ches	UBERON:0001443	chest
 phalange	UBERON:0003221	phalanx
@@ -806,6 +832,7 @@ phantom	null	null
 pharynx	UBERON:0006562	pharynx
 pharynx and larynx	UBERON:0000341	throat
 pharynx, nos	UBERON:0006562	pharynx
+pineal	UBERON:0001905	pineal body
 pineal gland	UBERON:0001905	pineal body
 pinna	UBERON:0001757	pinna
 pituitary	UBERON:0000007	pituitary gland
@@ -814,6 +841,7 @@ pleura	UBERON:0000977	pleura
 pleura, nos	UBERON:0000977	pleura
 pleural cavity	UBERON:0002402	pleural cavity
 pleural effusion	UBERON:0000175	pleural effusion
+popliteal fossa	UBERON:0013069	popliteal area
 port abdomen	UBERON:0000916	abdomen
 port chest	UBERON:0001443	chest
 porta hepatis lymph node	UBERON:0038694	hepatoportal lymph node
@@ -845,6 +873,7 @@ r-middle	null	null
 r-upper	null	null
 radius	UBERON:0001423	radius bone
 rare disease	null	null
+rectosigmoid colon	UBERON:0036214	rectosigmoid junction
 rectosigmoid junction	UBERON:0036214	rectosigmoid junction
 rectosigmoid region	UBERON:0036214	rectosigmoid junction
 rectum	UBERON:0001052	rectum
@@ -875,6 +904,7 @@ retroperitoneum/upper abdominal - retroperitoneum	null	null
 retroperitoneum/upper abdominal - small intestines	null	null
 retropharyngeal space	UBERON:0035619	retropharyngeal space
 rib	UBERON:0002228	rib
+rib 6	UBERON:0004606	rib 6
 rib region	UBERON:0001443	chest
 rib, sternum and/or clavicle	UBERON:0003459	chest bone
 rib, sternum, clavicle and associated joints	UBERON:0014477	thoracic skeleton
@@ -889,6 +919,7 @@ right axilla	UBERON:0009472	axilla
 right breast	UBERON:0000310	breast
 right cardiophrenic lymph node	UBERON:0038053	cardiophrenic angle lymph node
 right chest wall	UBERON:0016435	chest wall
+right colon	UBERON:0008972	right colon
 right diaphragm	UBERON:0001103	diaphragm
 right external iliac lymph node	UBERON:0015880	external iliac lymph node
 right femur	UBERON:0000981	femur
@@ -957,8 +988,10 @@ skin of lower limb and hip	UBERON:0003532	hindlimb skin
 skin of other and unspecified parts of face	UBERON:1000021	skin of face
 skin of scalp and neck	UBERON:0012180	head or neck skin
 skin of suprapubic region	UBERON:0036149	suprapubic skin
+skin of the back	UBERON:0001068	skin of back
 skin of the lower limb and hip	UBERON:0003532	hindlimb skin
 skin of the scalp and neck	UBERON:0012180	head or neck skin
+skin of the thigh	UBERON:0004262	upper leg skin
 skin of the trunk	UBERON:0001085	skin of trunk
 skin of the upper limb and shoulder	UBERON:0003531	forelimb skin
 skin of trunk	UBERON:0001085	skin of trunk
@@ -968,6 +1001,7 @@ skin, nos	UBERON:0002097	skin of body
 skin, nos (excludes skin of labia majora c51.0, skin of vulva c51.9, skin of penis c60.9 and skin of scrotum c63.2)	UBERON:0002097	skin of body
 skin, unknown	UBERON:0002097	skin of body
 skull	UBERON:0003129	skull
+skull and face bone	UBERON:0003129	skull
 small bowel	UBERON:0002108	small intestine
 small intestine	UBERON:0002108	small intestine
 small intestine, nos	UBERON:0002108	small intestine
@@ -989,6 +1023,7 @@ specified parts of peritoneum	UBERON:0002358	peritoneum
 spermatic cord	UBERON:0005352	spermatic cord
 sphenoid sinus	UBERON:0001733	soft palate
 spi chest 5mm	UBERON:0001443	chest
+spinal canal	UBERON:0006692	vertebral canal
 spinal column	UBERON:0001130	vertebral column
 spinal cord	UBERON:0002240	spinal cord
 spinal cord, cranial nerves, and other parts of central nervous system	UBERON:0001017	central nervous system
@@ -1015,17 +1050,21 @@ superficial trunk - abdominal wall	UBERON:0003697	abdominal wall
 superficial trunk - back	UBERON:0005462	lower back
 superficial trunk - buttock	UBERON:0013691	buttock
 superficial trunk - flank	UBERON:0000180	lateral lumbar region of abdomen
+superior limb and shoulder	UBERON:0012475	skeleton of pectoral complex
 superior mediastinal lymph node	UBERON:0038651	superior mediastinal lymph node
 superior wall of nasopharynx	UBERON:0035270	roof of nasopharynx
 supraclavicular lymph nodes	UBERON:0035279	supraclavicular lymph node
 supraglottis	UBERON:0036263	supraglottic part of larynx
 suprapubic lymph node	UBERON:0002507	abdominal lymph node
 suprasellar/hypothalamic/pituitary	UBERON:0000955	brain
+t10 vertebra	UBERON:0004634	thoracic vertebra 10
 t11/t13 vertebrae	UBERON:0006073	thoracic region of vertebral column
 t5 vertebra	UBERON:0004630	thoracic vertebra 5
 t6 vertebra	UBERON:0004631	thoracic vertebra 6
+t8 vertebra	UBERON:0011050	thoracic vertebra 8
 tail of pancreas	UBERON:0001151	tail of pancreas
 tarsus	UBERON:0009879	tarsal skeleton
+temple	UBERON:8480027	temple
 temporal cortex	UBERON:0016538	temporal cortex
 temporal lobe	UBERON:0001871	temporal lobe
 temporal lobe,thalamus,ventricles	UBERON:0000955	brain
@@ -1041,6 +1080,7 @@ thigh	UBERON:0000376	hindlimb stylopod
 thigh, nos	UBERON:0000376	hindlimb stylopod
 thoracic esophagus	UBERON:0035216	thoracic part of esophagus
 thoracic spine	UBERON:0006073	thoracic region of vertebral column
+thoracic vertebra	UBERON:0002347	thoracic vertebra
 thoracic wall	UBERON:0016403	thoracic wall
 thorax	UBERON:0000915	thoracic segment of trunk
 thorax ct _ah05	UBERON:0000915	thoracic segment of trunk
@@ -1085,7 +1125,9 @@ upper lobe lung	UBERON:0008948	upper lobe of lung
 upper lobe of left lung	UBERON:0008952	upper lobe of left lung
 upper lobe of lung	UBERON:0008948	upper lobe of lung
 upper lobe of right lung	UBERON:0002170	upper lobe of right lung
+upper lobe of the left lung	UBERON:0008952	upper lobe of left lung
 upper lobe of the lung	UBERON:0008948	upper lobe of lung
+upper lobe of the right lung	UBERON:0002170	upper lobe of right lung
 upper lobe, lung	UBERON:0008948	upper lobe of lung
 upper respiratory tract	UBERON:0001557	upper respiratory tract
 upper respiratory tract, nos	UBERON:0001557	upper respiratory tract

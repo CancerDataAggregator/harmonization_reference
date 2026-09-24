@@ -2,6 +2,7 @@ unharmonized value	harmonized value
 abnormal	tumor
 additional - new primary	tumor
 additional metastatic	tumor
+adjacent non-tumor	normal
 anterior	null
 blood derived normal	normal
 bone marrow normal	normal
@@ -24,6 +25,7 @@ peri-location	null
 peritumoral	normal
 posterior	null
 premalignant	tumor
+primary	tumor
 primary solid tumor	tumor
 primary tumor	tumor
 primary_tumor	tumor
