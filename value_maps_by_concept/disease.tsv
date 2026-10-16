@@ -1863,7 +1863,7 @@ liposarcoma, nos	8850/3	Liposarcoma, NOS	DOID:3382	liposarcoma	C3194
 liposarcoma, well differentiated	8851/3	Liposarcoma, well differentiated, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 liver (organoid)	null	null	null	null	null
 liver - fibrolamellar hepatocellular carcinoma	8171/3	Hepatocellular carcinoma, fibrolamellar	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
-liver cancer	8070/3	Squamous cell carcinoma, NOS	DOID:1749	squamous cell carcinoma	C2929
+liver cancer	8170/3	Squamous cell carcinoma, NOS	DOID:1749	squamous cell carcinoma	C2929
 liver hepatocellular carcinoma	8170/3	Hepatocellular carcinoma, NOS	DOID:684	hepatocellular carcinoma	C3099
 lobular adenocarcinoma	8520/3	Lobular carcinoma, NOS	DOID:0050938	breast lobular carcinoma	C3771
 lobular and ductal carcinoma	8522/3	Infiltrating duct and lobular carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
