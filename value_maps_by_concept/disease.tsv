@@ -809,9 +809,9 @@ acute monoblastic and monocytic leukemia	9891/3	Acute monocytic leukemia	DOID:88
 acute monoblastic leukemia	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
 acute monocytic leukemia	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
 acute myeloid leukaemia, t(8;21)(q22;q22)	9896/3	Acute myeloid leukaemia, t(8;21)(q22;q22)			
-acute myeloid leukemia	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
-acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); rbm15-mkl1	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
-acute myeloid leukemia mll	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
+acute myeloid leukemia	9861/3	Acute myeloid leukemia, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
+acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); rbm15-mkl1	9911/3	Acute myeloid leukemia, megakaryoblastic, with t(1;22)(p13;q13); RBM15-MKL1			
+acute myeloid leukemia mll	9872/3	Acute myeloid leukemia, MLL			
 acute myeloid leukemia not otherwise specified	9861/3	Acute myeloid leukemia, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 acute myeloid leukemia w/o maturation	9873/3	Acute myeloid leukemia without maturation	DOID:0081086	acute myeloid leukemia without maturation	C3249
 acute myeloid leukemia with abnormal marrow eosinophils	9871/3	Acute myeloid leukemia with abnormal marrow eosinophils	DOID:0081084	acute myeloid leukemia with inv(16)(p13.1q22) or t(16;16)(p13.1;q22)	__CDA_UNASSIGNED__
@@ -2474,7 +2474,7 @@ paratesticular rhabdomyosarcoma with diffuse anaplasia	8900/3	Rhabdomyosarcoma, 
 paratesticular rhabdomyosarcoma, favor embryonal	8900/3	Rhabdomyosarcoma, NOS	DOID:3247	rhabdomyosarcoma	C3359
 paratesticular spindle cell/sclerosing rhabdomyosarcoma	8912/3	Spindle cell rhabdomyosarcoma	DOID:3260	spindle cell rhabdomyosarcoma	C6519
 parosteal osteosarcoma	9192/3	Parosteal osteosarcoma	DOID:3373	parosteal osteosarcoma	C8969
-pathologically confirmed¬†lung adenocarcinoma	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
+pathologically confirmed¬¨‚Ä†lung adenocarcinoma	8140/3	Adenocarcinoma, NOS	DOID:299	adenocarcinoma	C2852
 pediatric neuroepithelial tumor with ros1 fusion	9503/3	Neuroepithelioma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pediatric type diffuse glioma with angiocentric pattern	9385/3	Diffuse midline glioma, H3 K27M-mutant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 pediatric type diffuse low grad astrocytoma, consistent with methylation array finding suggestive of myb/mybl1-altered (cns who grade 1)	9400/3	Astrocytoma, NOS	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
