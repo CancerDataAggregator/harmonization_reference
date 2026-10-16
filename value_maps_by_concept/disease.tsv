@@ -808,7 +808,7 @@ acute megakaryoblastic leukemia	9910/3	Acute megakaryoblastic leukemia	DOID:8761
 acute monoblastic and monocytic leukemia	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
 acute monoblastic leukemia	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
 acute monocytic leukemia	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
-acute myeloid leukaemia, t(8;21)(q22;q22)	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
+acute myeloid leukaemia, t(8;21)(q22;q22)	9896/3	Acute myeloid leukaemia, t(8;21)(q22;q22)	
 acute myeloid leukemia	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
 acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); rbm15-mkl1	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
 acute myeloid leukemia mll	9891/3	Acute monocytic leukemia	DOID:8864	acute monocytic leukemia	C4861
@@ -2344,7 +2344,7 @@ nodular melanoma	8721/3	Nodular melanoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	_
 nodular spindle neoplasm	8000/1	Neoplasm, uncertain whether benign or malignant	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 non small cell lung cancer	8046/3	Non-small cell carcinoma	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__	__CDA_UNASSIGNED__
 non-cancer	null	null	null	null	null
-non-clear cell renal cell carcinoma	8312/3	Renal cell carcinoma, NOS	DOID:305	carcinoma	C2916;C3709
+non-clear cell renal cell carcinoma	8312/3	Renal cell carcinoma, NOS	DOID:4450	carcinoma	C2916;C3709
 non-diseased	null	null	null	null	null
 non-germinomatous germ cell tumor	9064/3	Germinoma	DOID:3304	germinoma	__CDA_UNASSIGNED__
 non-seminoma; choriocarcinoma	9100/3	Choriocarcinoma, NOS	DOID:3594	choriocarcinoma	C2948
