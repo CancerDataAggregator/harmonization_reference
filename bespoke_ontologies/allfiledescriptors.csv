@@ -1,0 +1,347 @@
+"type","format","category","count"
+Registration,DICOM,,1768
+Aggregated Somatic Mutation,MAF,Simple Nucleotide Variation,44770
+Parametric Map Storage,DICOM,Other Modality,691
+,CRAM,,158
+Real World Value Map,DICOM,,60
+Document,PDF,Other Metadata,66
+,ZIP,Variant Call File,1
+,BAI,Index File,1034
+,TAR,,8
+Raw Data Storage,DICOM,Magnetic Resonance,999
+Segmentation Storage,DICOM,Segmentation,190146
+,BW,RNA-Seq,83
+,Microsoft Excel,,417
+,GenBank,,1
+,VCF,Targeted-Capture,27
+Slide Microscopy,SVS,,1329
+Text,CSV,Supplementary Data,2
+Biospecimen Supplement,BCR PPS XML,Biospecimen,568
+Gene Expression Quantification,MEX,Transcriptome Profiling,90
+,HDF5,,187
+,FASTQ,scRNA-Seq,2187
+,BAM,RNA Sequence File,405
+,TXT,Targeted-Capture,30
+Text,TSV,Spectral Library,3
+,BAM,WGA,4
+,BAM,Whole Genome Sequence File,205
+Digital Radiography,DICOM,,1
+Secondary Capture Image Storage,DICOM,Positron emission tomography,38
+Document,TXT,Other Metadata,18
+,SEG,Targeted-Capture,2
+RT Plan Storage,DICOM,RT Plan,484
+Comprehensive SR Storage,DICOM,Structured Report Document,2118
+,SAS binary,,10
+,TXT,WGS,50266
+,DICT,,2
+,TXT,ATAC-Seq,138
+Digital X-Ray Image Storage - For Presentation,DICOM,Computed Radiography,2
+X-Ray Angiographic Image Storage,DICOM,X-Ray Angiography,34
+,MAF,WGS,10900
+Comprehensive 3D SR Storage,DICOM,Structured Report Document,5408
+Clinical Supplement,Microsoft Excel,,44
+,DICOM,Radiology Imaging,7568
+RT Structure Set,DICOM,,8080
+,IDAT,,4390
+Slide Microscopy,TIFF,,24386
+Masked Copy Number Segment,TXT,Copy Number Variation,22629
+Annotated Somatic Mutation,MAF,Simple Nucleotide Variation,100437
+Biospecimen Supplement,CDC JSON,Biospecimen,516
+,FASTQ,AMPLICON,640
+Digital X-Ray Image Storage - For Presentation,DICOM,Digital Radiography,3701
+Advanced Blending Presentation State Storage,DICOM,Presentation State,107
+,TSV,Bulk RNA-Seq,924
+Breast Projection X-Ray Image Storage - For Presentation,DICOM,Mammography,204
+,TSV,,190
+Ultrasound Multi-frame Image Storage,DICOM,Ultrasound,1847
+,PDF,RNA-Seq,1331
+,CNS,Targeted-Capture,1
+CT Image Storage,DICOM,X-Ray Angiography,1
+Archive,ZIP,Alternate Processing Pipeline,5
+Isoform Expression Quantification,TSV,Transcriptome Profiling,8638
+Archive,TAR.GZ,Alternate Processing Pipeline,12
+Document,PDF,Publication Supplementary Material,4
+,BED,,11
+Gene Level Copy Number,TSV,Copy Number Variation,41083
+,CRAI,Targeted-Capture,25873
+Document,PDF,Protein Assembly,1
+,CRAI,,161
+Secondary Capture Image Storage,DICOM,Computed Radiography,1
+Open Standard,mzML,Processed Mass Spectra,50492
+,BAM,scRNA-Seq,416
+X-Ray Radiation Dose SR Storage,DICOM,Structured Report Document,1
+Somatic Mutation Index,TBI,Simple Nucleotide Variation,329081
+,JSON,,8294
+,ZIP,Variant Report,1
+Intermediate Analysis Archive,TAR,Copy Number Variation,18167
+Text,FASTA,Publication Supplementary Material,2
+,TXT,miRNA-Seq,15
+Breast Projection X-Ray Image Storage - For Processing,DICOM,Mammography,209
+RT Dose Storage,DICOM,RT Dose,524
+,BAI,AMPLICON,311
+,FASTQ,Bulk RNA-Seq,1897
+,Microsoft Excel,Supplemental Data File,15
+Positron emission tomography,DICOM,,6505
+Raw Intensities,CEL,Transcriptome Profiling,1426
+,GVCF,WGS,832
+Somatic Mutation Index,TBI,Somatic Structural Variation,32136
+RT Plan,DICOM,,2071
+CT Image Storage,DICOM,Positron emission tomography,9
+Text,TSV,Alternate Processing Pipeline,32
+Transcript Fusion,TSV,Structural Variation,52797
+,CNS,WGS,414
+,PDF,Bulk RNA-Seq,77
+Structural Rearrangement,BEDPE,Somatic Structural Variation,24609
+,TBI,,16
+,BAM,RNA-Seq,6420
+,TBI,WXS,914
+,TXT,,1986
+Tissue Microarray Image,SVS,Biospecimen,110
+,PDF,,2605
+,FASTQ,WXS,52680
+,SEG,WXS,475
+,SVS,,82
+,TAR,WGS,50
+,FASTQ,Targeted-Capture,13650
+,FASTQ,WGS,2980
+,TSV,Supplemental Data File,1
+,BAM,AMPLICON,2557
+Biospecimen Supplement,TSV,Biospecimen,42
+Microscopy Bulk Simple Annotations Storage,DICOM,Annotation,7102
+,VCF,,1363
+,Apache Parquet,WGS,3105
+Biospecimen Supplement,BCR Auxiliary XML,Biospecimen,2884
+Masked Somatic Mutation,MAF,Simple Nucleotide Variation,26766
+Archive,ZIP,Publication Supplementary Material,22
+VL Whole Slide Microscopy Image Storage,DICOM,Slide Microscopy,76299
+Structured Report Document,DICOM,,1056
+CT Image Storage,DICOM,Segmentation,12
+Text,TSV,Supplementary Data,6
+CT Image Storage,DICOM,Other Modality,8
+,OpenDocument text,,2
+Isoform Expression Quantification,TXT,Transcriptome Profiling,11661
+,TSV,Targeted-Capture,4
+,GVCF,Targeted-Capture,1
+,CRAI,WGS,7885
+,FASTQ,mRNA-Seq,615
+,Microsoft Word,,60
+,PDF,Variant Report,84
+,TSV,AMPLICON,298
+Aligned Reads Index,BAI,Raw Sequencing Data,107
+,HTML,RNA-Seq,32
+,CRAI,Bulk RNA-Seq,77
+,BAM,ATAC-Seq,507
+Digital Mammography X-Ray Image Storage - For Processing,DICOM,Mammography,7979
+RT Structure Set Storage,DICOM,RT Structure Set,19358
+Document,PDF,Quality Metrics,1
+Biospecimen Supplement,BCR Biotab,Biospecimen,357
+,BAI,WGA,4
+,CEL,Affymetrix GeneChip Analysis File,117
+,SPSS,,11
+,BAM,WGS,3737
+Skyline Document,SKYLINE,Skyline document,1
+,RData,,1
+,FASTQ,snATAC-Seq,156
+,TSV,WXS,692
+Slide Microscopy,MCD,,24
+,EMF,,3
+Transcript Fusion,BEDPE,Structural Variation,55158
+Clinical Supplement,BCR XML,,11815
+Clinical Supplement,CDC JSON,,3211
+Tissue Microarray Image,JPEG,Biospecimen,28
+,PNG,Targeted-Capture,3
+Key Object Selection Document Storage,DICOM,Key Object Selection,40
+,FASTQ,ATAC-Seq,3559
+,PNG,WGS,2425
+,TXT,RNA-Seq,3082
+,CSV,Supplemental Data File,3
+,CSV,,5630
+,TAR,RNA-Seq,331
+,JSON,Bulk RNA-Seq,19
+,TSV,scRNA Sequence File,2
+Document,Microsoft Excel,Supplementary Data,15
+,CRAI,RNA-Seq,596
+,OpenDocument spreadsheet,,82
+,FASTQ,scDNA-Seq,1615
+Gene Expression Quantification,TSV,Transcriptome Profiling,28225
+,BEDGRAPH,Bisulfite-Seq,51
+Secondary Capture Image Storage,DICOM,Ultrasound,1
+,PDF,Targeted-Capture,5
+,PDF,Supplemental Data File,3
+,BAM,Archer Fusion,3737
+,FASTQ,WGA,191
+,GIF,,47
+Text,TSV,Peptide Spectral Matches,45425
+,SAS,,22
+Aligned Reads Index,BAI,Sequencing Reads,171813
+,CNS,WXS,316
+,TAR,Bulk RNA-Seq,77
+,BAM,Bulk RNA-Seq,895
+,R,,2
+,VCF,WXS,9530
+Digital X-Ray Image Storage - For Processing,DICOM,Digital Radiography,11
+Open Standard,TXT,Peptide Spectral Matches,900
+,CSV,WXS,313
+,BAI,mRNA-Seq,2
+,SVG,WXS,39
+Text,TSV,Quality Metrics,158
+,VCF,AMPLICON,258
+Proprietary,,Raw Mass Spectra,58954
+,Microsoft Word,Pathology Report,8
+Web,HTML,Quality Metrics,170
+,CRAM,Bulk RNA-Seq,77
+Secondary Capture Image Storage,DICOM,Nuclear Medicine,5
+Biospecimen Supplement,BCR SSF XML,Biospecimen,10755
+,BAM,Whole Exome Sequence File,374
+,HTML,WXS,287
+Clinical Supplement,TSV,,97
+,JPEG,,2138
+Breast Tomosynthesis Image Storage,DICOM,Mammography,26292
+Database,SQLITE3,Spectral Library,1
+,CRAM,WGS,7894
+Splice Junction Quantification,TSV,Transcriptome Profiling,28225
+,BAM,,5415
+,BAI,RNA-Seq,235
+Secondary Capture Image Storage,DICOM,External-camera Photography,4
+Proprietary,idpDB,Publication Supplementary Material,7
+,JSON,Archer Fusion,1539
+Document,TXT,Publication Supplementary Material,2
+Simple Germline Variation,TSV,Simple Nucleotide Variation,23135
+,GraphPad Prism,,36
+,PNG,WXS,404
+,ZIP,File Collection,1
+Single Cell Analysis,HDF5,Transcriptome Profiling,44
+Proprietary,,Spectral Library,45
+Raw Data Storage,DICOM,Computed Tomography,399
+,HDF5,scH5 Matrix File,1
+,PDF,Pathology Report,57
+,GVCF,WXS,66
+,BAI,,552
+Grayscale Softcopy Presentation State Storage,DICOM,Presentation State,1086
+Open Standard,CDF,Processed Mass Spectra,171
+Methylation Beta Value,TXT,DNA Methylation,20610
+Document,Microsoft Excel,Publication Supplementary Material,5
+,TXT,AMPLICON,947
+Text,TXT,Protein Assembly,348
+Biospecimen Supplement,Microsoft Excel,Biospecimen,29
+Computed Tomography,DICOM,,16890
+,JSON,WXS,9447
+Slide Image,SVS,Biospecimen,35753
+Pathology Report,PDF,,11324
+,SEG,WGS,920
+,MAF,Targeted-Capture,10
+,TSV,RNA-Seq,7535
+,BAM,scDNA-Seq,1419
+Document,Microsoft Excel,Other Metadata,160
+Digital microscopy,ZIP,,735
+,RDS,,2
+X-Ray Radiofluoroscopic Image Storage,DICOM,Radiofluoroscopy,12
+,VCF,Variant Call File,162
+Raw CGI Variant,VCF,Combined Nucleotide Variation,581
+Open Standard,mzIdentML,Peptide Spectral Matches,46325
+,JSON,AMPLICON,3
+,HTML,,4940
+,TBI,Index File,77
+,FASTA,,27
+,TIFF,,1646
+,PDF,WXS,3661
+,MAF,WXS,2389
+Structural Rearrangement,BEDPE,Structural Variation,7520
+,BAM,mRNA-Seq,2
+,VCF,WGS,36779
+Annotated Somatic Mutation,VCF,Simple Nucleotide Variation,155973
+,FASTQ,miRNA-Seq,231
+Clinical Supplement,BCR Biotab,,245
+Secondary Capture Image Storage,DICOM,Mammography,9538
+,MAF,,1
+,TXT,Bulk RNA-Seq,2181
+Document,TSV,Other Metadata,19
+Secondary Capture Image Storage,DICOM,Other Modality,10
+,BAI,Bulk RNA-Seq,474
+Acquisition Context SR Storage,DICOM,Structured Report Document,277
+,CRAM,WXS,26059
+Slide Image,JPEG,Biospecimen,187
+,BAM,WXS,8347
+CT Image Storage,DICOM,,18
+MR Image Storage,DICOM,Magnetic Resonance,123481
+Other Modality,DICOM,,4
+,CRAM,RNA-Seq,596
+Secondary Capture Image Storage,DICOM,Magnetic Resonance,692
+,TXT,WXS,6714
+Enhanced SR Storage,DICOM,Structured Report Document,262883
+,ZIP,RNA-Seq,7
+,ZIP,Radiology Imaging,1
+Document,Microsoft Word,Other Metadata,63
+,FASTQ,,14439
+,Microsoft Word,Study Protocol,8
+,PED,WXS,14
+,GCT,,69
+,HTML,AMPLICON,261
+,FASTQ,Spatial-tx,8
+,PDF,Archer Fusion,2150
+,NanoString RCC,NanoString nCounter Canine IO Analysis File,115
+Copy Number Segment,TXT,Copy Number Variation,40796
+,RDS,RNA-Seq,3
+,TIFF,Pathology Report,3
+Clinical Supplement,BCR OMF XML,,1051
+Magnetic Resonance,DICOM,,42747
+,Apache Parquet,,10
+CT Image Storage,DICOM,Computed Tomography,266184
+Allele-specific Copy Number Segment,TXT,Copy Number Variation,30415
+Masked Intensities,IDAT,DNA Methylation,41220
+Secondary Capture Image Storage,DICOM,Computed Tomography,583
+Structural Rearrangement,VCF,Somatic Structural Variation,32137
+,HIC,RNA-Seq,34
+Differential Gene Expression,TSV,Transcriptome Profiling,44
+Positron Emission Tomography Image Storage,DICOM,Positron emission tomography,4862
+,PDF,WGS,7959
+,BAM,Spatial-tx,2
+Web,TSV,Quality Metrics,6
+,FASTQ,RNA-Seq,13839
+,TXT,Archer Fusion,3688
+,CRAM,Targeted-Capture,25873
+,TBI,WGS,7558
+,HTML,WGS,4213
+Single Cell Analysis,TSV,Transcriptome Profiling,44
+,Microsoft PowerPoint,,6
+Ultrasound Image Storage,DICOM,Ultrasound,73
+,STATA,,11
+Raw Simple Somatic Mutation,VCF,Simple Nucleotide Variation,175876
+,CRAI,WXS,26064
+Real World Value Mapping Storage,DICOM,Real World Value Map,20
+Encapsulated STL Storage,DICOM,"3D Manufacturing Modeling System",2328
+Nuclear Medicine,DICOM,,4
+Archive,TAR.GZ,Publication Supplementary Material,37
+Segmentation,DICOM,,2210
+,FASTQ,RNA Sequence File,398
+,BAI,WGS,684
+miRNA Expression Quantification,TXT,Transcriptome Profiling,11661
+,PNG,,1266
+Computed Radiography Image Storage,DICOM,Computed Radiography,12413
+,BAI,Archer Fusion,3737
+Raw Intensities,CEL,Copy Number Variation,24236
+Nuclear Medicine Image Storage,DICOM,Nuclear Medicine,95
+,TSV,WGS,3618
+,TSV,scATAC Sequence File,1
+Biospecimen Supplement,BCR XML,Biospecimen,13279
+Multi-frame Grayscale Byte Secondary Capture Image Storage,DICOM,Ultrasound,320
+Archive,ZIP,Raw Mass Spectra,88
+,PED,WGS,2100
+Digital Mammography X-Ray Image Storage - For Presentation,DICOM,Mammography,3903
+,FASTQ,Bisulfite-Seq,620
+,NIFTI,,1835
+,HTML,Bulk RNA-Seq,358
+Spatial Registration Storage,DICOM,Registration,97
+Text,TSV,Protein Assembly,657
+Positron Emission Tomography Image Storage,DICOM,Computed Tomography,2
+,CSV,WGS,8380
+Aligned Reads,BAM,Sequencing Reads,199548
+,AVI,,3
+,BAI,ATAC-Seq,25
+,BAM,DNA Methylation Analysis File,92
+miRNA Expression Quantification,TSV,Transcriptome Profiling,8638
+Protein Expression Quantification,TSV,Proteome Profiling,7906
+,RTF,Pathology Report,14
+RT Dose,DICOM,,2419
+,PED,,13
+,BAI,WXS,749

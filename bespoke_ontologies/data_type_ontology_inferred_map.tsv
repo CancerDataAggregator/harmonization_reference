@@ -1,0 +1,58 @@
+file format	file category	inferred harmonized value	term_id	file_count
+BAI	Archer Fusion	Aligned Reads Index	CDA_DT:0000046	3737
+BAI	Index File	Aligned Reads Index	CDA_DT:0000046	1034
+BAI	WXS	Aligned Reads Index	CDA_DT:0000046	749
+BAI	WGS	Aligned Reads Index	CDA_DT:0000046	684
+BAI		Aligned Reads Index	CDA_DT:0000046	552
+BAI	Bulk RNA-Seq	Aligned Reads Index	CDA_DT:0000046	474
+BAI	AMPLICON	Aligned Reads Index	CDA_DT:0000046	311
+BAI	RNA-Seq	Aligned Reads Index	CDA_DT:0000046	235
+BAI	ATAC-Seq	Aligned Reads Index	CDA_DT:0000046	25
+BAI	WGA	Aligned Reads Index	CDA_DT:0000046	4
+BAI	mRNA-Seq	Aligned Reads Index	CDA_DT:0000046	2
+BAM	WXS	Aligned Reads	CDA_DT:0000045	8347
+BAM	RNA-Seq	Aligned Reads	CDA_DT:0000045	6420
+BAM		Aligned Reads	CDA_DT:0000045	5415
+BAM	WGS	Aligned Reads	CDA_DT:0000045	3737
+BAM	Archer Fusion	Aligned Reads	CDA_DT:0000045	3737
+BAM	AMPLICON	Aligned Reads	CDA_DT:0000045	2557
+BAM	scDNA-Seq	Aligned Reads	CDA_DT:0000045	1419
+BAM	Bulk RNA-Seq	Aligned Reads	CDA_DT:0000045	895
+BAM	ATAC-Seq	Aligned Reads	CDA_DT:0000045	507
+BAM	scRNA-Seq	Aligned Reads	CDA_DT:0000045	416
+BAM	RNA Sequence File	Aligned Reads	CDA_DT:0000045	405
+BAM	Whole Exome Sequence File	Aligned Reads	CDA_DT:0000045	374
+BAM	Whole Genome Sequence File	Aligned Reads	CDA_DT:0000045	205
+BAM	DNA Methylation Analysis File	Aligned Reads	CDA_DT:0000045	92
+BAM	WGA	Aligned Reads	CDA_DT:0000045	4
+BAM	mRNA-Seq	Aligned Reads	CDA_DT:0000045	2
+BAM	Spatial-tx	Aligned Reads	CDA_DT:0000045	2
+CRAI	WXS	Aligned Reads Index	CDA_DT:0000046	26064
+CRAI	Targeted-Capture	Aligned Reads Index	CDA_DT:0000046	25873
+CRAI	WGS	Aligned Reads Index	CDA_DT:0000046	7885
+CRAI	RNA-Seq	Aligned Reads Index	CDA_DT:0000046	596
+CRAI		Aligned Reads Index	CDA_DT:0000046	161
+CRAI	Bulk RNA-Seq	Aligned Reads Index	CDA_DT:0000046	77
+CRAM	WXS	Aligned Reads	CDA_DT:0000045	26059
+CRAM	Targeted-Capture	Aligned Reads	CDA_DT:0000045	25873
+CRAM	WGS	Aligned Reads	CDA_DT:0000045	7894
+CRAM	RNA-Seq	Aligned Reads	CDA_DT:0000045	596
+CRAM		Aligned Reads	CDA_DT:0000045	158
+CRAM	Bulk RNA-Seq	Aligned Reads	CDA_DT:0000045	77
+FASTQ	WXS	Raw Sequencing Reads	CDA_DT:0000044	52680
+FASTQ		Raw Sequencing Reads	CDA_DT:0000044	14439
+FASTQ	RNA-Seq	Raw Sequencing Reads	CDA_DT:0000044	13839
+FASTQ	Targeted-Capture	Raw Sequencing Reads	CDA_DT:0000044	13650
+FASTQ	ATAC-Seq	Raw Sequencing Reads	CDA_DT:0000044	3559
+FASTQ	WGS	Raw Sequencing Reads	CDA_DT:0000044	2980
+FASTQ	scRNA-Seq	Raw Sequencing Reads	CDA_DT:0000044	2187
+FASTQ	Bulk RNA-Seq	Raw Sequencing Reads	CDA_DT:0000044	1897
+FASTQ	scDNA-Seq	Raw Sequencing Reads	CDA_DT:0000044	1615
+FASTQ	AMPLICON	Raw Sequencing Reads	CDA_DT:0000044	640
+FASTQ	Bisulfite-Seq	Raw Sequencing Reads	CDA_DT:0000044	620
+FASTQ	mRNA-Seq	Raw Sequencing Reads	CDA_DT:0000044	615
+FASTQ	RNA Sequence File	Raw Sequencing Reads	CDA_DT:0000044	398
+FASTQ	miRNA-Seq	Raw Sequencing Reads	CDA_DT:0000044	231
+FASTQ	WGA	Raw Sequencing Reads	CDA_DT:0000044	191
+FASTQ	snATAC-Seq	Raw Sequencing Reads	CDA_DT:0000044	156
+FASTQ	Spatial-tx	Raw Sequencing Reads	CDA_DT:0000044	8

@@ -1,0 +1,93 @@
+Data Type
+  Imaging
+    Radiology Imaging
+      Computed Tomography   <- [2 collapsed] computed tomography | ct image storage
+      Magnetic Resonance   <- [2 collapsed] magnetic resonance | mr image storage
+      Positron Emission Tomography   <- [2 collapsed] positron emission tomography | positron emission tomography image storage
+      Nuclear Medicine   <- [2 collapsed] nuclear medicine | nuclear medicine image storage
+      Ultrasound   <- [2 collapsed] ultrasound image storage | ultrasound multi-frame image storage
+      Computed Radiography   <- computed radiography image storage
+      Radiofluoroscopy   <- x-ray radiofluoroscopic image storage
+      X-Ray Angiography   <- x-ray angiographic image storage
+      Other Imaging Modality   <- other modality
+      Digital Radiography   <- digital radiography
+        Digital Radiography - For Presentation   <- digital x-ray image storage - for presentation
+        Digital Radiography - For Processing   <- digital x-ray image storage - for processing
+      Mammography
+        Mammography - For Presentation   <- [2 collapsed] digital mammography x-ray image storage - for presentation | breast projection x-ray image storage - for presentation
+        Mammography - For Processing   <- [2 collapsed] digital mammography x-ray image storage - for processing | breast projection x-ray image storage - for processing
+        Breast Tomosynthesis   <- breast tomosynthesis image storage
+    Microscopy Imaging
+      Slide Image   <- [4 collapsed] slide image | digital microscopy | slide microscopy | vl whole slide microscopy image storage
+        Tissue Microarray Image   <- tissue microarray image
+    Radiotherapy Data
+      Radiotherapy Dose   <- [2 collapsed] rt dose | rt dose storage
+      Radiotherapy Plan   <- [2 collapsed] rt plan | rt plan storage
+      Radiotherapy Structure Set   <- [2 collapsed] rt structure set | rt structure set storage
+    Image-Derived Objects
+      Segmentation   <- [2 collapsed] segmentation | segmentation storage
+      Registration   <- [2 collapsed] registration | spatial registration storage
+      Real World Value Map   <- [2 collapsed] real world value map | real world value mapping storage
+      Secondary Capture   <- [2 collapsed] secondary capture image storage | multi-frame grayscale byte secondary capture image storage
+      Parametric Map   <- parametric map storage
+      Key Object Selection   <- key object selection document storage
+      Annotation   <- microscopy bulk simple annotations storage
+      3D Model   <- encapsulated stl storage
+      Raw Imaging Data   <- raw data storage
+      Structured Report   <- [5 collapsed] structured report document | enhanced sr storage | comprehensive sr storage | comprehensive 3d sr storage | acquisition context sr storage
+        Radiation Dose Report   <- x-ray radiation dose sr storage
+      Presentation State
+        Grayscale Softcopy Presentation State   <- grayscale softcopy presentation state storage
+        Advanced Blending Presentation State   <- advanced blending presentation state storage
+  Molecular Data
+    Sequencing Reads
+      Raw Sequencing Reads
+      Aligned Reads   <- aligned reads
+      Aligned Reads Index   <- aligned reads index
+    Sequence Variation
+      Somatic Mutation
+        Raw Somatic Mutation   <- raw simple somatic mutation
+        Annotated Somatic Mutation   <- annotated somatic mutation
+        Masked Somatic Mutation   <- masked somatic mutation
+        Aggregated Somatic Mutation   <- aggregated somatic mutation
+      Somatic Variant Index   <- somatic mutation index
+      Germline Variation   <- simple germline variation
+      Combined Nucleotide Variation   <- raw cgi variant
+      Structural Variation   <- structural rearrangement
+      Transcript Fusion   <- transcript fusion
+      Copy Number
+        Copy Number Segment   <- copy number segment
+        Masked Copy Number Segment   <- masked copy number segment
+        Allele-Specific Copy Number Segment   <- allele-specific copy number segment
+        Gene Level Copy Number   <- gene level copy number
+    Expression Profiling
+      Gene Expression Quantification   <- gene expression quantification
+        Differential Gene Expression   <- differential gene expression
+      Isoform Expression Quantification   <- isoform expression quantification
+      miRNA Expression Quantification   <- mirna expression quantification
+      Splice Junction Quantification   <- splice junction quantification
+      Single Cell Analysis   <- single cell analysis
+    Proteomics
+      Protein Expression Quantification   <- protein expression quantification
+      Skyline Document   <- skyline document
+      Mass Spectra
+        Raw Mass Spectra
+        Processed Mass Spectra
+      Peptide Spectral Matches
+      Protein Assembly
+      Spectral Library
+      Alternate Pipeline Output
+    Epigenomics
+      DNA Methylation
+        Methylation Beta Value   <- methylation beta value
+    Array Intensities
+      Raw Intensities   <- raw intensities
+      Masked Intensities   <- masked intensities
+    Intermediate Analysis Archive   <- intermediate analysis archive
+  Reports and Supplements
+    Clinical Supplement   <- clinical supplement
+    Biospecimen Supplement   <- biospecimen supplement
+    Pathology Report   <- pathology report
+    Supplementary Material
+    Quality Metrics Report
+  Content Not Specified   <- [7 collapsed] archive | database | document | open standard | proprietary | text | web

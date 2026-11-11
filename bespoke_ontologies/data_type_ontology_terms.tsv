@@ -1,0 +1,94 @@
+term_id	label	parent_id	parent_label	term_type	depth	definition	synonyms	mapped_raw_values
+CDA_DT:0000001	Data Type			root	0	Root of the CDA data type ontology. A data type describes what kind of content a file holds, independent of its file format and of the experimental strategy used to produce it.		
+CDA_DT:0000002	Imaging	CDA_DT:0000001	Data Type	category	1	Files whose primary content is image data, or objects derived from or attached to images.		
+CDA_DT:0000003	Radiology Imaging	CDA_DT:0000002	Imaging	concept	2	Images acquired by radiological modalities (x-ray, CT, MR, nuclear medicine, ultrasound).		
+CDA_DT:0000004	Computed Tomography	CDA_DT:0000003	Radiology Imaging	leaf	3	Cross-sectional x-ray images reconstructed from rotational projections.	CT	computed tomography|ct image storage
+CDA_DT:0000005	Magnetic Resonance	CDA_DT:0000003	Radiology Imaging	leaf	3	Images acquired using nuclear magnetic resonance.	MR|MRI	magnetic resonance|mr image storage
+CDA_DT:0000006	Positron Emission Tomography	CDA_DT:0000003	Radiology Imaging	leaf	3	Images of radiotracer distribution acquired by detecting positron annihilation photons.	PET	positron emission tomography|positron emission tomography image storage
+CDA_DT:0000007	Nuclear Medicine	CDA_DT:0000003	Radiology Imaging	leaf	3	Planar and SPECT images of radiopharmaceutical uptake acquired with a gamma camera.	NM	nuclear medicine|nuclear medicine image storage
+CDA_DT:0000008	Ultrasound	CDA_DT:0000003	Radiology Imaging	leaf	3	Images formed from reflected high-frequency sound waves. Single-frame and multi-frame storage classes are the same data type.	US	ultrasound image storage|ultrasound multi-frame image storage
+CDA_DT:0000009	Computed Radiography	CDA_DT:0000003	Radiology Imaging	leaf	3	Projection x-ray images captured on photostimulable phosphor plates.	CR	computed radiography image storage
+CDA_DT:0000010	Radiofluoroscopy	CDA_DT:0000003	Radiology Imaging	leaf	3	Real-time or cine x-ray images used in fluoroscopic procedures.	RF|Fluoroscopy	x-ray radiofluoroscopic image storage
+CDA_DT:0000011	X-Ray Angiography	CDA_DT:0000003	Radiology Imaging	leaf	3	X-ray images of contrast-filled blood vessels.	XA	x-ray angiographic image storage
+CDA_DT:0000012	Other Imaging Modality	CDA_DT:0000003	Radiology Imaging	leaf	3	Images from a modality not otherwise represented in this ontology.		other modality
+CDA_DT:0000013	Digital Radiography	CDA_DT:0000003	Radiology Imaging	concept	3	Projection x-ray images captured on a digital detector.	DX	digital radiography
+CDA_DT:0000014	Digital Radiography - For Presentation	CDA_DT:0000013	Digital Radiography	leaf	4	Digital x-ray images processed and ready for display.		digital x-ray image storage - for presentation
+CDA_DT:0000015	Digital Radiography - For Processing	CDA_DT:0000013	Digital Radiography	leaf	4	Digital x-ray images before display processing is applied.		digital x-ray image storage - for processing
+CDA_DT:0000016	Mammography	CDA_DT:0000003	Radiology Imaging	concept	3	Projection and tomosynthesis x-ray images of the breast.	MG	
+CDA_DT:0000017	Mammography - For Presentation	CDA_DT:0000016	Mammography	leaf	4	Breast projection images processed and ready for display.		digital mammography x-ray image storage - for presentation|breast projection x-ray image storage - for presentation
+CDA_DT:0000018	Mammography - For Processing	CDA_DT:0000016	Mammography	leaf	4	Breast projection images before display processing is applied.		digital mammography x-ray image storage - for processing|breast projection x-ray image storage - for processing
+CDA_DT:0000019	Breast Tomosynthesis	CDA_DT:0000016	Mammography	leaf	4	Pseudo-3D breast images reconstructed from multiple low-dose projections.		breast tomosynthesis image storage
+CDA_DT:0000020	Microscopy Imaging	CDA_DT:0000002	Imaging	concept	2	Images of tissue or cells acquired by light microscopy.		
+CDA_DT:0000021	Slide Image	CDA_DT:0000020	Microscopy Imaging	concept	3	Digitized microscope slide image, including whole-slide images, however labelled by the source.	Whole Slide Image|WSI|SM	slide image|digital microscopy|slide microscopy|vl whole slide microscopy image storage
+CDA_DT:0000022	Tissue Microarray Image	CDA_DT:0000021	Slide Image	leaf	4	Image of a tissue microarray slide carrying many small tissue cores.	TMA	tissue microarray image
+CDA_DT:0000023	Radiotherapy Data	CDA_DT:0000002	Imaging	concept	2	DICOM radiotherapy objects that accompany treatment-planning imaging.		
+CDA_DT:0000024	Radiotherapy Dose	CDA_DT:0000023	Radiotherapy Data	leaf	3	Calculated spatial dose distribution (dose grid) for a radiotherapy plan.	RTDOSE	rt dose|rt dose storage
+CDA_DT:0000025	Radiotherapy Plan	CDA_DT:0000023	Radiotherapy Data	leaf	3	Prescription, beam and fraction definitions for a radiotherapy treatment.	RTPLAN	rt plan|rt plan storage
+CDA_DT:0000026	Radiotherapy Structure Set	CDA_DT:0000023	Radiotherapy Data	leaf	3	Contoured regions of interest (targets, organs at risk) for radiotherapy planning.	RTSTRUCT	rt structure set|rt structure set storage
+CDA_DT:0000027	Image-Derived Objects	CDA_DT:0000002	Imaging	concept	2	Objects that annotate, transform, display or are derived from images.		
+CDA_DT:0000028	Segmentation	CDA_DT:0000027	Image-Derived Objects	leaf	3	Labeled regions delineated on an image.	SEG	segmentation|segmentation storage
+CDA_DT:0000029	Registration	CDA_DT:0000027	Image-Derived Objects	leaf	3	Spatial transformation relating one image frame of reference to another.	REG	registration|spatial registration storage
+CDA_DT:0000030	Real World Value Map	CDA_DT:0000027	Image-Derived Objects	leaf	3	Mapping from stored pixel values to real-world physical quantities.		real world value map|real world value mapping storage
+CDA_DT:0000031	Secondary Capture	CDA_DT:0000027	Image-Derived Objects	leaf	3	Images created from a non-DICOM source or screen capture, with limited acquisition metadata.	SC	secondary capture image storage|multi-frame grayscale byte secondary capture image storage
+CDA_DT:0000032	Parametric Map	CDA_DT:0000027	Image-Derived Objects	leaf	3	Image-like grid of derived quantitative values (for example perfusion or ADC maps).		parametric map storage
+CDA_DT:0000033	Key Object Selection	CDA_DT:0000027	Image-Derived Objects	leaf	3	A flagged subset of images or objects with a reason for selection.	KO	key object selection document storage
+CDA_DT:0000034	Annotation	CDA_DT:0000027	Image-Derived Objects	leaf	3	Markup or measurements attached to an image.		microscopy bulk simple annotations storage
+CDA_DT:0000035	3D Model	CDA_DT:0000027	Image-Derived Objects	leaf	3	Three-dimensional surface or manufacturing model.	STL	encapsulated stl storage
+CDA_DT:0000036	Raw Imaging Data	CDA_DT:0000027	Image-Derived Objects	leaf	3	Unreconstructed acquisition data from an imaging device.		raw data storage
+CDA_DT:0000037	Structured Report	CDA_DT:0000027	Image-Derived Objects	concept	3	DICOM structured report encoding findings or measurements as coded content. All general SR storage classes are the same data type. Filed under Imaging because the format (DICOM), the source category and the source system all place it there.	SR	structured report document|enhanced sr storage|comprehensive sr storage|comprehensive 3d sr storage|acquisition context sr storage
+CDA_DT:0000038	Radiation Dose Report	CDA_DT:0000037	Structured Report	leaf	4	Structured report summarising x-ray radiation dose delivered during an imaging procedure.	RDSR	x-ray radiation dose sr storage
+CDA_DT:0000039	Presentation State	CDA_DT:0000027	Image-Derived Objects	concept	3	Instructions for how an image should be displayed.	PR	
+CDA_DT:0000040	Grayscale Softcopy Presentation State	CDA_DT:0000039	Presentation State	leaf	4	Window, annotation and shutter instructions for grayscale display.		grayscale softcopy presentation state storage
+CDA_DT:0000041	Advanced Blending Presentation State	CDA_DT:0000039	Presentation State	leaf	4	Instructions for blending multiple image series into one display.		advanced blending presentation state storage
+CDA_DT:0000042	Molecular Data	CDA_DT:0000001	Data Type	category	1	Files whose primary content is molecular measurements or calls derived from them.		
+CDA_DT:0000043	Sequencing Reads	CDA_DT:0000042	Molecular Data	concept	2	Sequencing reads, aligned or not, and their indexes.		
+CDA_DT:0000044	Raw Sequencing Reads	CDA_DT:0000043	Sequencing Reads	leaf	3	Unaligned reads as produced by the sequencer (FASTQ). No source data_type carries this concept; it is reached only through data_type_ontology_inferred_map.tsv.		
+CDA_DT:0000045	Aligned Reads	CDA_DT:0000043	Sequencing Reads	leaf	3	Reads aligned to a reference (for example BAM, CRAM).		aligned reads
+CDA_DT:0000046	Aligned Reads Index	CDA_DT:0000043	Sequencing Reads	leaf	3	Random-access index accompanying an aligned reads file (BAI, CRAI).		aligned reads index
+CDA_DT:0000047	Sequence Variation	CDA_DT:0000042	Molecular Data	concept	2	Variant calls and variant-derived products.		
+CDA_DT:0000048	Somatic Mutation	CDA_DT:0000047	Sequence Variation	concept	3	Tumor-specific small variants (SNVs and indels). Children distinguish pipeline stage.		
+CDA_DT:0000049	Raw Somatic Mutation	CDA_DT:0000048	Somatic Mutation	leaf	4	Unfiltered somatic variant calls from a caller.		raw simple somatic mutation
+CDA_DT:0000050	Annotated Somatic Mutation	CDA_DT:0000048	Somatic Mutation	leaf	4	Somatic variant calls with functional annotation.		annotated somatic mutation
+CDA_DT:0000051	Masked Somatic Mutation	CDA_DT:0000048	Somatic Mutation	leaf	4	Somatic variant calls with sensitive or germline-like sites removed for open distribution.		masked somatic mutation
+CDA_DT:0000052	Aggregated Somatic Mutation	CDA_DT:0000048	Somatic Mutation	leaf	4	Somatic variant calls merged across multiple samples.		aggregated somatic mutation
+CDA_DT:0000053	Somatic Variant Index	CDA_DT:0000047	Sequence Variation	leaf	3	Index (TBI) accompanying a somatic variant VCF. Covers both small variants and structural variants (about 9% of these files are indexes of structural variant calls), so it is not filed under Somatic Mutation.		somatic mutation index
+CDA_DT:0000054	Germline Variation	CDA_DT:0000047	Sequence Variation	leaf	3	Inherited small variants.		simple germline variation
+CDA_DT:0000055	Combined Nucleotide Variation	CDA_DT:0000047	Sequence Variation	leaf	3	Variant calls that do not separate germline from somatic origin.		raw cgi variant
+CDA_DT:0000056	Structural Variation	CDA_DT:0000047	Sequence Variation	leaf	3	Large rearrangements such as deletions, duplications, inversions and translocations.		structural rearrangement
+CDA_DT:0000057	Transcript Fusion	CDA_DT:0000047	Sequence Variation	leaf	3	Chimeric transcripts joining two genes.		transcript fusion
+CDA_DT:0000058	Copy Number	CDA_DT:0000047	Sequence Variation	concept	3	Gain or loss of genomic segments or genes. Children distinguish segment type and masking.		
+CDA_DT:0000059	Copy Number Segment	CDA_DT:0000058	Copy Number	leaf	4	Genomic segments with an estimated copy number.		copy number segment
+CDA_DT:0000060	Masked Copy Number Segment	CDA_DT:0000058	Copy Number	leaf	4	Copy number segments with germline-associated regions removed.		masked copy number segment
+CDA_DT:0000061	Allele-Specific Copy Number Segment	CDA_DT:0000058	Copy Number	leaf	4	Copy number segments resolved by parental allele.		allele-specific copy number segment
+CDA_DT:0000062	Gene Level Copy Number	CDA_DT:0000058	Copy Number	leaf	4	Copy number summarized per gene.		gene level copy number
+CDA_DT:0000063	Expression Profiling	CDA_DT:0000042	Molecular Data	concept	2	Quantified abundance of RNA transcripts.		
+CDA_DT:0000064	Gene Expression Quantification	CDA_DT:0000063	Expression Profiling	concept	3	Per-gene expression values.		gene expression quantification
+CDA_DT:0000065	Differential Gene Expression	CDA_DT:0000064	Gene Expression Quantification	leaf	4	Gene expression differences between conditions or groups.		differential gene expression
+CDA_DT:0000066	Isoform Expression Quantification	CDA_DT:0000063	Expression Profiling	leaf	3	Per-isoform expression values.		isoform expression quantification
+CDA_DT:0000067	miRNA Expression Quantification	CDA_DT:0000063	Expression Profiling	leaf	3	Per-miRNA expression values.		mirna expression quantification
+CDA_DT:0000068	Splice Junction Quantification	CDA_DT:0000063	Expression Profiling	leaf	3	Read support per splice junction.		splice junction quantification
+CDA_DT:0000069	Single Cell Analysis	CDA_DT:0000063	Expression Profiling	leaf	3	Processed single-cell measurement products.		single cell analysis
+CDA_DT:0000070	Proteomics	CDA_DT:0000042	Molecular Data	concept	2	Measurements of protein abundance and mass-spectrometry results.		
+CDA_DT:0000071	Protein Expression Quantification	CDA_DT:0000070	Proteomics	leaf	3	Per-protein abundance values.		protein expression quantification
+CDA_DT:0000072	Skyline Document	CDA_DT:0000070	Proteomics	leaf	3	Skyline targeted-proteomics project file.		skyline document
+CDA_DT:0000073	Mass Spectra	CDA_DT:0000070	Proteomics	concept	3	Spectra recorded by a mass spectrometer.		
+CDA_DT:0000074	Raw Mass Spectra	CDA_DT:0000073	Mass Spectra	leaf	4	Vendor-format spectra as acquired, before conversion.		
+CDA_DT:0000075	Processed Mass Spectra	CDA_DT:0000073	Mass Spectra	leaf	4	Spectra converted to an open format (mzML, CDF).		
+CDA_DT:0000076	Peptide Spectral Matches	CDA_DT:0000070	Proteomics	leaf	3	Assignments of peptides to spectra (mzIdentML and search-engine tables).		
+CDA_DT:0000077	Protein Assembly	CDA_DT:0000070	Proteomics	leaf	3	Protein-level inference built from peptide identifications.		
+CDA_DT:0000078	Spectral Library	CDA_DT:0000070	Proteomics	leaf	3	Reference collection of peptide spectra used for matching.		
+CDA_DT:0000079	Alternate Pipeline Output	CDA_DT:0000070	Proteomics	leaf	3	Results of a re-analysis with a non-standard processing pipeline.		
+CDA_DT:0000080	Epigenomics	CDA_DT:0000042	Molecular Data	concept	2	Measurements of chromatin and DNA modification state.		
+CDA_DT:0000081	DNA Methylation	CDA_DT:0000080	Epigenomics	concept	3	Methylation level measurements.		
+CDA_DT:0000082	Methylation Beta Value	CDA_DT:0000081	DNA Methylation	leaf	4	Per-probe methylation beta values (0 to 1).		methylation beta value
+CDA_DT:0000083	Array Intensities	CDA_DT:0000042	Molecular Data	concept	2	Per-probe signal intensities from a microarray scan.		
+CDA_DT:0000084	Raw Intensities	CDA_DT:0000083	Array Intensities	leaf	3	Unfiltered scanner output (CEL) from Affymetrix arrays, used for copy number and expression profiling, not methylation.		raw intensities
+CDA_DT:0000085	Masked Intensities	CDA_DT:0000083	Array Intensities	leaf	3	Illumina methylation array intensities (IDAT).		masked intensities
+CDA_DT:0000086	Intermediate Analysis Archive	CDA_DT:0000042	Molecular Data	leaf	2	Bundle (TAR) of intermediate pipeline outputs not intended as a final data product. In the current data all of these are from copy number pipelines.		intermediate analysis archive
+CDA_DT:0000087	Reports and Supplements	CDA_DT:0000001	Data Type	category	1	Documents describing patients, specimens or findings.		
+CDA_DT:0000088	Clinical Supplement	CDA_DT:0000087	Reports and Supplements	leaf	2	Submitted clinical data file.		clinical supplement
+CDA_DT:0000089	Biospecimen Supplement	CDA_DT:0000087	Reports and Supplements	leaf	2	Submitted biospecimen data file.		biospecimen supplement
+CDA_DT:0000090	Pathology Report	CDA_DT:0000087	Reports and Supplements	leaf	2	Report of a pathologist's findings.		pathology report
+CDA_DT:0000091	Supplementary Material	CDA_DT:0000087	Reports and Supplements	leaf	2	Author-supplied supporting documents and tables (spreadsheets, Word, PDF, text). Reached via the context map only.		
+CDA_DT:0000092	Quality Metrics Report	CDA_DT:0000087	Reports and Supplements	leaf	2	Report of quality-control metrics for a run or sample. Reached via the context map only.		
+CDA_DT:0000093	Content Not Specified	CDA_DT:0000001	Data Type	leaf	1	Fallback for source values that describe a file's format, licensing or container rather than its data content. These 7 values are all from PDC, and the file category resolves them (see data_type_ontology_context_map.tsv). Use this term only when no category is available.		archive|database|document|open standard|proprietary|text|web

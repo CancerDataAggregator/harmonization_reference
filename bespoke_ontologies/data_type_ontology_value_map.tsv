@@ -1,0 +1,92 @@
+unharmonized value	harmonized value	term_id	parent_value	top_category
+acquisition context sr storage	Structured Report	CDA_DT:0000037	Image-Derived Objects	Imaging
+advanced blending presentation state storage	Advanced Blending Presentation State	CDA_DT:0000041	Presentation State	Imaging
+aggregated somatic mutation	Aggregated Somatic Mutation	CDA_DT:0000052	Somatic Mutation	Molecular Data
+aligned reads	Aligned Reads	CDA_DT:0000045	Sequencing Reads	Molecular Data
+aligned reads index	Aligned Reads Index	CDA_DT:0000046	Sequencing Reads	Molecular Data
+allele-specific copy number segment	Allele-Specific Copy Number Segment	CDA_DT:0000061	Copy Number	Molecular Data
+annotated somatic mutation	Annotated Somatic Mutation	CDA_DT:0000050	Somatic Mutation	Molecular Data
+archive	Content Not Specified	CDA_DT:0000093		Content Not Specified
+biospecimen supplement	Biospecimen Supplement	CDA_DT:0000089	Reports and Supplements	Reports and Supplements
+breast projection x-ray image storage - for presentation	Mammography - For Presentation	CDA_DT:0000017	Mammography	Imaging
+breast projection x-ray image storage - for processing	Mammography - For Processing	CDA_DT:0000018	Mammography	Imaging
+breast tomosynthesis image storage	Breast Tomosynthesis	CDA_DT:0000019	Mammography	Imaging
+clinical supplement	Clinical Supplement	CDA_DT:0000088	Reports and Supplements	Reports and Supplements
+comprehensive 3d sr storage	Structured Report	CDA_DT:0000037	Image-Derived Objects	Imaging
+comprehensive sr storage	Structured Report	CDA_DT:0000037	Image-Derived Objects	Imaging
+computed radiography image storage	Computed Radiography	CDA_DT:0000009	Radiology Imaging	Imaging
+computed tomography	Computed Tomography	CDA_DT:0000004	Radiology Imaging	Imaging
+copy number segment	Copy Number Segment	CDA_DT:0000059	Copy Number	Molecular Data
+ct image storage	Computed Tomography	CDA_DT:0000004	Radiology Imaging	Imaging
+database	Content Not Specified	CDA_DT:0000093		Content Not Specified
+differential gene expression	Differential Gene Expression	CDA_DT:0000065	Gene Expression Quantification	Molecular Data
+digital mammography x-ray image storage - for presentation	Mammography - For Presentation	CDA_DT:0000017	Mammography	Imaging
+digital mammography x-ray image storage - for processing	Mammography - For Processing	CDA_DT:0000018	Mammography	Imaging
+digital microscopy	Slide Image	CDA_DT:0000021	Microscopy Imaging	Imaging
+digital radiography	Digital Radiography	CDA_DT:0000013	Radiology Imaging	Imaging
+digital x-ray image storage - for presentation	Digital Radiography - For Presentation	CDA_DT:0000014	Digital Radiography	Imaging
+digital x-ray image storage - for processing	Digital Radiography - For Processing	CDA_DT:0000015	Digital Radiography	Imaging
+document	Content Not Specified	CDA_DT:0000093		Content Not Specified
+encapsulated stl storage	3D Model	CDA_DT:0000035	Image-Derived Objects	Imaging
+enhanced sr storage	Structured Report	CDA_DT:0000037	Image-Derived Objects	Imaging
+gene expression quantification	Gene Expression Quantification	CDA_DT:0000064	Expression Profiling	Molecular Data
+gene level copy number	Gene Level Copy Number	CDA_DT:0000062	Copy Number	Molecular Data
+grayscale softcopy presentation state storage	Grayscale Softcopy Presentation State	CDA_DT:0000040	Presentation State	Imaging
+intermediate analysis archive	Intermediate Analysis Archive	CDA_DT:0000086	Molecular Data	Molecular Data
+isoform expression quantification	Isoform Expression Quantification	CDA_DT:0000066	Expression Profiling	Molecular Data
+key object selection document storage	Key Object Selection	CDA_DT:0000033	Image-Derived Objects	Imaging
+magnetic resonance	Magnetic Resonance	CDA_DT:0000005	Radiology Imaging	Imaging
+masked copy number segment	Masked Copy Number Segment	CDA_DT:0000060	Copy Number	Molecular Data
+masked intensities	Masked Intensities	CDA_DT:0000085	Array Intensities	Molecular Data
+masked somatic mutation	Masked Somatic Mutation	CDA_DT:0000051	Somatic Mutation	Molecular Data
+methylation beta value	Methylation Beta Value	CDA_DT:0000082	DNA Methylation	Molecular Data
+microscopy bulk simple annotations storage	Annotation	CDA_DT:0000034	Image-Derived Objects	Imaging
+mirna expression quantification	miRNA Expression Quantification	CDA_DT:0000067	Expression Profiling	Molecular Data
+mr image storage	Magnetic Resonance	CDA_DT:0000005	Radiology Imaging	Imaging
+multi-frame grayscale byte secondary capture image storage	Secondary Capture	CDA_DT:0000031	Image-Derived Objects	Imaging
+nuclear medicine	Nuclear Medicine	CDA_DT:0000007	Radiology Imaging	Imaging
+nuclear medicine image storage	Nuclear Medicine	CDA_DT:0000007	Radiology Imaging	Imaging
+open standard	Content Not Specified	CDA_DT:0000093		Content Not Specified
+other modality	Other Imaging Modality	CDA_DT:0000012	Radiology Imaging	Imaging
+parametric map storage	Parametric Map	CDA_DT:0000032	Image-Derived Objects	Imaging
+pathology report	Pathology Report	CDA_DT:0000090	Reports and Supplements	Reports and Supplements
+positron emission tomography	Positron Emission Tomography	CDA_DT:0000006	Radiology Imaging	Imaging
+positron emission tomography image storage	Positron Emission Tomography	CDA_DT:0000006	Radiology Imaging	Imaging
+proprietary	Content Not Specified	CDA_DT:0000093		Content Not Specified
+protein expression quantification	Protein Expression Quantification	CDA_DT:0000071	Proteomics	Molecular Data
+raw cgi variant	Combined Nucleotide Variation	CDA_DT:0000055	Sequence Variation	Molecular Data
+raw data storage	Raw Imaging Data	CDA_DT:0000036	Image-Derived Objects	Imaging
+raw intensities	Raw Intensities	CDA_DT:0000084	Array Intensities	Molecular Data
+raw simple somatic mutation	Raw Somatic Mutation	CDA_DT:0000049	Somatic Mutation	Molecular Data
+real world value map	Real World Value Map	CDA_DT:0000030	Image-Derived Objects	Imaging
+real world value mapping storage	Real World Value Map	CDA_DT:0000030	Image-Derived Objects	Imaging
+registration	Registration	CDA_DT:0000029	Image-Derived Objects	Imaging
+rt dose	Radiotherapy Dose	CDA_DT:0000024	Radiotherapy Data	Imaging
+rt dose storage	Radiotherapy Dose	CDA_DT:0000024	Radiotherapy Data	Imaging
+rt plan	Radiotherapy Plan	CDA_DT:0000025	Radiotherapy Data	Imaging
+rt plan storage	Radiotherapy Plan	CDA_DT:0000025	Radiotherapy Data	Imaging
+rt structure set	Radiotherapy Structure Set	CDA_DT:0000026	Radiotherapy Data	Imaging
+rt structure set storage	Radiotherapy Structure Set	CDA_DT:0000026	Radiotherapy Data	Imaging
+secondary capture image storage	Secondary Capture	CDA_DT:0000031	Image-Derived Objects	Imaging
+segmentation	Segmentation	CDA_DT:0000028	Image-Derived Objects	Imaging
+segmentation storage	Segmentation	CDA_DT:0000028	Image-Derived Objects	Imaging
+simple germline variation	Germline Variation	CDA_DT:0000054	Sequence Variation	Molecular Data
+single cell analysis	Single Cell Analysis	CDA_DT:0000069	Expression Profiling	Molecular Data
+skyline document	Skyline Document	CDA_DT:0000072	Proteomics	Molecular Data
+slide image	Slide Image	CDA_DT:0000021	Microscopy Imaging	Imaging
+slide microscopy	Slide Image	CDA_DT:0000021	Microscopy Imaging	Imaging
+somatic mutation index	Somatic Variant Index	CDA_DT:0000053	Sequence Variation	Molecular Data
+spatial registration storage	Registration	CDA_DT:0000029	Image-Derived Objects	Imaging
+splice junction quantification	Splice Junction Quantification	CDA_DT:0000068	Expression Profiling	Molecular Data
+structural rearrangement	Structural Variation	CDA_DT:0000056	Sequence Variation	Molecular Data
+structured report document	Structured Report	CDA_DT:0000037	Image-Derived Objects	Imaging
+text	Content Not Specified	CDA_DT:0000093		Content Not Specified
+tissue microarray image	Tissue Microarray Image	CDA_DT:0000022	Slide Image	Imaging
+transcript fusion	Transcript Fusion	CDA_DT:0000057	Sequence Variation	Molecular Data
+ultrasound image storage	Ultrasound	CDA_DT:0000008	Radiology Imaging	Imaging
+ultrasound multi-frame image storage	Ultrasound	CDA_DT:0000008	Radiology Imaging	Imaging
+vl whole slide microscopy image storage	Slide Image	CDA_DT:0000021	Microscopy Imaging	Imaging
+web	Content Not Specified	CDA_DT:0000093		Content Not Specified
+x-ray angiographic image storage	X-Ray Angiography	CDA_DT:0000011	Radiology Imaging	Imaging
+x-ray radiation dose sr storage	Radiation Dose Report	CDA_DT:0000038	Structured Report	Imaging
+x-ray radiofluoroscopic image storage	Radiofluoroscopy	CDA_DT:0000010	Radiology Imaging	Imaging

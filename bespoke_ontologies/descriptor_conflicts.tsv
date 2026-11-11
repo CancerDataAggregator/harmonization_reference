@@ -1,0 +1,30 @@
+conflict_kind	type	format	category	file_count	ontology_term	note
+category_domain	Slide Image	SVS	Biospecimen	35753	Slide Image	category is document, type is imaging
+category_domain	Slide Image	JPEG	Biospecimen	187	Slide Image	category is document, type is imaging
+category_domain	Tissue Microarray Image	SVS	Biospecimen	110	Tissue Microarray Image	category is document, type is imaging
+category_domain	Tissue Microarray Image	JPEG	Biospecimen	28	Tissue Microarray Image	category is document, type is imaging
+category_minority	Aligned Reads Index	BAI	Raw Sequencing Data	107	Aligned Reads Index	dominant category is 'Sequencing Reads'
+category_minority	Secondary Capture Image Storage	DICOM	Positron emission tomography	38	Secondary Capture	dominant category is 'Mammography'
+category_minority	CT Image Storage	DICOM	Segmentation	12	Computed Tomography	dominant category is 'Computed Tomography'
+category_minority	Secondary Capture Image Storage	DICOM	Other Modality	10	Secondary Capture	dominant category is 'Mammography'
+category_minority	CT Image Storage	DICOM	Positron emission tomography	9	Computed Tomography	dominant category is 'Computed Tomography'
+category_minority	CT Image Storage	DICOM	Other Modality	8	Computed Tomography	dominant category is 'Computed Tomography'
+category_minority	Secondary Capture Image Storage	DICOM	Nuclear Medicine	5	Secondary Capture	dominant category is 'Mammography'
+category_minority	Secondary Capture Image Storage	DICOM	External-camera Photography	4	Secondary Capture	dominant category is 'Mammography'
+category_minority	Digital X-Ray Image Storage - For Presentation	DICOM	Computed Radiography	2	Digital Radiography - For Presentation	dominant category is 'Digital Radiography'
+category_minority	Positron Emission Tomography Image Storage	DICOM	Computed Tomography	2	Positron Emission Tomography	dominant category is 'Positron emission tomography'
+category_minority	Secondary Capture Image Storage	DICOM	Computed Radiography	1	Secondary Capture	dominant category is 'Mammography'
+category_minority	Secondary Capture Image Storage	DICOM	Ultrasound	1	Secondary Capture	dominant category is 'Mammography'
+category_minority	CT Image Storage	DICOM	X-Ray Angiography	1	Computed Tomography	dominant category is 'Computed Tomography'
+format_domain	Digital microscopy	ZIP	(none)	735	Slide Image	non-imaging format under an imaging type
+format_minority	Biospecimen Supplement	BCR PPS XML	Biospecimen	568	Biospecimen Supplement	dominant format is 'BCR XML'
+format_minority	Biospecimen Supplement	CDC JSON	Biospecimen	516	Biospecimen Supplement	dominant format is 'BCR XML'
+format_minority	Biospecimen Supplement	BCR Biotab	Biospecimen	357	Biospecimen Supplement	dominant format is 'BCR XML'
+format_minority	Clinical Supplement	BCR Biotab	(none)	245	Clinical Supplement	dominant format is 'BCR XML'
+format_minority	Slide Image	JPEG	Biospecimen	187	Slide Image	dominant format is 'SVS'
+format_minority	Clinical Supplement	TSV	(none)	97	Clinical Supplement	dominant format is 'BCR XML'
+format_minority	Gene Expression Quantification	MEX	Transcriptome Profiling	90	Gene Expression Quantification	dominant format is 'TSV'
+format_minority	Clinical Supplement	Microsoft Excel	(none)	44	Clinical Supplement	dominant format is 'BCR XML'
+format_minority	Biospecimen Supplement	TSV	Biospecimen	42	Biospecimen Supplement	dominant format is 'BCR XML'
+format_minority	Biospecimen Supplement	Microsoft Excel	Biospecimen	29	Biospecimen Supplement	dominant format is 'BCR XML'
+format_minority	Slide Microscopy	MCD	(none)	24	Slide Image	dominant format is 'TIFF'
