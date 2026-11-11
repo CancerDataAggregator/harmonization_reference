@@ -9,7 +9,7 @@ Status:
 |anatomic\_site|100|UBERON|
 |cause\_of\_death|100|CDA-created|
 |data\_category|0||
-|data\_type|0||
+|data\_type|100|CDA-created|
 |disease|100|ICD-0-3|
 |ethnicity|100|US Census |
 |file\_format|100|CDA-created|

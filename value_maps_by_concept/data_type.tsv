@@ -1,92 +1,92 @@
 unharmonized value	harmonized value
-acquisition context sr storage	__CDA_UNASSIGNED__
-advanced blending presentation state storage	__CDA_UNASSIGNED__
-aggregated somatic mutation	__CDA_UNASSIGNED__
-aligned reads	__CDA_UNASSIGNED__
-aligned reads index	__CDA_UNASSIGNED__
-allele-specific copy number segment	__CDA_UNASSIGNED__
-annotated somatic mutation	__CDA_UNASSIGNED__
-archive	__CDA_UNASSIGNED__
-biospecimen supplement	__CDA_UNASSIGNED__
-breast projection x-ray image storage - for presentation	__CDA_UNASSIGNED__
-breast projection x-ray image storage - for processing	__CDA_UNASSIGNED__
-breast tomosynthesis image storage	__CDA_UNASSIGNED__
-clinical supplement	__CDA_UNASSIGNED__
-comprehensive 3d sr storage	__CDA_UNASSIGNED__
-comprehensive sr storage	__CDA_UNASSIGNED__
-computed radiography image storage	__CDA_UNASSIGNED__
-computed tomography	__CDA_UNASSIGNED__
-copy number segment	__CDA_UNASSIGNED__
-ct image storage	__CDA_UNASSIGNED__
-database	__CDA_UNASSIGNED__
-differential gene expression	__CDA_UNASSIGNED__
-digital mammography x-ray image storage - for presentation	__CDA_UNASSIGNED__
-digital mammography x-ray image storage - for processing	__CDA_UNASSIGNED__
-digital microscopy	__CDA_UNASSIGNED__
-digital radiography	__CDA_UNASSIGNED__
-digital x-ray image storage - for presentation	__CDA_UNASSIGNED__
-digital x-ray image storage - for processing	__CDA_UNASSIGNED__
-document	__CDA_UNASSIGNED__
-encapsulated stl storage	__CDA_UNASSIGNED__
-enhanced sr storage	__CDA_UNASSIGNED__
-gene expression quantification	__CDA_UNASSIGNED__
-gene level copy number	__CDA_UNASSIGNED__
-grayscale softcopy presentation state storage	__CDA_UNASSIGNED__
-intermediate analysis archive	__CDA_UNASSIGNED__
-isoform expression quantification	__CDA_UNASSIGNED__
-key object selection document storage	__CDA_UNASSIGNED__
-magnetic resonance	__CDA_UNASSIGNED__
-masked copy number segment	__CDA_UNASSIGNED__
-masked intensities	__CDA_UNASSIGNED__
-masked somatic mutation	__CDA_UNASSIGNED__
-methylation beta value	__CDA_UNASSIGNED__
-microscopy bulk simple annotations storage	__CDA_UNASSIGNED__
-mirna expression quantification	__CDA_UNASSIGNED__
-mr image storage	__CDA_UNASSIGNED__
-multi-frame grayscale byte secondary capture image storage	__CDA_UNASSIGNED__
-nuclear medicine	__CDA_UNASSIGNED__
-nuclear medicine image storage	__CDA_UNASSIGNED__
-open standard	__CDA_UNASSIGNED__
-other modality	__CDA_UNASSIGNED__
-parametric map storage	__CDA_UNASSIGNED__
-pathology report	__CDA_UNASSIGNED__
-positron emission tomography	__CDA_UNASSIGNED__
-positron emission tomography image storage	__CDA_UNASSIGNED__
-proprietary	__CDA_UNASSIGNED__
-protein expression quantification	__CDA_UNASSIGNED__
-raw cgi variant	__CDA_UNASSIGNED__
-raw data storage	__CDA_UNASSIGNED__
-raw intensities	__CDA_UNASSIGNED__
-raw simple somatic mutation	__CDA_UNASSIGNED__
-real world value map	__CDA_UNASSIGNED__
-real world value mapping storage	__CDA_UNASSIGNED__
-registration	__CDA_UNASSIGNED__
-rt dose	__CDA_UNASSIGNED__
-rt dose storage	__CDA_UNASSIGNED__
-rt plan	__CDA_UNASSIGNED__
-rt plan storage	__CDA_UNASSIGNED__
-rt structure set	__CDA_UNASSIGNED__
-rt structure set storage	__CDA_UNASSIGNED__
-secondary capture image storage	__CDA_UNASSIGNED__
-segmentation	__CDA_UNASSIGNED__
-segmentation storage	__CDA_UNASSIGNED__
-simple germline variation	__CDA_UNASSIGNED__
-single cell analysis	__CDA_UNASSIGNED__
-skyline document	__CDA_UNASSIGNED__
-slide image	__CDA_UNASSIGNED__
-slide microscopy	__CDA_UNASSIGNED__
-somatic mutation index	__CDA_UNASSIGNED__
-spatial registration storage	__CDA_UNASSIGNED__
-splice junction quantification	__CDA_UNASSIGNED__
-structural rearrangement	__CDA_UNASSIGNED__
-structured report document	__CDA_UNASSIGNED__
-text	__CDA_UNASSIGNED__
-tissue microarray image	__CDA_UNASSIGNED__
-transcript fusion	__CDA_UNASSIGNED__
-ultrasound image storage	__CDA_UNASSIGNED__
-ultrasound multi-frame image storage	__CDA_UNASSIGNED__
-vl whole slide microscopy image storage	__CDA_UNASSIGNED__
-web	__CDA_UNASSIGNED__
-x-ray angiographic image storage	__CDA_UNASSIGNED__
-x-ray radiation dose sr storage	__CDA_UNASSIGNED__
-x-ray radiofluoroscopic image storage	__CDA_UNASSIGNED__
+acquisition context sr storage	Structured Report
+advanced blending presentation state storage	Advanced Blending Presentation State
+aggregated somatic mutation	Aggregated Somatic Mutation
+aligned reads	Aligned Reads
+aligned reads index	Aligned Reads Index
+allele-specific copy number segment	Allele-Specific Copy Number Segment
+annotated somatic mutation	Annotated Somatic Mutation
+archive	null
+biospecimen supplement	Biospecimen Supplement
+breast projection x-ray image storage - for presentation	Mammography - For Presentation
+breast projection x-ray image storage - for processing	Mammography - For Processing
+breast tomosynthesis image storage	Breast Tomosynthesis
+clinical supplement	Clinical Supplement
+comprehensive 3d sr storage	Structured Report
+comprehensive sr storage	Structured Report
+computed radiography image storage	Computed Radiography
+computed tomography	Computed Tomography
+copy number segment	Copy Number Segment
+ct image storage	Computed Tomography
+database	null
+differential gene expression	Differential Gene Expression
+digital mammography x-ray image storage - for presentation	Mammography - For Presentation
+digital mammography x-ray image storage - for processing	Mammography - For Processing
+digital microscopy	Slide Image
+digital radiography	Digital Radiography
+digital x-ray image storage - for presentation	Digital Radiography - For Presentation
+digital x-ray image storage - for processing	Digital Radiography - For Processing
+document	null
+encapsulated stl storage	3D Model
+enhanced sr storage	Structured Report
+gene expression quantification	Gene Expression Quantification
+gene level copy number	Gene Level Copy Number
+grayscale softcopy presentation state storage	Grayscale Softcopy Presentation State
+intermediate analysis archive	Intermediate Analysis Archive
+isoform expression quantification	Isoform Expression Quantification
+key object selection document storage	Key Object Selection
+magnetic resonance	Magnetic Resonance
+masked copy number segment	Masked Copy Number Segment
+masked intensities	Masked Intensities
+masked somatic mutation	Masked Somatic Mutation
+methylation beta value	Methylation Beta Value
+microscopy bulk simple annotations storage	Annotation
+mirna expression quantification	miRNA Expression Quantification
+mr image storage	Magnetic Resonance
+multi-frame grayscale byte secondary capture image storage	Secondary Capture
+nuclear medicine	Nuclear Medicine
+nuclear medicine image storage	Nuclear Medicine
+open standard	null
+other modality	Other Imaging Modality
+parametric map storage	Parametric Map
+pathology report	Pathology Report
+positron emission tomography	Positron Emission Tomography
+positron emission tomography image storage	Positron Emission Tomography
+proprietary	null
+protein expression quantification	Protein Expression Quantification
+raw cgi variant	Combined Nucleotide Variation
+raw data storage	Raw Imaging Data
+raw intensities	Raw Intensities
+raw simple somatic mutation	Raw Somatic Mutation
+real world value map	Real World Value Map
+real world value mapping storage	Real World Value Map
+registration	Registration
+rt dose	Radiotherapy Dose
+rt dose storage	Radiotherapy Dose
+rt plan	Radiotherapy Plan
+rt plan storage	Radiotherapy Plan
+rt structure set	Radiotherapy Structure Set
+rt structure set storage	Radiotherapy Structure Set
+secondary capture image storage	Secondary Capture
+segmentation	Segmentation
+segmentation storage	Segmentation
+simple germline variation	Germline Variation
+single cell analysis	Single Cell Analysis
+skyline document	Skyline Document
+slide image	Slide Image
+slide microscopy	Slide Image
+somatic mutation index	Somatic Variant Index
+spatial registration storage	Registration
+splice junction quantification	Splice Junction Quantification
+structural rearrangement	Structural Variation
+structured report document	Structured Report
+text	null
+tissue microarray image	Tissue Microarray Image
+transcript fusion	Transcript Fusion
+ultrasound image storage	Ultrasound
+ultrasound multi-frame image storage	Ultrasound
+vl whole slide microscopy image storage	Slide Image
+web	null
+x-ray angiographic image storage	X-Ray Angiography
+x-ray radiation dose sr storage	Radiation Dose Report
+x-ray radiofluoroscopic image storage	Radiofluoroscopy
